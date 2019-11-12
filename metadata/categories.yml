@@ -1,4 +1,4 @@
-accessibility:
+﻿accessibility:
   icons:
     - accessible-icon
     - american-sign-language-interpreting
@@ -19,7 +19,10 @@ accessibility:
   label: Accessibility
 alert:
   icons:
+    - alarm-clock
+    - alarm-exclamation
     - bell
+    - bell-exclamation
     - bell-school-slash
     - bell-slash
     - bells
@@ -63,6 +66,7 @@ animals:
     - hippo
     - horse
     - horse-head
+    - horse-saddle
     - kiwi-bird
     - monkey
     - narwhal
@@ -76,6 +80,7 @@ animals:
     - rabbit-fast
     - ram
     - sheep
+    - skull-cow
     - snake
     - spider
     - spider-black-widow
@@ -230,12 +235,27 @@ arrows:
     - sign-out-alt
     - sort
     - sort-alpha-down
+    - sort-alpha-down-alt
     - sort-alpha-up
+    - sort-alpha-up-alt
+    - sort-alt
     - sort-amount-down
+    - sort-amount-down-alt
     - sort-amount-up
+    - sort-amount-up-alt
     - sort-down
     - sort-numeric-down
+    - sort-numeric-down-alt
     - sort-numeric-up
+    - sort-numeric-up-alt
+    - sort-shapes-down
+    - sort-shapes-down-alt
+    - sort-shapes-up
+    - sort-shapes-up-alt
+    - sort-size-down
+    - sort-size-down-alt
+    - sort-size-up
+    - sort-size-up-alt
     - sort-up
     - sync
     - sync-alt
@@ -248,15 +268,27 @@ arrows:
   label: Arrows
 audio-video:
   icons:
+    - album
+    - album-collection
+    - amp-guitar
     - audio-description
     - backward
+    - betamax
+    - boombox
     - broadcast-tower
+    - camcorder
+    - camera-movie
+    - camera-polaroid
     - circle
     - closed-captioning
+    - cloud-music
     - compress
     - compress-alt
     - compress-arrows-alt
     - compress-wide
+    - computer-speaker
+    - drone
+    - drone-alt
     - eject
     - expand
     - expand-alt
@@ -269,19 +301,26 @@ audio-video:
     - file-video
     - film
     - film-alt
+    - film-canister
     - forward
+    - head-side-headphones
     - headphones
+    - image-polaroid
     - microphone
     - microphone-alt
     - microphone-alt-slash
     - microphone-slash
+    - microphone-stand
+    - mp3-player
     - music
     - pause
     - pause-circle
     - phone-volume
+    - photo-video
     - play
     - play-circle
     - podcast
+    - projector
     - random
     - rectangle-landscape
     - rectangle-portrait
@@ -295,14 +334,20 @@ audio-video:
     - rss
     - rss-square
     - scrubber
+    - signal-stream
+    - speaker
+    - speakers
     - step-backward
     - step-forward
     - stop
     - stop-circle
     - sync
     - sync-alt
+    - tv
+    - tv-alt
     - undo
     - undo-alt
+    - vhs
     - video
     - volume
     - volume-down
@@ -310,6 +355,8 @@ audio-video:
     - volume-off
     - volume-slash
     - volume-up
+    - waveform
+    - waveform-path
     - webcam
     - webcam-slash
     - youtube
@@ -323,15 +370,19 @@ automotive:
     - car
     - car-alt
     - car-battery
+    - car-building
     - car-bump
+    - car-bus
     - car-crash
     - car-garage
     - car-mechanic
     - car-side
     - car-tilt
     - car-wash
+    - cars
     - charging-station
     - engine-warning
+    - flux-capacitor
     - gas-pump
     - gas-pump-slash
     - motorcycle
@@ -359,6 +410,7 @@ automotive:
     - truck
     - truck-monster
     - truck-pickup
+    - wagon-covered
   label: Automotive
 autumn:
   icons:
@@ -380,6 +432,7 @@ autumn:
     - leaf-oak
     - mountain
     - mountains
+    - mug-tea
     - pie
     - pumpkin
     - shovel
@@ -397,6 +450,7 @@ beverage:
   icons:
     - beer
     - blender
+    - burger-soda
     - cocktail
     - coffee
     - coffee-togo
@@ -406,12 +460,16 @@ beverage:
     - glass
     - glass-champagne
     - glass-cheers
+    - glass-citrus
     - glass-martini
     - glass-martini-alt
     - glass-whiskey
     - glass-whiskey-rocks
+    - jug
+    - mug
     - mug-hot
     - mug-marshmallows
+    - mug-tea
     - wine-bottle
     - wine-glass
     - wine-glass-alt
@@ -421,12 +479,14 @@ buildings:
     - archway
     - building
     - campground
+    - car-building
     - chimney
     - church
     - city
     - clinic-medical
     - container-storage
     - dungeon
+    - farm
     - gopuram
     - home
     - home-alt
@@ -495,6 +555,7 @@ business:
     - coffee
     - columns
     - compass
+    - computer-classic
     - copy
     - copyright
     - cut
@@ -526,6 +587,8 @@ business:
     - landmark
     - marker
     - mind-share
+    - money-check-edit
+    - money-check-edit-alt
     - paperclip
     - paste
     - pen
@@ -537,17 +600,22 @@ business:
     - pencil-alt
     - percent
     - phone
+    - phone-alt
     - phone-office
     - phone-slash
     - phone-square
+    - phone-square-alt
     - phone-volume
     - podium
     - presentation
     - print
     - print-slash
     - project-diagram
+    - projector
     - registered
+    - router
     - save
+    - scanner-image
     - shredder
     - sitemap
     - socks
@@ -568,6 +636,7 @@ camping:
     - acorn
     - axe
     - backpack
+    - biking-mountain
     - binoculars
     - boot
     - campfire
@@ -578,6 +647,7 @@ camping:
     - fire-alt
     - fire-smoke
     - first-aid
+    - flashlight
     - frog
     - hiking
     - map
@@ -626,6 +696,8 @@ charity:
     - home-heart
     - leaf
     - leaf-heart
+    - money-check-edit
+    - money-check-edit-alt
     - parachute-box
     - piggy-bank
     - ribbon
@@ -655,6 +727,7 @@ chat:
     - comment-lines
     - comment-medical
     - comment-minus
+    - comment-music
     - comment-plus
     - comment-slash
     - comment-smile
@@ -662,8 +735,11 @@ chat:
     - comments
     - comments-alt
     - frown
+    - icons
+    - icons-alt
     - meh
     - phone
+    - phone-alt
     - phone-plus
     - phone-slash
     - poo
@@ -694,6 +770,8 @@ chess:
     - chess-queen-alt
     - chess-rook
     - chess-rook-alt
+    - game-board
+    - game-board-alt
     - square-full
   label: Chess
 childhood:
@@ -707,10 +785,15 @@ childhood:
     - bath
     - bell-school
     - bell-school-slash
+    - biking
     - birthday-cake
     - cookie
     - cookie-bite
     - duck
+    - flashlight
+    - game-console-handheld
+    - gamepad
+    - gamepad-alt
     - globe-snow
     - ice-cream
     - mitten
@@ -723,6 +806,8 @@ clothing:
   icons:
     - boot
     - graduation-cap
+    - hat-cowboy
+    - hat-cowboy-side
     - hat-santa
     - hat-winter
     - hat-witch
@@ -761,6 +846,7 @@ code:
     - keyboard
     - laptop-code
     - microchip
+    - phone-laptop
     - project-diagram
     - qrcode
     - shield
@@ -785,6 +871,8 @@ communication:
     - assistive-listening-systems
     - at
     - bell
+    - bell-exclamation
+    - bell-plus
     - bell-slash
     - bluetooth
     - bluetooth-b
@@ -812,12 +900,17 @@ communication:
     - mobile-android-alt
     - paper-plane
     - phone
+    - phone-alt
     - phone-slash
     - phone-square
+    - phone-square-alt
     - phone-volume
     - rss
     - rss-square
+    - signal-stream
     - tty
+    - voicemail
+    - walkie-talkie
     - webcam
     - webcam-slash
     - wifi
@@ -826,9 +919,12 @@ computers:
   icons:
     - brackets
     - brackets-curly
+    - computer-classic
+    - computer-speaker
     - database
     - desktop
     - desktop-alt
+    - disc-drive
     - download
     - ethernet
     - hdd
@@ -841,23 +937,34 @@ computers:
     - mobile-alt
     - mobile-android
     - mobile-android-alt
+    - mouse
+    - mouse-alt
+    - mp3-player
+    - phone-laptop
     - plug
     - power-off
     - print
+    - router
     - satellite
     - satellite-dish
     - save
+    - scanner-image
     - sd-card
     - server
     - sim-card
+    - speaker
+    - speakers
     - stream
     - tablet
     - tablet-alt
     - tablet-android
     - tablet-android-alt
     - tv
+    - tv-music
     - tv-retro
     - upload
+    - usb-drive
+    - watch-calculator
     - webcam
     - webcam-slash
   label: Computers
@@ -865,6 +972,8 @@ construction:
   icons:
     - axe
     - brush
+    - construction
+    - digging
     - drafting-compass
     - dumpster
     - forklift
@@ -893,6 +1002,7 @@ currency:
   icons:
     - bitcoin
     - btc
+    - coin
     - dollar-sign
     - ethereum
     - euro-sign
@@ -921,7 +1031,12 @@ currency:
 date-time:
   icons:
     - alarm-clock
+    - alarm-exclamation
+    - alarm-plus
+    - alarm-snooze
     - bell
+    - bell-exclamation
+    - bell-plus
     - bell-slash
     - calendar
     - calendar-alt
@@ -932,18 +1047,24 @@ date-time:
     - calendar-plus
     - calendar-times
     - clock
+    - flux-capacitor
     - hourglass
     - hourglass-end
     - hourglass-half
     - hourglass-start
+    - snooze
     - stopwatch
     - watch
+    - watch-calculator
   label: Date & Time
 design:
   icons:
     - adjust
     - bezier-curve
+    - bring-forward
+    - bring-front
     - brush
+    - camera-polaroid
     - clone
     - copy
     - crop
@@ -962,6 +1083,10 @@ design:
     - fill
     - fill-drip
     - highlighter
+    - icons
+    - icons-alt
+    - image-polaroid
+    - lasso
     - layer-group
     - layer-minus
     - layer-plus
@@ -985,6 +1110,9 @@ design:
     - ruler-horizontal
     - ruler-vertical
     - save
+    - scanner-image
+    - send-back
+    - send-backward
     - splotch
     - spray-can
     - stamp
@@ -999,7 +1127,22 @@ editors:
     - align-justify
     - align-left
     - align-right
+    - align-slash
     - bold
+    - border-all
+    - border-bottom
+    - border-center-h
+    - border-center-v
+    - border-inner
+    - border-left
+    - border-none
+    - border-outer
+    - border-right
+    - border-style
+    - border-style-alt
+    - border-top
+    - bring-forward
+    - bring-front
     - clipboard
     - clone
     - columns
@@ -1010,15 +1153,22 @@ editors:
     - file
     - file-alt
     - font
+    - font-case
     - glasses
     - h1
     - h2
     - h3
+    - h4
     - heading
     - highlighter
+    - horizontal-rule
     - i-cursor
+    - icons
+    - icons-alt
     - indent
     - italic
+    - kerning
+    - line-columns
     - link
     - list
     - list-alt
@@ -1026,9 +1176,12 @@ editors:
     - list-ul
     - marker
     - outdent
+    - overline
+    - page-break
     - paper-plane
     - paperclip
     - paragraph
+    - paragraph-rtl
     - paste
     - pen
     - pen-alt
@@ -1041,11 +1194,15 @@ editors:
     - quote-right
     - redo
     - redo-alt
+    - remove-format
     - reply
     - reply-all
     - screwdriver
+    - send-back
+    - send-backward
     - share
     - share-all
+    - spell-check
     - strikethrough
     - subscript
     - superscript
@@ -1054,7 +1211,9 @@ editors:
     - table
     - tasks
     - tasks-alt
+    - text
     - text-height
+    - text-size
     - text-width
     - th
     - th-large
@@ -1064,6 +1223,7 @@ editors:
     - trash-alt
     - trash-restore
     - trash-restore-alt
+    - typewriter
     - underline
     - undo
     - undo-alt
@@ -1176,6 +1336,7 @@ energy:
     - sun
     - water
     - wind
+    - wind-turbine
   label: Energy
 files:
   icons:
@@ -1194,15 +1355,18 @@ files:
     - file-exclamation
     - file-image
     - file-minus
+    - file-music
     - file-pdf
     - file-plus
     - file-powerpoint
+    - file-search
     - file-times
     - file-video
     - file-word
     - folder
     - folder-open
     - paste
+    - photo-video
     - save
     - sticky-note
   label: Files
@@ -1220,6 +1384,7 @@ finance:
     - chart-line-down
     - chart-pie
     - chart-pie-alt
+    - coin
     - coins
     - comment-alt-dollar
     - comment-dollar
@@ -1255,6 +1420,8 @@ finance:
 fitness:
   icons:
     - bicycle
+    - biking
+    - biking-mountain
     - book-heart
     - burn
     - fire-alt
@@ -1283,6 +1450,7 @@ food:
     - bone
     - bread-loaf
     - bread-slice
+    - burger-soda
     - burrito
     - candy-cane
     - candy-corn
@@ -1303,6 +1471,7 @@ food:
     - french-fries
     - gingerbread-man
     - hamburger
+    - hat-chef
     - hotdog
     - ice-cream
     - lemon
@@ -1372,11 +1541,13 @@ games:
     - dice-three
     - dice-two
     - dreidel
+    - game-console-handheld
     - gamepad
+    - gamepad-alt
     - ghost
     - headset
     - heart
-    - nintendo-switch
+    - joystick
     - playstation
     - puzzle-piece
     - spade
@@ -1411,6 +1582,8 @@ gaming-tabletop:
     - fist-raised
     - flame
     - flask-potion
+    - game-board
+    - game-board-alt
     - hammer-war
     - hand-holding-magic
     - hat-wizard
@@ -1427,6 +1600,7 @@ gaming-tabletop:
     - shield-cross
     - sickle
     - skull-crossbones
+    - sparkles
     - staff
     - sword
     - swords
@@ -1478,6 +1652,7 @@ halloween:
     - scarecrow
     - scythe
     - skull-crossbones
+    - sparkles
     - spider
     - spider-black-widow
     - spider-web
@@ -1573,11 +1748,15 @@ holiday:
   label: Holiday
 hotel:
   icons:
+    - alarm-clock
+    - alarm-snooze
     - baby-carriage
     - bath
     - bed
     - briefcase
     - car
+    - car-building
+    - car-bus
     - car-garage
     - cocktail
     - coffee
@@ -1586,6 +1765,8 @@ hotel:
     - dice-five
     - door-closed
     - door-open
+    - dryer
+    - dryer-alt
     - dumbbell
     - fireplace
     - glass-martini
@@ -1600,6 +1781,7 @@ hotel:
     - shuttle-van
     - smoking
     - smoking-ban
+    - snooze
     - snowflake
     - spa
     - suitcase
@@ -1607,10 +1789,12 @@ hotel:
     - swimmer
     - swimming-pool
     - tv
+    - tv-alt
     - tv-retro
     - umbrella-beach
     - utensils
     - utensils-alt
+    - washer
     - wheelchair
     - wifi
     - wifi-slash
@@ -1627,8 +1811,12 @@ household:
     - couch
     - door-closed
     - door-open
+    - dryer
+    - dryer-alt
     - dungeon
+    - fan
     - fireplace
+    - flashlight
     - lamp
     - loveseat
     - mailbox
@@ -1637,6 +1825,7 @@ household:
     - toilet-paper-alt
     - tv
     - tv-retro
+    - washer
   label: Household
 images:
   icons:
@@ -1644,6 +1833,7 @@ images:
     - bolt
     - camera
     - camera-alt
+    - camera-polaroid
     - camera-retro
     - chalkboard
     - clone
@@ -1658,10 +1848,13 @@ images:
     - file-image
     - film
     - film-alt
+    - film-canister
     - id-badge
     - id-card
     - image
+    - image-polaroid
     - images
+    - photo-video
     - portrait
     - rectangle-landscape
     - rectangle-portrait
@@ -1674,6 +1867,7 @@ images:
   label: Images
 interfaces:
   icons:
+    - alarm-clock
     - award
     - badge
     - badge-check
@@ -1740,6 +1934,7 @@ interfaces:
     - file-download
     - file-export
     - file-import
+    - file-search
     - file-upload
     - filter
     - fingerprint
@@ -1762,6 +1957,7 @@ interfaces:
     - info-circle
     - info-square
     - language
+    - lasso
     - magic
     - marker
     - medal
@@ -1833,12 +2029,19 @@ interfaces:
     - smile
     - sort
     - sort-alpha-down
+    - sort-alpha-down-alt
     - sort-alpha-up
+    - sort-alpha-up-alt
+    - sort-alt
     - sort-amount-down
+    - sort-amount-down-alt
     - sort-amount-up
+    - sort-amount-up-alt
     - sort-down
     - sort-numeric-down
+    - sort-numeric-down-alt
     - sort-numeric-up
+    - sort-numeric-up-alt
     - sort-up
     - star
     - star-exclamation
@@ -1859,6 +2062,8 @@ interfaces:
     - trash-alt
     - trash-restore
     - trash-restore-alt
+    - trash-undo
+    - trash-undo-alt
     - trophy
     - trophy-alt
     - undo
@@ -1918,6 +2123,7 @@ maps:
   icons:
     - ambulance
     - anchor
+    - bags-shopping
     - balance-scale
     - balance-scale-left
     - balance-scale-right
@@ -1936,6 +2142,7 @@ maps:
     - briefcase
     - building
     - car
+    - cctv
     - coffee
     - compass-slash
     - crosshairs
@@ -2016,7 +2223,9 @@ maps:
     - parking-slash
     - paw
     - phone
+    - phone-alt
     - phone-square
+    - phone-square-alt
     - phone-volume
     - plane
     - plane-alt
@@ -2040,6 +2249,7 @@ maps:
     - shopping-basket
     - shopping-cart
     - shower
+    - skull-cow
     - snowplow
     - street-view
     - subway
@@ -2097,6 +2307,7 @@ maritime:
     - swimmer
     - treasure-chest
     - turtle
+    - walkie-talkie
     - water
     - water-lower
     - water-rise
@@ -2135,6 +2346,8 @@ marketing:
     - poll-h
     - search-dollar
     - search-location
+    - signal-stream
+    - sparkles
     - user-crown
     - users-crown
   label: Marketing
@@ -2172,6 +2385,10 @@ mathematics:
     - times
     - union
     - value-absolute
+    - watch-calculator
+    - wave-sine
+    - wave-square
+    - wave-triangle
   label: Mathematics
 medical:
   icons:
@@ -2299,30 +2516,77 @@ moving:
   label: Moving
 music:
   icons:
+    - album
+    - album-collection
+    - amp-guitar
+    - banjo
     - bells
+    - boombox
+    - cassette-tape
+    - clarinet
+    - cloud-music
+    - comment-alt-music
+    - comment-music
+    - computer-speaker
+    - cowbell
+    - cowbell-more
     - drum
     - drum-steelpan
     - ear
     - file-audio
+    - file-music
+    - flute
+    - gramophone
     - guitar
+    - guitar-electric
+    - guitars
+    - head-side-headphones
     - headphones
     - headphones-alt
+    - kazoo
+    - list-music
     - mandolin
+    - microphone
+    - microphone-alt
+    - microphone-alt-slash
+    - microphone-slash
+    - microphone-stand
+    - mp3-player
     - music
+    - music-alt
+    - music-alt-slash
+    - music-slash
     - napster
+    - piano
+    - piano-keyboard
     - play
+    - radio
+    - radio-alt
+    - record-vinyl
+    - sax-hot
+    - saxophone
     - sliders-h
     - sliders-h-square
     - sliders-v
     - sliders-v-square
     - soundcloud
+    - speaker
+    - speakers
     - spotify
+    - triangle-music
+    - trumpet
+    - turntable
+    - tv-music
+    - user-music
+    - violin
     - volume
     - volume-down
     - volume-mute
     - volume-off
     - volume-slash
     - volume-up
+    - waveform
+    - waveform-path
     - whistle
   label: Music
 objects:
@@ -2524,6 +2788,7 @@ objects:
     - pencil
     - pencil-alt
     - phone
+    - phone-alt
     - plane
     - plane-alt
     - plug
@@ -2630,6 +2895,7 @@ payments-shopping:
     - apple-pay
     - badge
     - badge-check
+    - bags-shopping
     - bell
     - bitcoin
     - bookmark
@@ -2663,6 +2929,8 @@ payments-shopping:
     - key
     - money-check
     - money-check-alt
+    - money-check-edit
+    - money-check-edit-alt
     - paypal
     - receipt
     - shopping-bag
@@ -2829,8 +3097,11 @@ science:
 science-fiction:
   icons:
     - atom-alt
+    - drone
+    - drone-alt
     - eclipse
     - eclipse-alt
+    - flux-capacitor
     - galactic-republic
     - galactic-senate
     - globe
@@ -2848,11 +3119,14 @@ science-fiction:
     - space-shuttle
     - stars
     - user-astronaut
+    - watch-calculator
   label: Science Fiction
 security:
   icons:
+    - badge-sheriff
     - ban
     - bug
+    - cctv
     - debug
     - do-not-enter
     - door-closed
@@ -2880,6 +3154,7 @@ security:
     - shield-check
     - unlock
     - unlock-alt
+    - usb-drive
     - user-lock
     - user-secret
     - user-shield
@@ -2921,6 +3196,7 @@ shopping:
     - badge-check
     - badge-dollar
     - badge-percent
+    - bags-shopping
     - barcode
     - barcode-alt
     - barcode-read
@@ -2949,6 +3225,7 @@ shopping:
   label: Shopping
 social:
   icons:
+    - bags-shopping
     - bell
     - birthday-cake
     - camera
@@ -2957,10 +3234,13 @@ social:
     - envelope
     - hashtag
     - heart
+    - icons
+    - icons-alt
     - image
     - images
     - map-marker
     - map-marker-alt
+    - photo-video
     - poll
     - poll-h
     - retweet
@@ -2968,6 +3248,8 @@ social:
     - share
     - share-alt
     - share-square
+    - signal-stream
+    - sparkles
     - star
     - thumbs-down
     - thumbs-up
@@ -2996,6 +3278,7 @@ spinners:
     - crosshairs
     - dharmachakra
     - eclipse-alt
+    - fan
     - haykal
     - hurricane
     - life-ring
@@ -3023,6 +3306,8 @@ sports:
     - baseball-ball
     - basketball-ball
     - basketball-hoop
+    - biking
+    - biking-mountain
     - bowling-ball
     - bowling-pins
     - boxing-glove
@@ -3043,6 +3328,7 @@ sports:
     - pennant
     - quidditch
     - racquet
+    - running
     - shuttlecock
     - skating
     - ski-jump
@@ -3050,6 +3336,7 @@ sports:
     - skiing-nordic
     - sledding
     - snowboarding
+    - swimmer
     - table-tennis
     - tennis-ball
     - volleyball-ball
@@ -3073,6 +3360,7 @@ spring:
     - raindrops
     - seedling
     - shovel
+    - sunglasses
     - thunderstorm
     - tree-alt
     - umbrella
@@ -3162,6 +3450,7 @@ status:
     - parking-circle-slash
     - parking-slash
     - phone
+    - phone-alt
     - phone-slash
     - plus
     - plus-circle
@@ -3230,8 +3519,11 @@ status:
 summer:
   icons:
     - anchor
+    - biking
+    - biking-mountain
     - fish
     - glass
+    - glass-citrus
     - hotdog
     - ice-cream
     - island-tropical
@@ -3239,6 +3531,7 @@ summer:
     - lemon
     - shish-kebab
     - sun
+    - sunglasses
     - swimmer
     - swimming-pool
     - temperature-hot
@@ -3256,11 +3549,17 @@ toggle:
     - dot-circle
     - location
     - location-slash
+    - microphone
+    - microphone-slash
     - star
     - star-half
     - star-half-alt
     - toggle-off
     - toggle-on
+    - volume
+    - volume-slash
+    - wifi
+    - wifi-slash
   label: Toggle
 travel:
   icons:
@@ -3269,15 +3568,20 @@ travel:
     - bed
     - bus
     - bus-alt
+    - cactus
+    - car-bus
+    - cars
     - cocktail
     - concierge-bell
     - dumbbell
+    - flux-capacitor
     - glass-martini
     - glass-martini-alt
     - globe-africa
     - globe-americas
     - globe-asia
     - globe-europe
+    - horse-saddle
     - hot-tub
     - hotel
     - island-tropical
@@ -3287,6 +3591,7 @@ travel:
     - map-marked-alt
     - monument
     - passport
+    - phone-rotary
     - plane
     - plane-arrival
     - plane-departure
@@ -3300,7 +3605,10 @@ travel:
     - taxi
     - tram
     - tree-palm
+    - tv
+    - tv-alt
     - umbrella-beach
+    - wagon-covered
     - wine-glass
     - wine-glass-alt
   label: Travel
@@ -3312,9 +3620,12 @@ users-people:
     - angel
     - baby
     - bed
+    - biking
+    - biking-mountain
     - blind
     - chalkboard-teacher
     - child
+    - digging
     - female
     - file-user
     - frown
@@ -3359,6 +3670,7 @@ users-people:
     - user-circle
     - user-clock
     - user-cog
+    - user-cowboy
     - user-crown
     - user-edit
     - user-friends
@@ -3370,6 +3682,7 @@ users-people:
     - user-md
     - user-md-chat
     - user-minus
+    - user-music
     - user-ninja
     - user-nurse
     - user-plus
@@ -3397,13 +3710,20 @@ vehicles:
     - bus-alt
     - car
     - car-alt
+    - car-building
     - car-bump
+    - car-bus
     - car-crash
     - car-side
     - car-tilt
+    - cars
+    - drone
+    - drone-alt
     - fighter-jet
+    - flux-capacitor
     - helicopter
     - horse
+    - horse-saddle
     - motorcycle
     - paper-plane
     - pegasus
@@ -3471,6 +3791,7 @@ weather:
     - snow-blowing
     - snowflake
     - snowflakes
+    - sparkles
     - stars
     - sun
     - sun-cloud
@@ -3511,6 +3832,7 @@ winter:
     - igloo
     - mitten
     - mug-marshmallows
+    - mug-tea
     - scarf
     - shovel-snow
     - skating
