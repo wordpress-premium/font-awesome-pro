@@ -1,0 +1,16 @@
+{
+  "name": "wordpress-premium/font-awesome-pro",
+  "description": "Font Awesome is a full suite of thousands of pictographic icons for easy scalable vector graphics on websites.",
+  "type": "library",
+  "version": "5.11.2",
+  "time": "2019-09-03",
+  "homepage": "https://fontawesome.com",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Dave Gandy",
+      "homepage": "https://fontawesome.com",
+      "role": "developer"
+    }
+  ]
+}
