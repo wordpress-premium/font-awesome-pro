@@ -1,5 +1,5 @@
-﻿/*!
- * Font Awesome Pro 5.11.2 by @fontawesome - https://fontawesome.com
+/*!
+ * Font Awesome Pro 5.12.0 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license (Commercial License)
  */
 (function (global, factory) {
