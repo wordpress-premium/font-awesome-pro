@@ -1,12 +1,12 @@
 /*!
- * Font Awesome Pro 5.12.0 by @fontawesome - https://fontawesome.com
+ * Font Awesome Pro 5.13.0 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license (Commercial License)
  */
 @font-face {
   font-family: 'Font Awesome 5 Duotone';
   font-style: normal;
   font-weight: 900;
-  font-display: auto;
+  font-display: block;
   src: url("../webfonts/fa-duotone-900.eot");
   src: url("../webfonts/fa-duotone-900.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-duotone-900.woff2") format("woff2"), url("../webfonts/fa-duotone-900.woff") format("woff"), url("../webfonts/fa-duotone-900.ttf") format("truetype"), url("../webfonts/fa-duotone-900.svg#fontawesome") format("svg"); }
 
@@ -364,6 +364,12 @@
 .fad.fa-bacon:after {
   content: "\10f7e5"; }
 
+.fad.fa-bacteria:after {
+  content: "\10f959"; }
+
+.fad.fa-bacterium:after {
+  content: "\10f95a"; }
+
 .fad.fa-badge:after {
   content: "\10f335"; }
 
@@ -690,6 +696,9 @@
 
 .fad.fa-box-open:after {
   content: "\10f49e"; }
+
+.fad.fa-box-tissue:after {
+  content: "\10f95b"; }
 
 .fad.fa-box-up:after {
   content: "\10f49f"; }
@@ -1293,6 +1302,9 @@
 
 .fad.fa-coffin:after {
   content: "\10f6c6"; }
+
+.fad.fa-coffin-cross:after {
+  content: "\10f951"; }
 
 .fad.fa-cog:after {
   content: "\10f013"; }
@@ -2113,6 +2125,9 @@
 .fad.fa-folder:after {
   content: "\10f07b"; }
 
+.fad.fa-folder-download:after {
+  content: "\10f953"; }
+
 .fad.fa-folder-minus:after {
   content: "\10f65d"; }
 
@@ -2127,6 +2142,9 @@
 
 .fad.fa-folder-tree:after {
   content: "\10f802"; }
+
+.fad.fa-folder-upload:after {
+  content: "\10f954"; }
 
 .fad.fa-folders:after {
   content: "\10f660"; }
@@ -2413,6 +2431,9 @@
 .fad.fa-hand-holding-magic:after {
   content: "\10f6e5"; }
 
+.fad.fa-hand-holding-medical:after {
+  content: "\10f95c"; }
+
 .fad.fa-hand-holding-seedling:after {
   content: "\10f4bf"; }
 
@@ -2458,6 +2479,9 @@
 .fad.fa-hand-scissors:after {
   content: "\10f257"; }
 
+.fad.fa-hand-sparkles:after {
+  content: "\10f95d"; }
+
 .fad.fa-hand-spock:after {
   content: "\10f259"; }
 
@@ -2473,11 +2497,20 @@
 .fad.fa-hands-usd:after {
   content: "\10f4c5"; }
 
+.fad.fa-hands-wash:after {
+  content: "\10f95e"; }
+
 .fad.fa-handshake:after {
   content: "\10f2b5"; }
 
 .fad.fa-handshake-alt:after {
   content: "\10f4c6"; }
+
+.fad.fa-handshake-alt-slash:after {
+  content: "\10f95f"; }
+
+.fad.fa-handshake-slash:after {
+  content: "\10f960"; }
 
 .fad.fa-hanukiah:after {
   content: "\10f6e6"; }
@@ -2518,11 +2551,23 @@
 .fad.fa-head-side-brain:after {
   content: "\10f808"; }
 
+.fad.fa-head-side-cough:after {
+  content: "\10f961"; }
+
+.fad.fa-head-side-cough-slash:after {
+  content: "\10f962"; }
+
 .fad.fa-head-side-headphones:after {
   content: "\10f8c2"; }
 
+.fad.fa-head-side-mask:after {
+  content: "\10f963"; }
+
 .fad.fa-head-side-medical:after {
   content: "\10f809"; }
+
+.fad.fa-head-side-virus:after {
+  content: "\10f964"; }
 
 .fad.fa-head-vr:after {
   content: "\10f6ea"; }
@@ -2682,6 +2727,9 @@
 
 .fad.fa-house-signal:after {
   content: "\10f912"; }
+
+.fad.fa-house-user:after {
+  content: "\10f965"; }
 
 .fad.fa-hryvnia:after {
   content: "\10f6f2"; }
@@ -2869,6 +2917,9 @@
 .fad.fa-laptop-code:after {
   content: "\10f5fc"; }
 
+.fad.fa-laptop-house:after {
+  content: "\10f966"; }
+
 .fad.fa-laptop-medical:after {
   content: "\10f812"; }
 
@@ -3054,6 +3105,9 @@
 
 .fad.fa-lungs:after {
   content: "\10f604"; }
+
+.fad.fa-lungs-virus:after {
+  content: "\10f967"; }
 
 .fad.fa-mace:after {
   content: "\10f6f8"; }
@@ -3502,6 +3556,9 @@
 .fad.fa-pennant:after {
   content: "\10f456"; }
 
+.fad.fa-people-arrows:after {
+  content: "\10f968"; }
+
 .fad.fa-people-carry:after {
   content: "\10f4ce"; }
 
@@ -3603,6 +3660,9 @@
 
 .fad.fa-plane-departure:after {
   content: "\10f5b0"; }
+
+.fad.fa-plane-slash:after {
+  content: "\10f969"; }
 
 .fad.fa-planet-moon:after {
   content: "\10f91f"; }
@@ -3717,6 +3777,12 @@
 
 .fad.fa-projector:after {
   content: "\10f8d6"; }
+
+.fad.fa-pump-medical:after {
+  content: "\10f96a"; }
+
+.fad.fa-pump-soap:after {
+  content: "\10f96b"; }
 
 .fad.fa-pumpkin:after {
   content: "\10f707"; }
@@ -4078,6 +4144,9 @@
 .fad.fa-shield-cross:after {
   content: "\10f712"; }
 
+.fad.fa-shield-virus:after {
+  content: "\10f96c"; }
+
 .fad.fa-ship:after {
   content: "\10f21a"; }
 
@@ -4185,6 +4254,9 @@
 
 .fad.fa-sim-card:after {
   content: "\10f7c4"; }
+
+.fad.fa-sink:after {
+  content: "\10f96d"; }
 
 .fad.fa-siren:after {
   content: "\10f92d"; }
@@ -4296,6 +4368,9 @@
 
 .fad.fa-snowplow:after {
   content: "\10f7d2"; }
+
+.fad.fa-soap:after {
+  content: "\10f96e"; }
 
 .fad.fa-socks:after {
   content: "\10f696"; }
@@ -4537,11 +4612,20 @@
 .fad.fa-stopwatch:after {
   content: "\10f2f2"; }
 
+.fad.fa-stopwatch-20:after {
+  content: "\10f96f"; }
+
 .fad.fa-store:after {
   content: "\10f54e"; }
 
 .fad.fa-store-alt:after {
   content: "\10f54f"; }
+
+.fad.fa-store-alt-slash:after {
+  content: "\10f970"; }
+
+.fad.fa-store-slash:after {
+  content: "\10f971"; }
 
 .fad.fa-stream:after {
   content: "\10f550"; }
@@ -4878,6 +4962,9 @@
 
 .fad.fa-toilet-paper-alt:after {
   content: "\10f71f"; }
+
+.fad.fa-toilet-paper-slash:after {
+  content: "\10f972"; }
 
 .fad.fa-tombstone:after {
   content: "\10f720"; }
@@ -5224,6 +5311,9 @@
 .fad.fa-user-times:after {
   content: "\10f235"; }
 
+.fad.fa-user-unlock:after {
+  content: "\10f958"; }
+
 .fad.fa-user-visor:after {
   content: "\10f94c"; }
 
@@ -5241,6 +5331,9 @@
 
 .fad.fa-users-medical:after {
   content: "\10f830"; }
+
+.fad.fa-users-slash:after {
+  content: "\10f973"; }
 
 .fad.fa-utensil-fork:after {
   content: "\10f2e3"; }
@@ -5301,6 +5394,15 @@
 
 .fad.fa-violin:after {
   content: "\10f8ed"; }
+
+.fad.fa-virus:after {
+  content: "\10f974"; }
+
+.fad.fa-virus-slash:after {
+  content: "\10f975"; }
+
+.fad.fa-viruses:after {
+  content: "\10f976"; }
 
 .fad.fa-voicemail:after {
   content: "\10f897"; }

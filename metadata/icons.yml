@@ -618,6 +618,7 @@ ambulance:
   label: ambulance
   search:
     terms:
+      - covid-19
       - emergency
       - emt
       - er
@@ -2253,6 +2254,42 @@ bacon:
     - duotone
   unicode: f7e5
   voted: false
+bacteria:
+  changes:
+    - 5.13.0
+  label: Bacteria
+  search:
+    terms:
+      - antibiotic
+      - antibody
+      - health
+      - organism
+      - sick
+  styles:
+    - light
+    - regular
+    - solid
+    - duotone
+  unicode: f959
+  voted: false
+bacterium:
+  changes:
+    - 5.13.0
+  label: Bacterium
+  search:
+    terms:
+      - antibiotic
+      - antibody
+      - health
+      - organism
+      - sick
+  styles:
+    - light
+    - regular
+    - solid
+    - duotone
+  unicode: f95a
+  voted: false
 badge:
   changes:
     - 5.0.0
@@ -3380,6 +3417,7 @@ biohazard:
   label: Biohazard
   search:
     terms:
+      - covid-19
       - danger
       - dangerous
       - hazmat
@@ -4520,6 +4558,26 @@ box-open:
     - light
     - duotone
   unicode: f49e
+  voted: false
+box-tissue:
+  changes:
+    - 5.13.0
+  label: Tissue Box
+  search:
+    terms:
+      - cough
+      - covid-19
+      - kleenex
+      - mucus
+      - nose
+      - sneeze
+      - snot
+  styles:
+    - light
+    - regular
+    - solid
+    - duotone
+  unicode: f95b
   voted: false
 box-up:
   changes:
@@ -7875,6 +7933,7 @@ clinic-medical:
   label: Medical Clinic
   search:
     terms:
+      - covid-19
       - doctor
       - general practitioner
       - hospital
@@ -8018,6 +8077,7 @@ clock:
   changes:
     - '1'
     - 5.0.0
+    - 5.12.1
   label: Clock
   search:
     terms:
@@ -8747,6 +8807,7 @@ coffee-togo:
 coffin:
   changes:
     - 5.4.0
+    - 5.12.1
   label: Coffin
   search:
     terms:
@@ -8765,6 +8826,30 @@ coffin:
     - light
     - duotone
   unicode: f6c6
+  voted: false
+coffin-cross:
+  changes:
+    - 5.12.1
+  label: Coffin with Cross
+  search:
+    terms:
+      - box
+      - burial
+      - casket
+      - catholicism
+      - cemetery
+      - christianity
+      - death
+      - eulogy
+      - funeral
+      - halloween
+      - vampire
+  styles:
+    - solid
+    - regular
+    - light
+    - duotone
+  unicode: f951
   voted: false
 cog:
   changes:
@@ -10833,6 +10918,16 @@ dagger:
     - duotone
   unicode: f6cb
   voted: false
+dailymotion:
+  changes:
+    - 5.12.1
+  label: dailymotion
+  search:
+    terms: []
+  styles:
+    - brands
+  unicode: f952
+  voted: true
 dashcube:
   changes:
     - '4.3'
@@ -11553,6 +11648,7 @@ disease:
     terms:
       - bacteria
       - cancer
+      - covid-19
       - illness
       - infection
       - sickness
@@ -12440,6 +12536,7 @@ edge:
   changes:
     - '4.5'
     - 5.0.0
+    - 5.12.1
   label: Edge Browser
   search:
     terms:
@@ -13518,8 +13615,10 @@ faucet:
   label: Faucet
   search:
     terms:
+      - covid-19
       - drip
       - house
+      - hygiene
       - kitchen
       - sink
       - water
@@ -14146,6 +14245,7 @@ file-minus:
   changes:
     - 5.0.0
     - 5.10.2
+    - 5.12.1
   label: Minus File
   search:
     terms:
@@ -14205,6 +14305,7 @@ file-plus:
   changes:
     - 5.0.0
     - 5.10.2
+    - 5.12.1
   label: Plus File
   search:
     terms:
@@ -14319,6 +14420,7 @@ file-times:
   changes:
     - 5.0.0
     - 5.10.2
+    - 5.12.1
   label: Times File
   search:
     terms:
@@ -15179,6 +15281,25 @@ folder:
     - duotone
   unicode: f07b
   voted: false
+folder-download:
+  changes:
+    - 5.12.1
+  label: Folder Download
+  search:
+    terms:
+      - archive
+      - directory
+      - document
+      - download
+      - file
+      - save
+  styles:
+    - light
+    - regular
+    - solid
+    - duotone
+  unicode: f953
+  voted: false
 folder-minus:
   changes:
     - 5.3.0
@@ -15223,6 +15344,7 @@ folder-plus:
   changes:
     - 5.3.0
     - 5.11.0
+    - 5.12.1
   label: Folder Plus
   search:
     terms:
@@ -15280,6 +15402,25 @@ folder-tree:
     - duotone
   unicode: f802
   voted: true
+folder-upload:
+  changes:
+    - 5.12.1
+  label: Folder Upload
+  search:
+    terms:
+      - archive
+      - directory
+      - document
+      - file
+      - save
+      - upload
+  styles:
+    - light
+    - regular
+    - solid
+    - duotone
+  unicode: f954
+  voted: false
 folders:
   changes:
     - 5.3.0
@@ -17670,6 +17811,23 @@ hand-holding-magic:
     - duotone
   unicode: f6e5
   voted: false
+hand-holding-medical:
+  changes:
+    - 5.13.0
+  label: Hand Holding Medical Cross
+  search:
+    terms:
+      - care
+      - covid-19
+      - donate
+      - help
+  styles:
+    - light
+    - regular
+    - solid
+    - duotone
+  unicode: f95c
+  voted: false
 hand-holding-seedling:
   changes:
     - 5.0.9
@@ -17716,6 +17874,7 @@ hand-holding-water:
   search:
     terms:
       - carry
+      - covid-19
       - drought
       - grow
       - lift
@@ -17939,6 +18098,25 @@ hand-scissors:
     - duotone
   unicode: f257
   voted: false
+hand-sparkles:
+  changes:
+    - 5.13.0
+  label: Hand Sparkles
+  search:
+    terms:
+      - clean
+      - covid-19
+      - hygiene
+      - magic
+      - soap
+      - wash
+  styles:
+    - light
+    - regular
+    - solid
+    - duotone
+  unicode: f95d
+  voted: false
 hand-spock:
   changes:
     - '4.4'
@@ -18033,6 +18211,23 @@ hands-usd:
     - duotone
   unicode: f4c5
   voted: false
+hands-wash:
+  changes:
+    - 5.13.0
+  label: Hands Wash
+  search:
+    terms:
+      - covid-19
+      - hygiene
+      - soap
+      - wash
+  styles:
+    - light
+    - regular
+    - solid
+    - duotone
+  unicode: f95e
+  voted: false
 handshake:
   changes:
     - '4.7'
@@ -18060,13 +18255,46 @@ handshake-alt:
     terms:
       - agreement
       - greeting
-      - partnership. meeting
+      - meeting
+      - partnership
   styles:
     - solid
     - regular
     - light
     - duotone
   unicode: f4c6
+  voted: false
+handshake-alt-slash:
+  changes:
+    - 5.13.0
+  label: Handshake Alternate Slash
+  search:
+    terms:
+      - broken
+      - covid-19
+      - social distance
+  styles:
+    - light
+    - regular
+    - solid
+    - duotone
+  unicode: f95f
+  voted: false
+handshake-slash:
+  changes:
+    - 5.13.0
+  label: Handshake Slash
+  search:
+    terms:
+      - broken
+      - covid-19
+      - social distance
+  styles:
+    - light
+    - regular
+    - solid
+    - duotone
+  unicode: f960
   voted: false
 hanukiah:
   changes:
@@ -18332,6 +18560,44 @@ head-side-brain:
     - duotone
   unicode: f808
   voted: false
+head-side-cough:
+  changes:
+    - 5.13.0
+  label: Head Side Cough
+  search:
+    terms:
+      - cough
+      - covid-19
+      - germs
+      - lungs
+      - respiratory
+      - sick
+  styles:
+    - light
+    - regular
+    - solid
+    - duotone
+  unicode: f961
+  voted: false
+head-side-cough-slash:
+  changes:
+    - 5.13.0
+  label: Head Side-cough-slash
+  search:
+    terms:
+      - cough
+      - covid-19
+      - germs
+      - lungs
+      - respiratory
+      - sick
+  styles:
+    - light
+    - regular
+    - solid
+    - duotone
+  unicode: f962
+  voted: false
 head-side-headphones:
   changes:
     - 5.11.0
@@ -18352,6 +18618,24 @@ head-side-headphones:
     - duotone
   unicode: f8c2
   voted: false
+head-side-mask:
+  changes:
+    - 5.13.0
+  label: Head Side Mask
+  search:
+    terms:
+      - breath
+      - covid-19
+      - filter
+      - respirator
+      - virus
+  styles:
+    - light
+    - regular
+    - solid
+    - duotone
+  unicode: f963
+  voted: false
 head-side-medical:
   changes:
     - 5.7.0
@@ -18370,6 +18654,23 @@ head-side-medical:
     - light
     - duotone
   unicode: f809
+  voted: false
+head-side-virus:
+  changes:
+    - 5.13.0
+  label: Head Side Virus
+  search:
+    terms:
+      - cold
+      - covid-19
+      - flu
+      - sick
+  styles:
+    - light
+    - regular
+    - solid
+    - duotone
+  unicode: f964
   voted: false
 head-vr:
   changes:
@@ -19063,6 +19364,7 @@ hospital:
   search:
     terms:
       - building
+      - covid-19
       - emergency room
       - medical center
   styles:
@@ -19079,6 +19381,7 @@ hospital-alt:
   search:
     terms:
       - building
+      - covid-19
       - emergency room
       - medical center
   styles:
@@ -19095,6 +19398,7 @@ hospital-symbol:
   search:
     terms:
       - clinic
+      - covid-19
       - emergency
       - map
   styles:
@@ -19110,6 +19414,7 @@ hospital-user:
   label: Hospital with User
   search:
     terms:
+      - covid-19
       - doctor
       - network
       - patient
@@ -19441,6 +19746,23 @@ house-signal:
     - light
     - duotone
   unicode: f912
+  voted: false
+house-user:
+  changes:
+    - 5.13.0
+  label: House User
+  search:
+    terms:
+      - covid-19
+      - home
+      - isolation
+      - quarantine
+  styles:
+    - light
+    - regular
+    - solid
+    - duotone
+  unicode: f965
   voted: false
 houzz:
   changes:
@@ -20030,6 +20352,16 @@ instagram:
     - brands
   unicode: f16d
   voted: false
+instagram-square:
+  changes:
+    - 5.12.1
+  label: Instagram Square
+  search:
+    terms: []
+  styles:
+    - brands
+  unicode: f955
+  voted: true
 integral:
   changes:
     - 5.3.0
@@ -20941,6 +21273,25 @@ laptop-code:
     - light
     - duotone
   unicode: f5fc
+  voted: false
+laptop-house:
+  changes:
+    - 5.13.0
+  label: Laptop House
+  search:
+    terms:
+      - computer
+      - covid-19
+      - device
+      - office
+      - remote
+      - work from home
+  styles:
+    - light
+    - regular
+    - solid
+    - duotone
+  unicode: f966
   voted: false
 laptop-medical:
   changes:
@@ -22186,6 +22537,7 @@ lungs:
     terms:
       - air
       - breath
+      - covid-19
       - organ
       - respiratory
   styles:
@@ -22194,6 +22546,23 @@ lungs:
     - light
     - duotone
   unicode: f604
+  voted: false
+lungs-virus:
+  changes:
+    - 5.13.0
+  label: Lungs Virus
+  search:
+    terms:
+      - breath
+      - covid-19
+      - respiratory
+      - sick
+  styles:
+    - light
+    - regular
+    - solid
+    - duotone
+  unicode: f967
   voted: false
 lyft:
   changes:
@@ -23395,6 +23764,7 @@ microscope:
   label: Microscope
   search:
     terms:
+      - covid-19
       - electron
       - lens
       - optics
@@ -23618,6 +23988,16 @@ mixcloud:
     - brands
   unicode: f289
   voted: false
+mixer:
+  changes:
+    - 5.12.1
+  label: Mixer
+  search:
+    terms: []
+  styles:
+    - brands
+  unicode: f956
+  voted: true
 mizuni:
   changes:
     - 5.0.0
@@ -25639,6 +26019,25 @@ penny-arcade:
     - brands
   unicode: f704
   voted: false
+people-arrows:
+  changes:
+    - 5.13.0
+  label: People Arrows
+  search:
+    terms:
+      - covid-19
+      - personal space
+      - social distance
+      - space
+      - spread
+      - users
+  styles:
+    - light
+    - regular
+    - solid
+    - duotone
+  unicode: f968
+  voted: false
 people-carry:
   changes:
     - 5.0.9
@@ -26464,6 +26863,25 @@ plane-departure:
     - duotone
   unicode: f5b0
   voted: false
+plane-slash:
+  changes:
+    - 5.13.0
+  label: Plane Slash
+  search:
+    terms:
+      - airplane mode
+      - canceled
+      - covid-19
+      - delayed
+      - grounded
+      - travel
+  styles:
+    - light
+    - regular
+    - solid
+    - duotone
+  unicode: f969
+  voted: false
 planet-moon:
   changes:
     - 5.12.0
@@ -27228,6 +27646,47 @@ projector:
     - light
     - duotone
   unicode: f8d6
+  voted: false
+pump-medical:
+  changes:
+    - 5.13.0
+  label: Pump Medical
+  search:
+    terms:
+      - anti-bacterial
+      - clean
+      - covid-19
+      - disinfect
+      - hygiene
+      - medical grade
+      - sanitizer
+      - soap
+  styles:
+    - light
+    - regular
+    - solid
+    - duotone
+  unicode: f96a
+  voted: false
+pump-soap:
+  changes:
+    - 5.13.0
+  label: Pump Soap
+  search:
+    terms:
+      - anti-bacterial
+      - clean
+      - covid-19
+      - disinfect
+      - hygiene
+      - sanitizer
+      - soap
+  styles:
+    - light
+    - regular
+    - solid
+    - duotone
+  unicode: f96b
   voted: false
 pumpkin:
   changes:
@@ -29887,6 +30346,8 @@ shield-cross:
     terms:
       - Dungeons & Dragons
       - block
+      - catholicism
+      - christianity
       - crusader
       - d&d
       - defend
@@ -29900,6 +30361,24 @@ shield-cross:
     - light
     - duotone
   unicode: f712
+  voted: false
+shield-virus:
+  changes:
+    - 5.13.0
+  label: Shield Virus
+  search:
+    terms:
+      - antibodies
+      - barrier
+      - covid-19
+      - health
+      - protect
+  styles:
+    - light
+    - regular
+    - solid
+    - duotone
+  unicode: f96c
   voted: false
 ship:
   changes:
@@ -30008,6 +30487,16 @@ shoe-prints:
     - duotone
   unicode: f54b
   voted: true
+shopify:
+  changes:
+    - 5.12.1
+  label: Shopify
+  search:
+    terms: []
+  styles:
+    - brands
+  unicode: f957
+  voted: false
 shopping-bag:
   changes:
     - '4.5'
@@ -30621,6 +31110,24 @@ simplybuilt:
   styles:
     - brands
   unicode: f215
+  voted: false
+sink:
+  changes:
+    - 5.13.0
+  label: Sink
+  search:
+    terms:
+      - bathroom
+      - covid-19
+      - faucet
+      - kitchen
+      - wash
+  styles:
+    - light
+    - regular
+    - solid
+    - duotone
+  unicode: f96d
   voted: false
 siren:
   changes:
@@ -31448,6 +31955,24 @@ snowplow:
     - light
     - duotone
   unicode: f7d2
+soap:
+  changes:
+    - 5.13.0
+  label: Soap
+  search:
+    terms:
+      - bubbles
+      - clean
+      - covid-19
+      - hygiene
+      - wash
+  styles:
+    - light
+    - regular
+    - solid
+    - duotone
+  unicode: f96e
+  voted: false
 socks:
   changes:
     - 5.3.0
@@ -32980,6 +33505,7 @@ stethoscope:
   label: Stethoscope
   search:
     terms:
+      - covid-19
       - diagnosis
       - doctor
       - general practitioner
@@ -33122,6 +33648,28 @@ stopwatch:
     - duotone
   unicode: f2f2
   voted: false
+stopwatch-20:
+  changes:
+    - 5.13.0
+  label: Stopwatch 20
+  search:
+    terms:
+      - ABCs
+      - countdown
+      - covid-19
+      - happy birthday
+      - i will survive
+      - reminder
+      - seconds
+      - time
+      - timer
+  styles:
+    - light
+    - regular
+    - solid
+    - duotone
+  unicode: f96f
+  voted: false
 store:
   changes:
     - 5.0.13
@@ -33158,6 +33706,44 @@ store-alt:
     - duotone
   unicode: f54f
   voted: true
+store-alt-slash:
+  changes:
+    - 5.13.0
+  label: Alternate Store Slash
+  search:
+    terms:
+      - building
+      - buy
+      - closed
+      - covid-19
+      - purchase
+      - shopping
+  styles:
+    - light
+    - regular
+    - solid
+    - duotone
+  unicode: f970
+  voted: false
+store-slash:
+  changes:
+    - 5.13.0
+  label: Store Slash
+  search:
+    terms:
+      - building
+      - buy
+      - closed
+      - covid-19
+      - purchase
+      - shopping
+  styles:
+    - light
+    - regular
+    - solid
+    - duotone
+  unicode: f971
+  voted: false
 strava:
   changes:
     - 5.0.0
@@ -33843,6 +34429,7 @@ syringe:
   label: Syringe
   search:
     terms:
+      - covid-19
       - doctor
       - immunizations
       - medical
@@ -34522,6 +35109,7 @@ temperature-high:
   search:
     terms:
       - cook
+      - covid-19
       - mercury
       - summer
       - thermometer
@@ -34558,6 +35146,7 @@ temperature-low:
     terms:
       - cold
       - cool
+      - covid-19
       - mercury
       - thermometer
       - winter
@@ -34852,6 +35441,7 @@ thermometer:
   label: Thermometer
   search:
     terms:
+      - covid-19
       - mercury
       - status
       - temperature
@@ -35484,6 +36074,7 @@ toilet-paper:
   search:
     terms:
       - bathroom
+      - covid-19
       - halloween
       - holiday
       - lavatory
@@ -35517,6 +36108,30 @@ toilet-paper-alt:
     - light
     - duotone
   unicode: f71f
+  voted: false
+toilet-paper-slash:
+  changes:
+    - 5.13.0
+  label: Toilet Paper Slash
+  search:
+    terms:
+      - bathroom
+      - covid-19
+      - halloween
+      - holiday
+      - lavatory
+      - leaves
+      - prank
+      - restroom
+      - roll
+      - trouble
+      - ut oh
+  styles:
+    - light
+    - regular
+    - solid
+    - duotone
+  unicode: f972
   voted: false
 tombstone:
   changes:
@@ -37654,6 +38269,7 @@ user-md:
   label: Doctor
   search:
     terms:
+      - covid-19
       - job
       - medical
       - nurse
@@ -37744,6 +38360,7 @@ user-nurse:
   label: Nurse
   search:
     terms:
+      - covid-19
       - doctor
       - midwife
       - practitioner
@@ -37911,6 +38528,24 @@ user-times:
     - duotone
   unicode: f235
   voted: false
+user-unlock:
+  changes:
+    - 5.12.1
+  label: User Unlock
+  search:
+    terms:
+      - admin
+      - lock
+      - person
+      - private
+      - unlock
+  styles:
+    - light
+    - regular
+    - solid
+    - duotone
+  unicode: f958
+  voted: false
 user-visor:
   changes:
     - 5.12.0
@@ -38021,6 +38656,28 @@ users-medical:
     - light
     - duotone
   unicode: f830
+  voted: false
+users-slash:
+  changes:
+    - 5.13.0
+  label: Users Slash
+  search:
+    terms:
+      - disband
+      - friends
+      - group
+      - people
+      - persons
+      - profiles
+      - separate
+      - team
+      - ungroup
+  styles:
+    - light
+    - regular
+    - solid
+    - duotone
+  unicode: f973
   voted: false
 usps:
   changes:
@@ -38513,6 +39170,67 @@ violin:
     - light
     - duotone
   unicode: f8ed
+  voted: false
+virus:
+  changes:
+    - 5.13.0
+  label: Virus
+  search:
+    terms:
+      - bug
+      - covid-19
+      - flu
+      - health
+      - sick
+      - viral
+  styles:
+    - light
+    - regular
+    - solid
+    - duotone
+  unicode: f974
+  voted: false
+virus-slash:
+  changes:
+    - 5.13.0
+  label: Virus Slash
+  search:
+    terms:
+      - bug
+      - covid-19
+      - cure
+      - eliminate
+      - flu
+      - health
+      - sick
+      - viral
+  styles:
+    - light
+    - regular
+    - solid
+    - duotone
+  unicode: f975
+  voted: false
+viruses:
+  changes:
+    - 5.13.0
+  label: Viruses
+  search:
+    terms:
+      - bugs
+      - covid-19
+      - flu
+      - health
+      - multiply
+      - sick
+      - spread
+      - viral
+  styles:
+    - light
+    - regular
+    - solid
+    - duotone
+  unicode: f976
   voted: false
 vk:
   changes:

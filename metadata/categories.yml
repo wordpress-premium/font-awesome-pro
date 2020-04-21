@@ -595,11 +595,13 @@ business:
     - file-spreadsheet
     - file-user
     - folder
+    - folder-download
     - folder-minus
     - folder-open
     - folder-plus
     - folder-times
     - folder-tree
+    - folder-upload
     - folders
     - glasses
     - globe
@@ -609,6 +611,7 @@ business:
     - keynote
     - lamp-desk
     - landmark
+    - laptop-house
     - marker
     - mind-share
     - money-check-edit
@@ -960,6 +963,7 @@ computers:
     - headphones
     - keyboard
     - laptop
+    - laptop-house
     - memory
     - microchip
     - mobile
@@ -1709,6 +1713,7 @@ hands:
     - hand-holding-box
     - hand-holding-heart
     - hand-holding-magic
+    - hand-holding-medical
     - hand-holding-seedling
     - hand-holding-usd
     - hand-holding-water
@@ -1724,13 +1729,17 @@ hands:
     - hand-receiving
     - hand-rock
     - hand-scissors
+    - hand-sparkles
     - hand-spock
     - hands
     - hands-heart
     - hands-helping
     - hands-usd
+    - hands-wash
     - handshake
     - handshake-alt
+    - handshake-alt-slash
+    - handshake-slash
     - praying-hands
     - thumbs-down
     - thumbs-up
@@ -1863,6 +1872,7 @@ household:
     - blinds-open
     - blinds-raised
     - books
+    - box-tissue
     - camera-home
     - cctv
     - chair
@@ -1891,9 +1901,11 @@ household:
     - house-night
     - house-return
     - house-signal
+    - house-user
     - lamp
     - lamp-desk
     - lamp-floor
+    - laptop-house
     - light-ceiling
     - light-switch
     - light-switch-off
@@ -1906,6 +1918,7 @@ household:
     - outlet
     - oven
     - plug
+    - pump-soap
     - refrigerator
     - sensor
     - sensor-alert
@@ -1914,9 +1927,11 @@ household:
     - sensor-smoke
     - shower
     - signal-stream
+    - sink
     - siren
     - siren-on
     - snowflake
+    - soap
     - sort-circle
     - sort-circle-down
     - sort-circle-up
@@ -1927,6 +1942,7 @@ household:
     - temperature-up
     - toilet-paper
     - toilet-paper-alt
+    - toilet-paper-slash
     - tv
     - tv-alt
     - tv-retro
@@ -2504,6 +2520,8 @@ medical:
   icons:
     - allergies
     - ambulance
+    - bacteria
+    - bacterium
     - band-aid
     - biohazard
     - bone
@@ -2533,8 +2551,13 @@ medical:
     - file-prescription
     - files-medical
     - first-aid
+    - hand-holding-medical
     - head-side-brain
+    - head-side-cough
+    - head-side-cough-slash
+    - head-side-mask
     - head-side-medical
+    - head-side-virus
     - heart
     - heart-rate
     - heartbeat
@@ -2550,6 +2573,7 @@ medical:
     - laptop-medical
     - lips
     - lungs
+    - lungs-virus
     - microscope
     - monitor-heart-rate
     - mortar-pestle
@@ -2562,10 +2586,12 @@ medical:
     - prescription-bottle
     - prescription-bottle-alt
     - procedures
+    - pump-medical
     - radiation
     - radiation-alt
     - scalpel
     - scalpel-path
+    - shield-virus
     - skeleton
     - smoking
     - smoking-ban
@@ -2586,6 +2612,9 @@ medical:
     - users-medical
     - vial
     - vials
+    - virus
+    - virus-slash
+    - viruses
     - walker
     - watch-fitness
     - weight
@@ -3313,6 +3342,7 @@ security:
     - user-lock
     - user-secret
     - user-shield
+    - user-unlock
     - whistle
   label: Security
 shapes:
@@ -3374,6 +3404,8 @@ shopping:
     - shopping-cart
     - store
     - store-alt
+    - store-alt-slash
+    - store-slash
     - truck
     - truck-container
     - tshirt
@@ -3795,6 +3827,7 @@ users-people:
     - id-card-alt
     - male
     - meh
+    - people-arrows
     - people-carry
     - person-booth
     - person-carry
@@ -3850,11 +3883,13 @@ users-people:
     - user-tag
     - user-tie
     - user-times
+    - user-unlock
     - users
     - users-class
     - users-cog
     - users-crown
     - users-medical
+    - users-slash
     - walking
     - wheelchair
   label: Users & People
