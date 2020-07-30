@@ -2257,11 +2257,14 @@ bacon:
 bacteria:
   changes:
     - 5.13.0
+    - 5.13.1
+    - 5.14.0
   label: Bacteria
   search:
     terms:
       - antibiotic
       - antibody
+      - covid-19
       - health
       - organism
       - sick
@@ -2270,16 +2273,19 @@ bacteria:
     - regular
     - solid
     - duotone
-  unicode: f959
+  unicode: e059
   voted: false
 bacterium:
   changes:
     - 5.13.0
+    - 5.13.1
+    - 5.14.0
   label: Bacterium
   search:
     terms:
       - antibiotic
       - antibody
+      - covid-19
       - health
       - organism
       - sick
@@ -2288,7 +2294,7 @@ bacterium:
     - regular
     - solid
     - duotone
-  unicode: f95a
+  unicode: e05a
   voted: false
 badge:
   changes:
@@ -2612,6 +2618,7 @@ bandcamp:
   changes:
     - '4.7'
     - 5.0.0
+    - 5.13.1
   label: Bandcamp
   search:
     terms: []
@@ -4562,6 +4569,7 @@ box-open:
 box-tissue:
   changes:
     - 5.13.0
+    - 5.14.0
   label: Tissue Box
   search:
     terms:
@@ -4577,7 +4585,7 @@ box-tissue:
     - regular
     - solid
     - duotone
-  unicode: f95b
+  unicode: e05b
   voted: false
 box-up:
   changes:
@@ -6164,6 +6172,7 @@ caravan:
 caravan-alt:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Caravan Alternate
   search:
     terms:
@@ -6177,7 +6186,7 @@ caravan-alt:
     - regular
     - light
     - duotone
-  unicode: f900
+  unicode: e000
   voted: false
 caret-circle-down:
   changes:
@@ -6536,6 +6545,7 @@ cat:
 cat-space:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Space Cat
   search:
     terms:
@@ -6550,7 +6560,7 @@ cat-space:
     - regular
     - light
     - duotone
-  unicode: f901
+  unicode: e001
   voted: false
 cauldron:
   changes:
@@ -8763,6 +8773,7 @@ coffee:
 coffee-pot:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Coffee Pot
   search:
     terms:
@@ -8778,7 +8789,7 @@ coffee-pot:
     - regular
     - light
     - duotone
-  unicode: f902
+  unicode: e002
   voted: false
 coffee-togo:
   changes:
@@ -8830,6 +8841,7 @@ coffin:
 coffin-cross:
   changes:
     - 5.12.1
+    - 5.14.0
   label: Coffin with Cross
   search:
     terms:
@@ -8849,7 +8861,7 @@ coffin-cross:
     - regular
     - light
     - duotone
-  unicode: f951
+  unicode: e051
   voted: false
 cog:
   changes:
@@ -8948,6 +8960,7 @@ columns:
 comet:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Comet
   search:
     terms:
@@ -8965,7 +8978,7 @@ comet:
     - regular
     - light
     - duotone
-  unicode: f903
+  unicode: e003
   voted: false
 comment:
   changes:
@@ -10921,12 +10934,13 @@ dagger:
 dailymotion:
   changes:
     - 5.12.1
+    - 5.14.0
   label: dailymotion
   search:
     terms: []
   styles:
     - brands
-  unicode: f952
+  unicode: e052
   voted: true
 dashcube:
   changes:
@@ -11035,6 +11049,17 @@ deer-rudolph:
     - light
     - duotone
   unicode: f78f
+deezer:
+  changes:
+    - 5.13.1
+    - 5.14.0
+  label: Deezer
+  search:
+    terms: []
+  styles:
+    - brands
+  unicode: e077
+  voted: true
 delicious:
   changes:
     - '4.1'
@@ -12546,6 +12571,17 @@ edge:
     - brands
   unicode: f282
   voted: false
+edge-legacy:
+  changes:
+    - 5.13.1
+    - 5.14.0
+  label: Edge Legacy Browser
+  search:
+    terms: []
+  styles:
+    - brands
+  unicode: e078
+  voted: false
 edit:
   changes:
     - '1'
@@ -13192,9 +13228,9 @@ expand:
   label: Expand
   search:
     terms:
-      - arrow
       - bigger
       - enlarge
+      - fullscreen
       - resize
   styles:
     - solid
@@ -13211,9 +13247,10 @@ expand-alt:
   label: Alternate Expand
   search:
     terms:
-      - arrow
+      - arrows
       - bigger
       - enlarge
+      - fullscreen
       - resize
   styles:
     - solid
@@ -13230,6 +13267,7 @@ expand-arrows:
     terms:
       - bigger
       - enlarge
+      - fullscreen
       - move
       - resize
   styles:
@@ -13246,9 +13284,9 @@ expand-arrows-alt:
   label: Alternate Expand Arrows
   search:
     terms:
-      - arrows-alt
       - bigger
       - enlarge
+      - fullscreen
       - move
       - resize
   styles:
@@ -13266,6 +13304,7 @@ expand-wide:
     terms:
       - bigger
       - enlarge
+      - fullscreen
       - resize
   styles:
     - solid
@@ -13520,6 +13559,7 @@ fan:
 fan-table:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Fan Table
   search:
     terms:
@@ -13535,7 +13575,7 @@ fan-table:
     - regular
     - light
     - duotone
-  unicode: f904
+  unicode: e004
   voted: false
 fantasy-flight-games:
   changes:
@@ -13612,6 +13652,7 @@ fast-forward:
 faucet:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Faucet
   search:
     terms:
@@ -13627,11 +13668,12 @@ faucet:
     - regular
     - light
     - duotone
-  unicode: f905
+  unicode: e005
   voted: false
 faucet-drip:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Faucet Drip
   search:
     terms:
@@ -13645,7 +13687,7 @@ faucet-drip:
     - regular
     - light
     - duotone
-  unicode: f906
+  unicode: e006
   voted: false
 fax:
   changes:
@@ -14767,13 +14809,14 @@ firefox:
 firefox-browser:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Firefox Browser
   search:
     terms:
       - browser
   styles:
     - brands
-  unicode: f907
+  unicode: e007
   voted: false
 fireplace:
   changes:
@@ -15284,6 +15327,7 @@ folder:
 folder-download:
   changes:
     - 5.12.1
+    - 5.14.0
   label: Folder Download
   search:
     terms:
@@ -15298,7 +15342,7 @@ folder-download:
     - regular
     - solid
     - duotone
-  unicode: f953
+  unicode: e053
   voted: false
 folder-minus:
   changes:
@@ -15405,6 +15449,7 @@ folder-tree:
 folder-upload:
   changes:
     - 5.12.1
+    - 5.14.0
   label: Folder Upload
   search:
     terms:
@@ -15419,7 +15464,7 @@ folder-upload:
     - regular
     - solid
     - duotone
-  unicode: f954
+  unicode: e054
   voted: false
 folders:
   changes:
@@ -15906,6 +15951,7 @@ galactic-senate:
 galaxy:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Galaxy
   search:
     terms:
@@ -15921,7 +15967,7 @@ galaxy:
     - regular
     - light
     - duotone
-  unicode: f908
+  unicode: e008
   voted: false
 game-board:
   changes:
@@ -16021,6 +16067,7 @@ gamepad-alt:
 garage:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Garage
   search:
     terms:
@@ -16035,11 +16082,12 @@ garage:
     - regular
     - light
     - duotone
-  unicode: f909
+  unicode: e009
   voted: false
 garage-car:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Garage Car
   search:
     terms:
@@ -16054,11 +16102,12 @@ garage-car:
     - regular
     - light
     - duotone
-  unicode: f90a
+  unicode: e00a
   voted: false
 garage-open:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Garage Open
   search:
     terms:
@@ -16073,7 +16122,7 @@ garage-open:
     - regular
     - light
     - duotone
-  unicode: f90b
+  unicode: e00b
   voted: false
 gas-pump:
   changes:
@@ -16907,6 +16956,17 @@ google-drive:
     - brands
   unicode: f3aa
   voted: false
+google-pay:
+  changes:
+    - 5.13.1
+    - 5.14.0
+  label: Google Pay
+  search:
+    terms: []
+  styles:
+    - brands
+  unicode: e079
+  voted: false
 google-play:
   changes:
     - 5.0.0
@@ -16921,6 +16981,7 @@ google-plus:
   changes:
     - '4.6'
     - 5.0.0
+    - 5.13.1
   label: Google Plus
   search:
     terms:
@@ -17814,6 +17875,7 @@ hand-holding-magic:
 hand-holding-medical:
   changes:
     - 5.13.0
+    - 5.14.0
   label: Hand Holding Medical Cross
   search:
     terms:
@@ -17826,7 +17888,7 @@ hand-holding-medical:
     - regular
     - solid
     - duotone
-  unicode: f95c
+  unicode: e05c
   voted: false
 hand-holding-seedling:
   changes:
@@ -17870,6 +17932,7 @@ hand-holding-usd:
 hand-holding-water:
   changes:
     - 5.0.9
+    - 5.13.0
   label: Hand Holding Water
   search:
     terms:
@@ -18101,6 +18164,7 @@ hand-scissors:
 hand-sparkles:
   changes:
     - 5.13.0
+    - 5.14.0
   label: Hand Sparkles
   search:
     terms:
@@ -18115,7 +18179,7 @@ hand-sparkles:
     - regular
     - solid
     - duotone
-  unicode: f95d
+  unicode: e05d
   voted: false
 hand-spock:
   changes:
@@ -18214,6 +18278,7 @@ hands-usd:
 hands-wash:
   changes:
     - 5.13.0
+    - 5.14.0
   label: Hands Wash
   search:
     terms:
@@ -18226,7 +18291,7 @@ hands-wash:
     - regular
     - solid
     - duotone
-  unicode: f95e
+  unicode: e05e
   voted: false
 handshake:
   changes:
@@ -18267,6 +18332,7 @@ handshake-alt:
 handshake-alt-slash:
   changes:
     - 5.13.0
+    - 5.14.0
   label: Handshake Alternate Slash
   search:
     terms:
@@ -18278,11 +18344,12 @@ handshake-alt-slash:
     - regular
     - solid
     - duotone
-  unicode: f95f
+  unicode: e05f
   voted: false
 handshake-slash:
   changes:
     - 5.13.0
+    - 5.14.0
   label: Handshake Slash
   search:
     terms:
@@ -18294,7 +18361,7 @@ handshake-slash:
     - regular
     - solid
     - duotone
-  unicode: f960
+  unicode: e060
   voted: false
 hanukiah:
   changes:
@@ -18563,6 +18630,7 @@ head-side-brain:
 head-side-cough:
   changes:
     - 5.13.0
+    - 5.14.0
   label: Head Side Cough
   search:
     terms:
@@ -18577,11 +18645,12 @@ head-side-cough:
     - regular
     - solid
     - duotone
-  unicode: f961
+  unicode: e061
   voted: false
 head-side-cough-slash:
   changes:
     - 5.13.0
+    - 5.14.0
   label: Head Side-cough-slash
   search:
     terms:
@@ -18596,7 +18665,7 @@ head-side-cough-slash:
     - regular
     - solid
     - duotone
-  unicode: f962
+  unicode: e062
   voted: false
 head-side-headphones:
   changes:
@@ -18621,6 +18690,7 @@ head-side-headphones:
 head-side-mask:
   changes:
     - 5.13.0
+    - 5.14.0
   label: Head Side Mask
   search:
     terms:
@@ -18634,7 +18704,7 @@ head-side-mask:
     - regular
     - solid
     - duotone
-  unicode: f963
+  unicode: e063
   voted: false
 head-side-medical:
   changes:
@@ -18658,6 +18728,7 @@ head-side-medical:
 head-side-virus:
   changes:
     - 5.13.0
+    - 5.14.0
   label: Head Side Virus
   search:
     terms:
@@ -18670,7 +18741,7 @@ head-side-virus:
     - regular
     - solid
     - duotone
-  unicode: f964
+  unicode: e064
   voted: false
 head-vr:
   changes:
@@ -18893,6 +18964,7 @@ heartbeat:
 heat:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Heat
   search:
     terms:
@@ -18910,7 +18982,7 @@ heat:
     - regular
     - light
     - duotone
-  unicode: f90c
+  unicode: e00c
   voted: false
 helicopter:
   changes:
@@ -19595,6 +19667,7 @@ hourglass-start:
 house:
   changes:
     - 5.12.0
+    - 5.14.0
   label: House
   search:
     terms:
@@ -19608,7 +19681,7 @@ house:
     - regular
     - light
     - duotone
-  unicode: f90d
+  unicode: e00d
   voted: false
 house-damage:
   changes:
@@ -19631,6 +19704,7 @@ house-damage:
 house-day:
   changes:
     - 5.12.0
+    - 5.14.0
   label: House Day
   search:
     terms:
@@ -19646,7 +19720,7 @@ house-day:
     - regular
     - light
     - duotone
-  unicode: f90e
+  unicode: e00e
   voted: false
 house-flood:
   changes:
@@ -19670,6 +19744,7 @@ house-flood:
 house-leave:
   changes:
     - 5.12.0
+    - 5.14.0
   label: House Leave
   search:
     terms:
@@ -19685,11 +19760,12 @@ house-leave:
     - regular
     - light
     - duotone
-  unicode: f90f
+  unicode: e00f
   voted: false
 house-night:
   changes:
     - 5.12.0
+    - 5.14.0
   label: House Night
   search:
     terms:
@@ -19705,11 +19781,12 @@ house-night:
     - regular
     - light
     - duotone
-  unicode: f910
+  unicode: e010
   voted: false
 house-return:
   changes:
     - 5.12.0
+    - 5.14.0
   label: House Return
   search:
     terms:
@@ -19724,11 +19801,12 @@ house-return:
     - regular
     - light
     - duotone
-  unicode: f911
+  unicode: e011
   voted: false
 house-signal:
   changes:
     - 5.12.0
+    - 5.14.0
   label: House Signal
   search:
     terms:
@@ -19745,11 +19823,12 @@ house-signal:
     - regular
     - light
     - duotone
-  unicode: f912
+  unicode: e012
   voted: false
 house-user:
   changes:
     - 5.13.0
+    - 5.14.0
   label: House User
   search:
     terms:
@@ -19762,7 +19841,7 @@ house-user:
     - regular
     - solid
     - duotone
-  unicode: f965
+  unicode: e065
   voted: false
 houzz:
   changes:
@@ -20034,12 +20113,13 @@ id-card-alt:
 ideal:
   changes:
     - 5.12.0
+    - 5.14.0
   label: iDeal
   search:
     terms: []
   styles:
     - brands
-  unicode: f913
+  unicode: e013
   voted: true
 igloo:
   changes:
@@ -20355,12 +20435,13 @@ instagram:
 instagram-square:
   changes:
     - 5.12.1
+    - 5.14.0
   label: Instagram Square
   search:
     terms: []
   styles:
     - brands
-  unicode: f955
+  unicode: e055
   voted: true
 integral:
   changes:
@@ -21141,6 +21222,7 @@ lamp:
 lamp-desk:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Lamp Desk
   search:
     terms:
@@ -21152,11 +21234,12 @@ lamp-desk:
     - regular
     - light
     - duotone
-  unicode: f914
+  unicode: e014
   voted: false
 lamp-floor:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Lamp Floor
   search:
     terms:
@@ -21168,7 +21251,7 @@ lamp-floor:
     - regular
     - light
     - duotone
-  unicode: f915
+  unicode: e015
   voted: false
 landmark:
   changes:
@@ -21277,6 +21360,7 @@ laptop-code:
 laptop-house:
   changes:
     - 5.13.0
+    - 5.14.0
   label: Laptop House
   search:
     terms:
@@ -21291,7 +21375,7 @@ laptop-house:
     - regular
     - solid
     - duotone
-  unicode: f966
+  unicode: e066
   voted: false
 laptop-medical:
   changes:
@@ -21732,6 +21816,7 @@ life-ring:
 light-ceiling:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Light Ceiling
   search:
     terms:
@@ -21744,11 +21829,12 @@ light-ceiling:
     - regular
     - light
     - duotone
-  unicode: f916
+  unicode: e016
   voted: false
 light-switch:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Light Switch
   search:
     terms:
@@ -21760,11 +21846,12 @@ light-switch:
     - regular
     - light
     - duotone
-  unicode: f917
+  unicode: e017
   voted: false
 light-switch-off:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Light Switch-off
   search:
     terms:
@@ -21776,11 +21863,12 @@ light-switch-off:
     - regular
     - light
     - duotone
-  unicode: f918
+  unicode: e018
   voted: false
 light-switch-on:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Light Switch-on
   search:
     terms:
@@ -21792,7 +21880,7 @@ light-switch-on:
     - regular
     - light
     - duotone
-  unicode: f919
+  unicode: e019
   voted: false
 lightbulb:
   changes:
@@ -22550,6 +22638,7 @@ lungs:
 lungs-virus:
   changes:
     - 5.13.0
+    - 5.14.0
   label: Lungs Virus
   search:
     terms:
@@ -22562,7 +22651,7 @@ lungs-virus:
     - regular
     - solid
     - duotone
-  unicode: f967
+  unicode: e067
   voted: false
 lyft:
   changes:
@@ -23629,12 +23718,13 @@ meteor:
 microblog:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Micro.blog
   search:
     terms: []
   styles:
     - brands
-  unicode: f91a
+  unicode: e01a
   voted: true
 microchip:
   changes:
@@ -23790,6 +23880,7 @@ microsoft:
 microwave:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Microwave
   search:
     terms:
@@ -23802,7 +23893,7 @@ microwave:
     - regular
     - light
     - duotone
-  unicode: f91b
+  unicode: e01b
   voted: false
 mind-share:
   changes:
@@ -23991,12 +24082,13 @@ mixcloud:
 mixer:
   changes:
     - 5.12.1
+    - 5.14.0
   label: Mixer
   search:
     terms: []
   styles:
     - brands
-  unicode: f956
+  unicode: e056
   voted: true
 mizuni:
   changes:
@@ -25208,6 +25300,7 @@ outdent:
 outlet:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Outlet
   search:
     terms:
@@ -25219,11 +25312,12 @@ outlet:
     - regular
     - light
     - duotone
-  unicode: f91c
+  unicode: e01c
   voted: false
 oven:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Oven
   search:
     terms:
@@ -25238,7 +25332,7 @@ oven:
     - regular
     - light
     - duotone
-  unicode: f91d
+  unicode: e01d
   voted: false
 overline:
   changes:
@@ -26022,6 +26116,7 @@ penny-arcade:
 people-arrows:
   changes:
     - 5.13.0
+    - 5.14.0
   label: People Arrows
   search:
     terms:
@@ -26036,7 +26131,7 @@ people-arrows:
     - regular
     - solid
     - duotone
-  unicode: f968
+  unicode: e068
   voted: false
 people-carry:
   changes:
@@ -26616,12 +26711,13 @@ pied-piper-pp:
 pied-piper-square:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Pied Piper Square Logo (Old)
   search:
     terms: []
   styles:
     - brands
-  unicode: f91e
+  unicode: e01e
   voted: false
 pig:
   changes:
@@ -26866,6 +26962,7 @@ plane-departure:
 plane-slash:
   changes:
     - 5.13.0
+    - 5.14.0
   label: Plane Slash
   search:
     terms:
@@ -26880,11 +26977,12 @@ plane-slash:
     - regular
     - solid
     - duotone
-  unicode: f969
+  unicode: e069
   voted: false
 planet-moon:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Planet with Moon
   search:
     terms:
@@ -26899,11 +26997,12 @@ planet-moon:
     - regular
     - light
     - duotone
-  unicode: f91f
+  unicode: e01f
   voted: false
 planet-ringed:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Ringed Planet
   search:
     terms:
@@ -26917,7 +27016,7 @@ planet-ringed:
     - regular
     - light
     - duotone
-  unicode: f920
+  unicode: e020
   voted: false
 play:
   changes:
@@ -27159,6 +27258,7 @@ podium-star:
 police-box:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Police Box
   search:
     terms:
@@ -27171,7 +27271,7 @@ police-box:
     - regular
     - light
     - duotone
-  unicode: f921
+  unicode: e021
   voted: false
 poll:
   changes:
@@ -27318,6 +27418,7 @@ popcorn:
 portal-enter:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Portal Enter
   search:
     terms:
@@ -27331,11 +27432,12 @@ portal-enter:
     - regular
     - light
     - duotone
-  unicode: f922
+  unicode: e022
   voted: false
 portal-exit:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Portal Exit
   search:
     terms:
@@ -27349,7 +27451,7 @@ portal-exit:
     - regular
     - light
     - duotone
-  unicode: f923
+  unicode: e023
   voted: false
 portrait:
   changes:
@@ -27650,6 +27752,7 @@ projector:
 pump-medical:
   changes:
     - 5.13.0
+    - 5.14.0
   label: Pump Medical
   search:
     terms:
@@ -27666,11 +27769,12 @@ pump-medical:
     - regular
     - solid
     - duotone
-  unicode: f96a
+  unicode: e06a
   voted: false
 pump-soap:
   changes:
     - 5.13.0
+    - 5.14.0
   label: Pump Soap
   search:
     terms:
@@ -27686,7 +27790,7 @@ pump-soap:
     - regular
     - solid
     - duotone
-  unicode: f96b
+  unicode: e06b
   voted: false
 pumpkin:
   changes:
@@ -28007,6 +28111,7 @@ racquet:
 radar:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Radar
   search:
     terms:
@@ -28023,7 +28128,7 @@ radar:
     - regular
     - light
     - duotone
-  unicode: f924
+  unicode: e024
   voted: false
 radiation:
   changes:
@@ -28230,6 +28335,7 @@ ravelry:
 raygun:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Raygun
   search:
     terms:
@@ -28244,7 +28350,7 @@ raygun:
     - regular
     - light
     - duotone
-  unicode: f925
+  unicode: e025
   voted: false
 react:
   changes:
@@ -28490,6 +28596,7 @@ redo-alt:
 refrigerator:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Refrigerator
   search:
     terms:
@@ -28504,7 +28611,7 @@ refrigerator:
     - regular
     - light
     - duotone
-  unicode: f926
+  unicode: e026
   voted: false
 registered:
   changes:
@@ -28901,6 +29008,7 @@ rocket:
 rocket-launch:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Rocket Launch
   search:
     terms:
@@ -28917,7 +29025,7 @@ rocket-launch:
     - regular
     - light
     - duotone
-  unicode: f927
+  unicode: e027
   voted: false
 rocketchat:
   changes:
@@ -29205,6 +29313,17 @@ rupee-sign:
     - duotone
   unicode: f156
   voted: false
+rust:
+  changes:
+    - 5.13.1
+    - 5.14.0
+  label: Rust
+  search:
+    terms: []
+  styles:
+    - brands
+  unicode: e07a
+  voted: true
 rv:
   changes:
     - 5.6.0
@@ -30004,6 +30123,7 @@ send-backward:
 sensor:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Sensor
   search:
     terms:
@@ -30018,11 +30138,12 @@ sensor:
     - regular
     - light
     - duotone
-  unicode: f928
+  unicode: e028
   voted: false
 sensor-alert:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Sensor Alert
   search:
     terms:
@@ -30037,11 +30158,12 @@ sensor-alert:
     - regular
     - light
     - duotone
-  unicode: f929
+  unicode: e029
   voted: false
 sensor-fire:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Sensor Fire
   search:
     terms:
@@ -30056,11 +30178,12 @@ sensor-fire:
     - regular
     - light
     - duotone
-  unicode: f92a
+  unicode: e02a
   voted: false
 sensor-on:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Sensor On
   search:
     terms:
@@ -30075,11 +30198,12 @@ sensor-on:
     - regular
     - light
     - duotone
-  unicode: f92b
+  unicode: e02b
   voted: false
 sensor-smoke:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Sensor Smoke
   search:
     terms:
@@ -30094,7 +30218,7 @@ sensor-smoke:
     - regular
     - light
     - duotone
-  unicode: f92c
+  unicode: e02c
   voted: false
 server:
   changes:
@@ -30365,6 +30489,7 @@ shield-cross:
 shield-virus:
   changes:
     - 5.13.0
+    - 5.14.0
   label: Shield Virus
   search:
     terms:
@@ -30378,7 +30503,7 @@ shield-virus:
     - regular
     - solid
     - duotone
-  unicode: f96c
+  unicode: e06c
   voted: false
 ship:
   changes:
@@ -30490,12 +30615,13 @@ shoe-prints:
 shopify:
   changes:
     - 5.12.1
+    - 5.14.0
   label: Shopify
   search:
     terms: []
   styles:
     - brands
-  unicode: f957
+  unicode: e057
   voted: false
 shopping-bag:
   changes:
@@ -31114,6 +31240,8 @@ simplybuilt:
 sink:
   changes:
     - 5.13.0
+    - 5.13.1
+    - 5.14.0
   label: Sink
   search:
     terms:
@@ -31127,11 +31255,12 @@ sink:
     - regular
     - solid
     - duotone
-  unicode: f96d
+  unicode: e06d
   voted: false
 siren:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Siren
   search:
     terms:
@@ -31146,11 +31275,12 @@ siren:
     - regular
     - light
     - duotone
-  unicode: f92d
+  unicode: e02d
   voted: false
 siren-on:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Siren On
   search:
     terms:
@@ -31165,7 +31295,7 @@ siren-on:
     - regular
     - light
     - duotone
-  unicode: f92e
+  unicode: e02e
   voted: false
 sistrix:
   changes:
@@ -31958,6 +32088,7 @@ snowplow:
 soap:
   changes:
     - 5.13.0
+    - 5.14.0
   label: Soap
   search:
     terms:
@@ -31971,7 +32102,7 @@ soap:
     - regular
     - solid
     - duotone
-  unicode: f96e
+  unicode: e06e
   voted: false
 socks:
   changes:
@@ -32014,6 +32145,7 @@ solar-panel:
 solar-system:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Solar System
   search:
     terms:
@@ -32028,7 +32160,7 @@ solar-system:
     - regular
     - light
     - duotone
-  unicode: f92f
+  unicode: e02f
   voted: false
 sort:
   changes:
@@ -32218,6 +32350,7 @@ sort-amount-up-alt:
 sort-circle:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Sort Circle
   search:
     terms:
@@ -32233,11 +32366,12 @@ sort-circle:
     - regular
     - light
     - duotone
-  unicode: f930
+  unicode: e030
   voted: false
 sort-circle-down:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Sort Circle Down
   search:
     terms:
@@ -32253,11 +32387,12 @@ sort-circle-down:
     - regular
     - light
     - duotone
-  unicode: f931
+  unicode: e031
   voted: false
 sort-circle-up:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Sort Circle Up
   search:
     terms:
@@ -32273,7 +32408,7 @@ sort-circle-up:
     - regular
     - light
     - duotone
-  unicode: f932
+  unicode: e032
   voted: false
 sort-down:
   changes:
@@ -32623,6 +32758,7 @@ space-shuttle:
 space-station-moon:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Moon Space Station
   search:
     terms:
@@ -32639,11 +32775,12 @@ space-station-moon:
     - regular
     - light
     - duotone
-  unicode: f933
+  unicode: e033
   voted: false
 space-station-moon-alt:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Moon Space Station Under Construction
   search:
     terms:
@@ -32659,7 +32796,7 @@ space-station-moon-alt:
     - regular
     - light
     - duotone
-  unicode: f934
+  unicode: e034
   voted: false
 spade:
   changes:
@@ -32921,6 +33058,7 @@ spray-can:
 sprinkler:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Sprinkler
   search:
     terms:
@@ -32934,7 +33072,7 @@ sprinkler:
     - regular
     - light
     - duotone
-  unicode: f935
+  unicode: e035
   voted: false
 square:
   changes:
@@ -33263,6 +33401,7 @@ star-of-life:
 star-shooting:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Star Shooting
   search:
     terms:
@@ -33276,11 +33415,12 @@ star-shooting:
     - regular
     - light
     - duotone
-  unicode: f936
+  unicode: e036
   voted: false
 starfighter:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Starfighter
   search:
     terms:
@@ -33294,11 +33434,12 @@ starfighter:
     - regular
     - light
     - duotone
-  unicode: f937
+  unicode: e037
   voted: false
 starfighter-alt:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Starfighter Alternate
   search:
     terms:
@@ -33312,7 +33453,7 @@ starfighter-alt:
     - regular
     - light
     - duotone
-  unicode: f938
+  unicode: e038
   voted: false
 stars:
   changes:
@@ -33336,6 +33477,7 @@ stars:
 starship:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Starship
   search:
     terms:
@@ -33353,11 +33495,12 @@ starship:
     - regular
     - light
     - duotone
-  unicode: f939
+  unicode: e039
   voted: false
 starship-freighter:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Starship Freighter
   search:
     terms:
@@ -33373,7 +33516,7 @@ starship-freighter:
     - regular
     - light
     - duotone
-  unicode: f93a
+  unicode: e03a
   voted: false
 staylinked:
   changes:
@@ -33651,6 +33794,7 @@ stopwatch:
 stopwatch-20:
   changes:
     - 5.13.0
+    - 5.14.0
   label: Stopwatch 20
   search:
     terms:
@@ -33668,7 +33812,7 @@ stopwatch-20:
     - regular
     - solid
     - duotone
-  unicode: f96f
+  unicode: e06f
   voted: false
 store:
   changes:
@@ -33709,6 +33853,7 @@ store-alt:
 store-alt-slash:
   changes:
     - 5.13.0
+    - 5.14.0
   label: Alternate Store Slash
   search:
     terms:
@@ -33723,11 +33868,12 @@ store-alt-slash:
     - regular
     - solid
     - duotone
-  unicode: f970
+  unicode: e070
   voted: false
 store-slash:
   changes:
     - 5.13.0
+    - 5.14.0
   label: Store Slash
   search:
     terms:
@@ -33742,7 +33888,7 @@ store-slash:
     - regular
     - solid
     - duotone
-  unicode: f971
+  unicode: e071
   voted: false
 strava:
   changes:
@@ -34280,6 +34426,7 @@ sword:
 sword-laser:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Sword Laser
   search:
     terms:
@@ -34293,11 +34440,12 @@ sword-laser:
     - regular
     - light
     - duotone
-  unicode: f93b
+  unicode: e03b
   voted: false
 sword-laser-alt:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Sword Laser Alternate
   search:
     terms:
@@ -34311,7 +34459,7 @@ sword-laser-alt:
     - regular
     - light
     - duotone
-  unicode: f93c
+  unicode: e03c
   voted: false
 swords:
   changes:
@@ -34337,6 +34485,7 @@ swords:
 swords-laser:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Swords Laser
   search:
     terms:
@@ -34355,7 +34504,7 @@ swords-laser:
     - regular
     - light
     - duotone
-  unicode: f93d
+  unicode: e03d
   voted: false
 symfony:
   changes:
@@ -35047,6 +35196,7 @@ telegram-plane:
 telescope:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Telescope
   search:
     terms:
@@ -35064,11 +35214,12 @@ telescope:
     - regular
     - light
     - duotone
-  unicode: f93e
+  unicode: e03e
   voted: false
 temperature-down:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Temperature Down
   search:
     terms:
@@ -35083,7 +35234,7 @@ temperature-down:
     - regular
     - light
     - duotone
-  unicode: f93f
+  unicode: e03f
   voted: false
 temperature-frigid:
   changes:
@@ -35160,6 +35311,7 @@ temperature-low:
 temperature-up:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Temperature Up
   search:
     terms:
@@ -35174,7 +35326,7 @@ temperature-up:
     - regular
     - light
     - duotone
-  unicode: f940
+  unicode: e040
   voted: false
 tencent-weibo:
   changes:
@@ -35734,6 +35886,17 @@ ticket-alt:
     - duotone
   unicode: f3ff
   voted: false
+tiktok:
+  changes:
+    - 5.13.1
+    - 5.14.0
+  label: TikTok
+  search:
+    terms: []
+  styles:
+    - brands
+  unicode: e07b
+  voted: true
 tilde:
   changes:
     - 5.3.0
@@ -36112,6 +36275,7 @@ toilet-paper-alt:
 toilet-paper-slash:
   changes:
     - 5.13.0
+    - 5.14.0
   label: Toilet Paper Slash
   search:
     terms:
@@ -36131,7 +36295,7 @@ toilet-paper-slash:
     - regular
     - solid
     - duotone
-  unicode: f972
+  unicode: e072
   voted: false
 tombstone:
   changes:
@@ -36447,6 +36611,7 @@ traffic-light-stop:
 trailer:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Trailer
   search:
     terms:
@@ -36459,7 +36624,7 @@ trailer:
     - regular
     - light
     - duotone
-  unicode: f941
+  unicode: e041
   voted: true
 train:
   changes:
@@ -36531,6 +36696,7 @@ transgender-alt:
 transporter:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Transporter
   search:
     terms:
@@ -36544,11 +36710,12 @@ transporter:
     - regular
     - light
     - duotone
-  unicode: f942
+  unicode: e042
   voted: false
 transporter-1:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Transporter 1
   search:
     terms:
@@ -36562,11 +36729,12 @@ transporter-1:
     - regular
     - light
     - duotone
-  unicode: f943
+  unicode: e043
   voted: false
 transporter-2:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Transporter 2
   search:
     terms:
@@ -36580,11 +36748,12 @@ transporter-2:
     - regular
     - light
     - duotone
-  unicode: f944
+  unicode: e044
   voted: false
 transporter-3:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Transporter 3
   search:
     terms:
@@ -36598,11 +36767,12 @@ transporter-3:
     - regular
     - light
     - duotone
-  unicode: f945
+  unicode: e045
   voted: false
 transporter-empty:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Transporter Empty
   search:
     terms:
@@ -36617,7 +36787,7 @@ transporter-empty:
     - regular
     - light
     - duotone
-  unicode: f946
+  unicode: e046
   voted: false
 trash:
   changes:
@@ -36944,6 +37114,8 @@ tripadvisor:
   changes:
     - '4.4'
     - 5.0.0
+    - 5.13.1
+    - 5.14.0
   label: TripAdvisor
   search:
     terms: []
@@ -37463,6 +37635,7 @@ ubuntu:
 ufo:
   changes:
     - 5.12.0
+    - 5.14.0
   label: U.F.O.
   search:
     terms:
@@ -37480,11 +37653,12 @@ ufo:
     - regular
     - light
     - duotone
-  unicode: f947
+  unicode: e047
   voted: false
 ufo-beam:
   changes:
     - 5.12.0
+    - 5.14.0
   label: U.F.O. with Beam
   search:
     terms:
@@ -37504,7 +37678,7 @@ ufo-beam:
     - regular
     - light
     - duotone
-  unicode: f948
+  unicode: e048
   voted: false
 uikit:
   changes:
@@ -37669,12 +37843,13 @@ uniregistry:
 unity:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Unity 3D
   search:
     terms: []
   styles:
     - brands
-  unicode: f949
+  unicode: e049
   voted: true
 universal-access:
   changes:
@@ -37773,6 +37948,17 @@ unlock-alt:
     - light
     - duotone
   unicode: f13e
+  voted: false
+unsplash:
+  changes:
+    - 5.13.1
+    - 5.14.0
+  label: Unsplash
+  search:
+    terms: []
+  styles:
+    - brands
+  unicode: e07c
   voted: false
 untappd:
   changes:
@@ -37912,6 +38098,7 @@ user:
 user-alien:
   changes:
     - 5.12.0
+    - 5.14.0
   label: User Alien
   search:
     terms:
@@ -37927,7 +38114,7 @@ user-alien:
     - regular
     - light
     - duotone
-  unicode: f94a
+  unicode: e04a
   voted: false
 user-alt:
   changes:
@@ -38397,6 +38584,7 @@ user-plus:
 user-robot:
   changes:
     - 5.12.0
+    - 5.14.0
   label: User Robot
   search:
     terms:
@@ -38410,7 +38598,7 @@ user-robot:
     - regular
     - light
     - duotone
-  unicode: f94b
+  unicode: e04b
   voted: false
 user-secret:
   changes:
@@ -38531,6 +38719,7 @@ user-times:
 user-unlock:
   changes:
     - 5.12.1
+    - 5.14.0
   label: User Unlock
   search:
     terms:
@@ -38544,11 +38733,12 @@ user-unlock:
     - regular
     - solid
     - duotone
-  unicode: f958
+  unicode: e058
   voted: false
 user-visor:
   changes:
     - 5.12.0
+    - 5.14.0
   label: User Visor
   search:
     terms:
@@ -38559,7 +38749,7 @@ user-visor:
     - regular
     - light
     - duotone
-  unicode: f94c
+  unicode: e04c
   voted: false
 users:
   changes:
@@ -38660,6 +38850,7 @@ users-medical:
 users-slash:
   changes:
     - 5.13.0
+    - 5.14.0
   label: Users Slash
   search:
     terms:
@@ -38677,7 +38868,7 @@ users-slash:
     - regular
     - solid
     - duotone
-  unicode: f973
+  unicode: e073
   voted: false
 usps:
   changes:
@@ -38815,6 +39006,7 @@ vaadin:
 vacuum:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Vacuum
   search:
     terms:
@@ -38828,11 +39020,12 @@ vacuum:
     - regular
     - light
     - duotone
-  unicode: f94d
+  unicode: e04d
   voted: false
 vacuum-robot:
   changes:
     - 5.12.0
+    - 5.14.0
   label: Robot Vacuum
   search:
     terms:
@@ -38846,7 +39039,7 @@ vacuum-robot:
     - regular
     - light
     - duotone
-  unicode: f94e
+  unicode: e04e
   voted: false
 value-absolute:
   changes:
@@ -39174,6 +39367,7 @@ violin:
 virus:
   changes:
     - 5.13.0
+    - 5.14.0
   label: Virus
   search:
     terms:
@@ -39188,11 +39382,12 @@ virus:
     - regular
     - solid
     - duotone
-  unicode: f974
+  unicode: e074
   voted: false
 virus-slash:
   changes:
     - 5.13.0
+    - 5.14.0
   label: Virus Slash
   search:
     terms:
@@ -39209,11 +39404,12 @@ virus-slash:
     - regular
     - solid
     - duotone
-  unicode: f975
+  unicode: e075
   voted: false
 viruses:
   changes:
     - 5.13.0
+    - 5.14.0
   label: Viruses
   search:
     terms:
@@ -39230,7 +39426,7 @@ viruses:
     - regular
     - solid
     - duotone
-  unicode: f976
+  unicode: e076
   voted: false
 vk:
   changes:
@@ -40310,6 +40506,7 @@ window-close:
 window-frame:
   changes:
     - 5.12.0
+    - 5.14.0
   label: House Window
   search:
     terms:
@@ -40323,11 +40520,12 @@ window-frame:
     - regular
     - light
     - duotone
-  unicode: f94f
+  unicode: e04f
   voted: false
 window-frame-open:
   changes:
     - 5.12.0
+    - 5.14.0
   label: House Window Open
   search:
     terms:
@@ -40341,7 +40539,7 @@ window-frame-open:
     - regular
     - light
     - duotone
-  unicode: f950
+  unicode: e050
   voted: false
 window-maximize:
   changes:
@@ -40727,6 +40925,7 @@ yahoo:
     - '4.1'
     - 5.0.0
     - 5.0.3
+    - 5.13.1
   label: Yahoo Logo
   search:
     terms: []

@@ -1990,6 +1990,7 @@ images:
     - sliders-v
     - sliders-v-square
     - tint
+    - unsplash
   label: Images
 interfaces:
   icons:
@@ -3068,6 +3069,7 @@ payments-shopping:
     - ethereum
     - gem
     - gift
+    - google-pay
     - google-wallet
     - handshake
     - heart
