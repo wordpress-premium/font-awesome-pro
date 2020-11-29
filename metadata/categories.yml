@@ -951,6 +951,7 @@ computers:
   icons:
     - brackets
     - brackets-curly
+    - compact-disc
     - computer-classic
     - computer-speaker
     - database
@@ -2411,6 +2412,8 @@ maps:
     - utensil-spoon
     - utensils
     - utensils-alt
+    - vest
+    - vest-patches
     - wheelchair
     - wifi
     - wine-glass
@@ -2673,6 +2676,7 @@ music:
     - cloud-music
     - comment-alt-music
     - comment-music
+    - compact-disc
     - computer-speaker
     - cowbell
     - cowbell-more

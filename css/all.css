@@ -1,5 +1,5 @@
 /*!
- * Font Awesome Pro 5.14.0 by @fontawesome - https://fontawesome.com
+ * Font Awesome Pro 5.15.1 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license (Commercial License)
  */
 .fa,
@@ -221,9 +221,6 @@ readers do not read off random characters that represent icons */
 
 .fa-adn:before {
   content: "\f170"; }
-
-.fa-adobe:before {
-  content: "\f778"; }
 
 .fa-adversal:before {
   content: "\f36a"; }
@@ -1601,6 +1598,9 @@ readers do not read off random characters that represent icons */
 
 .fa-cloud-upload-alt:before {
   content: "\f382"; }
+
+.fa-cloudflare:before {
+  content: "\e07d"; }
 
 .fa-clouds:before {
   content: "\f744"; }
@@ -3093,6 +3093,9 @@ readers do not read off random characters that represent icons */
 .fa-grunt:before {
   content: "\f3ad"; }
 
+.fa-guilded:before {
+  content: "\e07e"; }
+
 .fa-guitar:before {
   content: "\f7a6"; }
 
@@ -3357,6 +3360,9 @@ readers do not read off random characters that represent icons */
 .fa-history:before {
   content: "\f1da"; }
 
+.fa-hive:before {
+  content: "\e07f"; }
+
 .fa-hockey-mask:before {
   content: "\f6ee"; }
 
@@ -3567,11 +3573,17 @@ readers do not read off random characters that represent icons */
 .fa-inhaler:before {
   content: "\f5f9"; }
 
+.fa-innosoft:before {
+  content: "\e080"; }
+
 .fa-instagram:before {
   content: "\f16d"; }
 
 .fa-instagram-square:before {
   content: "\e055"; }
+
+.fa-instalod:before {
+  content: "\e081"; }
 
 .fa-integral:before {
   content: "\f667"; }
@@ -4365,6 +4377,9 @@ readers do not read off random characters that represent icons */
 .fa-octagon:before {
   content: "\f306"; }
 
+.fa-octopus-deploy:before {
+  content: "\e082"; }
+
 .fa-odnoklassniki:before {
   content: "\f263"; }
 
@@ -4559,6 +4574,9 @@ readers do not read off random characters that represent icons */
 
 .fa-pepper-hot:before {
   content: "\f816"; }
+
+.fa-perbyte:before {
+  content: "\e083"; }
 
 .fa-percent:before {
   content: "\f295"; }
@@ -6498,6 +6516,9 @@ readers do not read off random characters that represent icons */
 .fa-umbrella-beach:before {
   content: "\f5ca"; }
 
+.fa-uncharted:before {
+  content: "\e084"; }
+
 .fa-underline:before {
   content: "\f0cd"; }
 
@@ -6726,6 +6747,12 @@ readers do not read off random characters that represent icons */
 .fa-venus-mars:before {
   content: "\f228"; }
 
+.fa-vest:before {
+  content: "\e085"; }
+
+.fa-vest-patches:before {
+  content: "\e086"; }
+
 .fa-vhs:before {
   content: "\f8ec"; }
 
@@ -6867,6 +6894,9 @@ readers do not read off random characters that represent icons */
 .fa-watch-fitness:before {
   content: "\f63e"; }
 
+.fa-watchman-monitoring:before {
+  content: "\e087"; }
+
 .fa-water:before {
   content: "\f773"; }
 
@@ -7004,6 +7034,9 @@ readers do not read off random characters that represent icons */
 
 .fa-wizards-of-the-coast:before {
   content: "\f730"; }
+
+.fa-wodu:before {
+  content: "\e088"; }
 
 .fa-wolf-pack-battalion:before {
   content: "\f514"; }
@@ -12482,6 +12515,12 @@ readers do not read off random characters that represent icons */
 
 .fad.fa-venus-mars:after {
   content: "\10f228"; }
+
+.fad.fa-vest:after {
+  content: "\10e085"; }
+
+.fad.fa-vest-patches:after {
+  content: "\10e086"; }
 
 .fad.fa-vhs:after {
   content: "\10f8ec"; }
