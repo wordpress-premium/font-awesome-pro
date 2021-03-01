@@ -1,14 +1,16 @@
 /*!
- * Font Awesome Pro 5.15.1 by @fontawesome - https://fontawesome.com
+ * Font Awesome Pro 6.0.0-alpha2 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license (Commercial License)
  */
 (function (global, factory) {
-  typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports) :
-  typeof define === 'function' && define.amd ? define(['exports'], factory) :
-  (factory((global['fontawesome-pro-conflict-detection'] = {})));
-}(this, (function (exports) { 'use strict';
+  typeof exports === 'object' && typeof module !== 'undefined' ? factory() :
+  typeof define === 'function' && define.amd ? define(factory) :
+  (factory());
+}(this, (function () { 'use strict';
 
   function _typeof(obj) {
+    "@babel/helpers - typeof";
+
     if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") {
       _typeof = function (obj) {
         return typeof obj;
@@ -39,7 +41,7 @@
 
   function _objectSpread(target) {
     for (var i = 1; i < arguments.length; i++) {
-      var source = arguments[i] != null ? arguments[i] : {};
+      var source = arguments[i] != null ? Object(arguments[i]) : {};
       var ownKeys = Object.keys(source);
 
       if (typeof Object.getOwnPropertySymbols === 'function') {
@@ -67,7 +69,6 @@
   var _ref = _WINDOW.navigator || {},
       _ref$userAgent = _ref.userAgent,
       userAgent = _ref$userAgent === void 0 ? '' : _ref$userAgent;
-
   var WINDOW = _WINDOW;
   var DOCUMENT = _DOCUMENT;
   var IS_BROWSER = !!WINDOW.document;
@@ -128,7 +129,7 @@
     var noConflictsCount = Object.keys(nodesTested.noConflict).length;
 
     if (noConflictsCount > 0) {
-      console.info("%cNo conflict".concat(noConflictsCount > 1 ? 's' : '', " found with ").concat(noConflictsCount == 1 ? 'this' : 'these', ":"), 'color: green; font-size: large');
+      console.info("%cNo conflict".concat(noConflictsCount > 1 ? 's' : '', " found with ").concat(noConflictsCount === 1 ? 'this' : 'these', ":"), 'color: green; font-size: large');
       var _data = {};
 
       for (var _key2 in nodesTested.noConflict) {
@@ -146,7 +147,7 @@
     var timeOutCount = Object.keys(timedOutTests).length;
 
     if (timeOutCount > 0) {
-      console.info("%cLeftovers--we timed out before collecting test results for ".concat(timeOutCount == 1 ? 'this' : 'these', ":"), 'color: blue; font-size: large');
+      console.info("%cLeftovers--we timed out before collecting test results for ".concat(timeOutCount === 1 ? 'this' : 'these', ":"), 'color: blue; font-size: large');
       var _data2 = {};
 
       for (var _key3 in timedOutTests) {
@@ -629,7 +630,7 @@
             console.info(progressIndicator);
           }
 
-          if (!!result) {
+          if (result) {
             // eslint-disable-line no-extra-boolean-cast
             resolve(result);
           } else {
@@ -693,7 +694,7 @@
             var computedStyle = window.getComputedStyle(iEl);
             var fontFamily = computedStyle.getPropertyValue('font-family');
 
-            if (!!fontFamily.match(/FontAwesome/) || !!fontFamily.match(/Font Awesome 5/)) {
+            if (!!fontFamily.match(/FontAwesome/) || !!fontFamily.match(/Font Awesome 6/)) {
               return true;
             } else {
               return false;
@@ -977,7 +978,11 @@
 
   function bunker(fn) {
     try {
-      fn();
+      for (var _len = arguments.length, args = new Array(_len > 1 ? _len - 1 : 0), _key = 1; _key < _len; _key++) {
+        args[_key - 1] = arguments[_key];
+      }
+
+      fn.apply(void 0, args);
     } catch (e) {
       if (!PRODUCTION) {
         throw e;
@@ -990,9 +995,5 @@
       conflictDetection(window.FontAwesomeDetection.report);
     }
   });
-
-  exports.conflictDetection = conflictDetection;
-
-  Object.defineProperty(exports, '__esModule', { value: true });
 
 })));
