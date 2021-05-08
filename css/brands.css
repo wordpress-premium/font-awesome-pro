@@ -1,5 +1,5 @@
 /*!
- * Font Awesome Pro 6.0.0-alpha2 by @fontawesome - https://fontawesome.com
+ * Font Awesome Pro 6.0.0-alpha3 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license (Commercial License)
  */
 @font-face {
@@ -461,10 +461,10 @@
 .fa-font-awesome:before {
   content: "\f2b4"; }
 
-.fa-font-awesome-logo-full:before {
+.fa-font-awesome-flag:before {
   content: "\f2b4"; }
 
-.fa-font-awesome-flag:before {
+.fa-font-awesome-logo-full:before {
   content: "\f2b4"; }
 
 .fa-fonticons:before {
@@ -1321,6 +1321,12 @@
 
 .fa-windows:before {
   content: "\f17a"; }
+
+.fa-wirsindhanderk:before {
+  content: "\e2d0"; }
+
+.fa-wsh:before {
+  content: "\e2d0"; }
 
 .fa-wix:before {
   content: "\f5cf"; }

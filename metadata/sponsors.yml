@@ -93,6 +93,11 @@ c-panel:
     - cpanel
   label: cPanel
   url: 'http://cpanel.com'
+carris-reels:
+  icons:
+    - reel
+  label: Carris Reels
+  url: 'https://www.carris.com'
 centercode:
   icons:
     - centercode
@@ -465,6 +470,19 @@ napster:
     - napster
   label: Napster
   url: 'http://www.napster.com'
+nfc21:
+  icons:
+    - mobile-signal
+    - mobile-signal-out
+    - nfc
+    - nfc-lock
+    - nfc-magnifying-glass
+    - nfc-pen
+    - nfc-signal
+    - nfc-slash
+    - nfc-trash
+  label: NFC21
+  url: 'https://nfc21.de/'
 nimblr:
   icons:
     - nimblr
@@ -884,9 +902,9 @@ via:
     - draw-polygon
     - draw-square
     - house-crack
-    - layers
-    - layers-minus
-    - layers-plus
+    - layer-group
+    - layer-minus
+    - layer-plus
     - skull-crossbones
     - user-injured
   label: VIA Traffic Software Solutions
@@ -921,6 +939,11 @@ whmcs:
     - whmcs
   label: WHMCS
   url: 'https://www.whmcs.com'
+wirsindhanderk:
+  icons:
+    - wirsindhanderk
+  label: wirsindhanderk.de
+  url: 'https://www.wirsindhandwerk.de/'
 wodu:
   icons:
     - wodu

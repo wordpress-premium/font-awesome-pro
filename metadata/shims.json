@@ -5,9 +5,9 @@
     "martini-glass-empty"
   ],
   [
-    "meetup",
-    "fab",
-    null
+    "envelope-o",
+    "far",
+    "envelope"
   ],
   [
     "star-o",
@@ -62,12 +62,12 @@
   [
     "repeat",
     null,
-    "arrow-rotate-forward"
+    "arrow-rotate-right"
   ],
   [
     "rotate-right",
     null,
-    "arrow-rotate-forward"
+    "arrow-rotate-right"
   ],
   [
     "refresh",
@@ -427,7 +427,7 @@
   [
     "rotate-left",
     null,
-    "arrow-left-rotate"
+    "arrow-rotate-left"
   ],
   [
     "legal",
@@ -1165,9 +1165,9 @@
     null
   ],
   [
-    "envelope-o",
-    "far",
-    "envelope"
+    "automobile",
+    null,
+    "car"
   ],
   [
     "cab",
@@ -2325,8 +2325,8 @@
     null
   ],
   [
-    "automobile",
-    null,
-    "car"
+    "meetup",
+    "fab",
+    null
   ]
 ]
