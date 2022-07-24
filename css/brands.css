@@ -1,18 +1,28 @@
 /*!
- * Font Awesome Pro 6.0.0-alpha3 by @fontawesome - https://fontawesome.com
+ * Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license (Commercial License)
+ * Copyright 2022 Fonticons, Inc.
  */
+:root, :host {
+  --fa-font-brands: normal 400 1em/1 "Font Awesome 6 Brands"; }
+
 @font-face {
   font-family: 'Font Awesome 6 Brands';
   font-style: normal;
   font-weight: 400;
   font-display: block;
-  src: url("../webfonts/fa-brands-400.woff2") format("woff2"), url("../webfonts/fa-brands-400.woff") format("woff"), url("../webfonts/fa-brands-400.ttf") format("truetype"); }
+  src: url("../webfonts/fa-brands-400.woff2") format("woff2"), url("../webfonts/fa-brands-400.ttf") format("truetype"); }
 
 .fab,
 .fa-brands {
   font-family: 'Font Awesome 6 Brands';
   font-weight: 400; }
+
+.fa-42-group:before {
+  content: "\e080"; }
+
+.fa-innosoft:before {
+  content: "\e080"; }
 
 .fa-500px:before {
   content: "\f26e"; }
@@ -22,9 +32,6 @@
 
 .fa-accusoft:before {
   content: "\f369"; }
-
-.fa-acquisitions-incorporated:before {
-  content: "\f6af"; }
 
 .fa-adn:before {
   content: "\f170"; }
@@ -116,6 +123,9 @@
 .fa-behance-square:before {
   content: "\f1b5"; }
 
+.fa-bilibili:before {
+  content: "\e3d9"; }
+
 .fa-bimobject:before {
   content: "\f378"; }
 
@@ -148,6 +158,9 @@
 
 .fa-bootstrap:before {
   content: "\f836"; }
+
+.fa-bots:before {
+  content: "\e340"; }
 
 .fa-btc:before {
   content: "\f15a"; }
@@ -220,6 +233,9 @@
 
 .fa-cloudversify:before {
   content: "\f385"; }
+
+.fa-cmplid:before {
+  content: "\e360"; }
 
 .fa-codepen:before {
   content: "\f1cb"; }
@@ -545,6 +561,9 @@
 .fa-gofore:before {
   content: "\f3a7"; }
 
+.fa-golang:before {
+  content: "\e40f"; }
+
 .fa-goodreads:before {
   content: "\f3a8"; }
 
@@ -602,6 +621,9 @@
 .fa-hackerrank:before {
   content: "\f5f7"; }
 
+.fa-hashnode:before {
+  content: "\e499"; }
+
 .fa-hips:before {
   content: "\f452"; }
 
@@ -634,9 +656,6 @@
 
 .fa-imdb:before {
   content: "\f2d8"; }
-
-.fa-innosoft:before {
-  content: "\e080"; }
 
 .fa-instagram:before {
   content: "\f16d"; }
@@ -788,6 +807,9 @@
 .fa-mendeley:before {
   content: "\f7b3"; }
 
+.fa-meta:before {
+  content: "\e49b"; }
+
 .fa-microblog:before {
   content: "\e01a"; }
 
@@ -817,6 +839,12 @@
 
 .fa-neos:before {
   content: "\f612"; }
+
+.fa-nfc-directional:before {
+  content: "\e530"; }
+
+.fa-nfc-symbol:before {
+  content: "\e531"; }
 
 .fa-nimblr:before {
   content: "\f5a8"; }
@@ -866,6 +894,9 @@
 .fa-osi:before {
   content: "\f41a"; }
 
+.fa-padlet:before {
+  content: "\e4a0"; }
+
 .fa-page4:before {
   content: "\f3d7"; }
 
@@ -880,9 +911,6 @@
 
 .fa-paypal:before {
   content: "\f1ed"; }
-
-.fa-penny-arcade:before {
-  content: "\f704"; }
 
 .fa-perbyte:before {
   content: "\e083"; }
@@ -925,6 +953,9 @@
 
 .fa-pinterest-square:before {
   content: "\f0d3"; }
+
+.fa-pix:before {
+  content: "\e43a"; }
 
 .fa-playstation:before {
   content: "\f3df"; }
@@ -1019,6 +1050,9 @@
 .fa-schlix:before {
   content: "\f3ea"; }
 
+.fa-screenpal:before {
+  content: "\e570"; }
+
 .fa-scribd:before {
   content: "\f28a"; }
 
@@ -1051,6 +1085,9 @@
 
 .fa-sith:before {
   content: "\f512"; }
+
+.fa-sitrox:before {
+  content: "\e44a"; }
 
 .fa-sketch:before {
   content: "\f7c6"; }
@@ -1196,9 +1233,6 @@
 .fa-trello:before {
   content: "\f181"; }
 
-.fa-tripadvisor:before {
-  content: "\f262"; }
-
 .fa-tumblr:before {
   content: "\f173"; }
 
@@ -1322,7 +1356,7 @@
 .fa-windows:before {
   content: "\f17a"; }
 
-.fa-wirsindhanderk:before {
+.fa-wirsindhandwerk:before {
   content: "\e2d0"; }
 
 .fa-wsh:before {

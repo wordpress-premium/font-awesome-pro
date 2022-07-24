@@ -35,6 +35,11 @@
     "trash-can"
   ],
   [
+    "home",
+    null,
+    "house"
+  ],
+  [
     "file-o",
     "far",
     "file"
@@ -77,7 +82,7 @@
   [
     "list-alt",
     "far",
-    null
+    "rectangle-list"
   ],
   [
     "dedent",
@@ -121,7 +126,7 @@
   ],
   [
     "share-square-o",
-    "far",
+    null,
     "share-from-square"
   ],
   [
@@ -191,13 +196,13 @@
   ],
   [
     "bar-chart",
-    "far",
-    "chart-bar"
+    null,
+    "chart-column"
   ],
   [
     "bar-chart-o",
-    "far",
-    "chart-bar"
+    null,
+    "chart-column"
   ],
   [
     "twitter-square",
@@ -330,6 +335,16 @@
     "hand-point-down"
   ],
   [
+    "globe",
+    null,
+    "earth-americas"
+  ],
+  [
+    "tasks",
+    null,
+    "bars-progress"
+  ],
+  [
     "arrows-alt",
     null,
     "maximize"
@@ -343,11 +358,6 @@
     "chain",
     null,
     "link"
-  ],
-  [
-    "scissors",
-    null,
-    "scissors"
   ],
   [
     "cut",
@@ -380,6 +390,11 @@
     "bars"
   ],
   [
+    "magic",
+    null,
+    "wand-magic-sparkles"
+  ],
+  [
     "pinterest",
     "fab",
     null
@@ -401,7 +416,7 @@
   ],
   [
     "money",
-    "far",
+    null,
     "money-bill-1"
   ],
   [
@@ -437,12 +452,12 @@
   [
     "tachometer",
     null,
-    "gauge"
+    "gauge-high"
   ],
   [
     "dashboard",
     null,
-    "gauge"
+    "gauge-high"
   ],
   [
     "comment-o",
@@ -461,13 +476,8 @@
   ],
   [
     "clipboard",
-    "far",
-    null
-  ],
-  [
-    "paste",
-    "far",
-    "clipboard"
+    null,
+    "paste"
   ],
   [
     "lightbulb-o",
@@ -587,17 +597,17 @@
   [
     "star-half-o",
     "far",
-    "star-half"
+    "star-half-stroke"
   ],
   [
     "star-half-empty",
     "far",
-    "star-half"
+    "star-half-stroke"
   ],
   [
     "star-half-full",
     "far",
-    "star-half"
+    "star-half-stroke"
   ],
   [
     "code-fork",
@@ -613,11 +623,6 @@
     "unlink",
     null,
     "link-slash"
-  ],
-  [
-    "shield",
-    null,
-    "shield-blank"
   ],
   [
     "calendar-o",
@@ -640,9 +645,9 @@
     null
   ],
   [
-    "ticket",
+    "unlock-alt",
     null,
-    "ticket-simple"
+    "unlock"
   ],
   [
     "minus-square-o",
@@ -732,12 +737,12 @@
   [
     "inr",
     null,
-    "rupee-sign"
+    "indian-rupee-sign"
   ],
   [
     "rupee",
     null,
-    "rupee-sign"
+    "indian-rupee-sign"
   ],
   [
     "jpy",
@@ -812,12 +817,12 @@
   [
     "sort-amount-asc",
     null,
-    "arrow-down-wide-short"
+    "arrow-down-short-wide"
   ],
   [
     "sort-amount-desc",
     null,
-    "arrow-down-short-wide"
+    "arrow-down-wide-short"
   ],
   [
     "sort-numeric-asc",
@@ -1037,12 +1042,12 @@
   [
     "try",
     null,
-    "lira-sign"
+    "turkish-lira-sign"
   ],
   [
     "turkish-lira",
     null,
-    "lira-sign"
+    "turkish-lira-sign"
   ],
   [
     "plus-square-o",
@@ -1067,12 +1072,12 @@
   [
     "institution",
     null,
-    "bank"
+    "building-columns"
   ],
   [
     "bank",
     null,
-    "bank"
+    "building-columns"
   ],
   [
     "mortar-board",
@@ -1138,11 +1143,6 @@
     "joomla",
     "fab",
     null
-  ],
-  [
-    "spoon",
-    null,
-    "spoon"
   ],
   [
     "behance",
@@ -1275,28 +1275,23 @@
     null
   ],
   [
-    "life-ring",
-    "far",
-    null
-  ],
-  [
     "life-bouy",
-    "far",
+    null,
     "life-ring"
   ],
   [
     "life-buoy",
-    "far",
+    null,
     "life-ring"
   ],
   [
     "life-saver",
-    "far",
+    null,
     "life-ring"
   ],
   [
     "support",
-    "far",
+    null,
     "life-ring"
   ],
   [
@@ -1400,19 +1395,14 @@
     "heading"
   ],
   [
-    "sliders",
-    null,
-    "sliders"
-  ],
-  [
     "futbol-o",
     "far",
-    "futbol-ball"
+    "futbol"
   ],
   [
     "soccer-ball-o",
     "far",
-    "futbol-ball"
+    "futbol"
   ],
   [
     "slideshare",
@@ -1550,11 +1540,6 @@
     "shekel-sign"
   ],
   [
-    "meanpath",
-    "fab",
-    "font-awesome"
-  ],
-  [
     "buysellads",
     "fab",
     null
@@ -1605,7 +1590,17 @@
     "gem"
   ],
   [
+    "transgender",
+    null,
+    "mars-and-venus"
+  ],
+  [
     "intersex",
+    null,
+    "mars-and-venus"
+  ],
+  [
+    "transgender-alt",
     null,
     "transgender"
   ],
@@ -1726,13 +1721,18 @@
   ],
   [
     "hourglass-o",
-    "far",
-    "hourglass"
+    null,
+    "hourglass-empty"
   ],
   [
     "hourglass-1",
     null,
     "hourglass-start"
+  ],
+  [
+    "hourglass-half",
+    null,
+    "hourglass"
   ],
   [
     "hourglass-2",
@@ -1747,22 +1747,22 @@
   [
     "hand-rock-o",
     "far",
-    "hand-rock"
+    "hand-back-fist"
   ],
   [
     "hand-grab-o",
     "far",
-    "hand-rock"
+    "hand-back-fist"
   ],
   [
     "hand-paper-o",
     "far",
-    "hand-paper"
+    "hand"
   ],
   [
     "hand-stop-o",
     "far",
-    "hand-paper"
+    "hand"
   ],
   [
     "hand-scissors-o",
@@ -1806,11 +1806,6 @@
   ],
   [
     "gg-circle",
-    "fab",
-    null
-  ],
-  [
-    "tripadvisor",
     "fab",
     null
   ],
@@ -2087,7 +2082,7 @@
   [
     "snapchat-ghost",
     "fab",
-    null
+    "snapchat"
   ],
   [
     "snapchat-square",
@@ -2328,5 +2323,1740 @@
     "meetup",
     "fab",
     null
+  ],
+  [
+    61440,
+    "fas",
+    "martini-glass-empty"
+  ],
+  [
+    61443,
+    "far",
+    "envelope"
+  ],
+  [
+    61446,
+    "far",
+    "star"
+  ],
+  [
+    61460,
+    "far",
+    "trash-can"
+  ],
+  [
+    61462,
+    "far",
+    "file"
+  ],
+  [
+    61463,
+    "far",
+    "clock"
+  ],
+  [
+    61466,
+    "far",
+    "circle-down"
+  ],
+  [
+    61467,
+    "far",
+    "circle-up"
+  ],
+  [
+    61469,
+    "far",
+    "circle-play"
+  ],
+  [
+    61470,
+    "fas",
+    "arrow-rotate-right"
+  ],
+  [
+    61474,
+    "far",
+    "rectangle-list"
+  ],
+  [
+    61502,
+    "far",
+    "image"
+  ],
+  [
+    61505,
+    "fas",
+    "location-dot"
+  ],
+  [
+    61508,
+    "far",
+    "pen-to-square"
+  ],
+  [
+    61509,
+    "fas",
+    "share-from-square"
+  ],
+  [
+    61510,
+    "far",
+    "square-check"
+  ],
+  [
+    61511,
+    "fas",
+    "up-down-left-right"
+  ],
+  [
+    61532,
+    "far",
+    "circle-xmark"
+  ],
+  [
+    61533,
+    "far",
+    "circle-check"
+  ],
+  [
+    61541,
+    "fas",
+    "up-right-and-down-left-from-center"
+  ],
+  [
+    61542,
+    "fas",
+    "down-left-and-up-right-to-center"
+  ],
+  [
+    61550,
+    "far",
+    "eye"
+  ],
+  [
+    61552,
+    "far",
+    "eye-slash"
+  ],
+  [
+    61555,
+    "fas",
+    "calendar-days"
+  ],
+  [
+    61565,
+    "fas",
+    "up-down"
+  ],
+  [
+    61566,
+    "fas",
+    "left-right"
+  ],
+  [
+    61568,
+    "fas",
+    "chart-column"
+  ],
+  [
+    61569,
+    "fab",
+    "twitter-square"
+  ],
+  [
+    61570,
+    "fab",
+    "facebook-square"
+  ],
+  [
+    61575,
+    "far",
+    "thumbs-up"
+  ],
+  [
+    61576,
+    "far",
+    "thumbs-down"
+  ],
+  [
+    61578,
+    "far",
+    "heart"
+  ],
+  [
+    61579,
+    "fas",
+    "right-from-bracket"
+  ],
+  [
+    61580,
+    "fab",
+    "linkedin"
+  ],
+  [
+    61582,
+    "fas",
+    "up-right-from-square"
+  ],
+  [
+    61584,
+    "fas",
+    "right-to-bracket"
+  ],
+  [
+    61586,
+    "fab",
+    "github-square"
+  ],
+  [
+    61588,
+    "far",
+    "lemon"
+  ],
+  [
+    61590,
+    "far",
+    "square"
+  ],
+  [
+    61591,
+    "far",
+    "bookmark"
+  ],
+  [
+    61593,
+    "fab",
+    "twitter"
+  ],
+  [
+    61594,
+    "fab",
+    "facebook-f"
+  ],
+  [
+    61595,
+    "fab",
+    "github"
+  ],
+  [
+    61597,
+    "far",
+    "credit-card"
+  ],
+  [
+    61600,
+    "far",
+    "hard-drive"
+  ],
+  [
+    61604,
+    "far",
+    "hand-point-right"
+  ],
+  [
+    61605,
+    "far",
+    "hand-point-left"
+  ],
+  [
+    61606,
+    "far",
+    "hand-point-up"
+  ],
+  [
+    61607,
+    "far",
+    "hand-point-down"
+  ],
+  [
+    61612,
+    "fas",
+    "earth-americas"
+  ],
+  [
+    61614,
+    "fas",
+    "bars-progress"
+  ],
+  [
+    61618,
+    "fas",
+    "maximize"
+  ],
+  [
+    61632,
+    "fas",
+    "users"
+  ],
+  [
+    61637,
+    "far",
+    "copy"
+  ],
+  [
+    61639,
+    "far",
+    "floppy-disk"
+  ],
+  [
+    61641,
+    "fas",
+    "bars"
+  ],
+  [
+    61648,
+    "fas",
+    "wand-magic-sparkles"
+  ],
+  [
+    61650,
+    "fab",
+    "pinterest"
+  ],
+  [
+    61651,
+    "fab",
+    "pinterest-square"
+  ],
+  [
+    61652,
+    "fab",
+    "google-plus-square"
+  ],
+  [
+    61653,
+    "fab",
+    "google-plus-g"
+  ],
+  [
+    61654,
+    "fas",
+    "money-bill-1"
+  ],
+  [
+    61665,
+    "fab",
+    "linkedin-in"
+  ],
+  [
+    61666,
+    "fas",
+    "arrow-rotate-left"
+  ],
+  [
+    61668,
+    "fas",
+    "gauge-high"
+  ],
+  [
+    61669,
+    "far",
+    "comment"
+  ],
+  [
+    61670,
+    "far",
+    "comments"
+  ],
+  [
+    61671,
+    "fas",
+    "bolt"
+  ],
+  [
+    61674,
+    "fas",
+    "paste"
+  ],
+  [
+    61675,
+    "far",
+    "lightbulb"
+  ],
+  [
+    61676,
+    "fas",
+    "right-left"
+  ],
+  [
+    61602,
+    "far",
+    "bell"
+  ],
+  [
+    61685,
+    "fas",
+    "utensils"
+  ],
+  [
+    61686,
+    "far",
+    "file-lines"
+  ],
+  [
+    61687,
+    "far",
+    "building"
+  ],
+  [
+    61688,
+    "far",
+    "hospital"
+  ],
+  [
+    61706,
+    "fas",
+    "tablet-screen-button"
+  ],
+  [
+    61707,
+    "fas",
+    "mobile-screen-button"
+  ],
+  [
+    61708,
+    "far",
+    "circle"
+  ],
+  [
+    61714,
+    "fas",
+    "reply"
+  ],
+  [
+    61715,
+    "fab",
+    "github-alt"
+  ],
+  [
+    61716,
+    "far",
+    "folder"
+  ],
+  [
+    61717,
+    "far",
+    "folder-open"
+  ],
+  [
+    61720,
+    "far",
+    "face-smile"
+  ],
+  [
+    61721,
+    "far",
+    "face-frown"
+  ],
+  [
+    61722,
+    "far",
+    "face-meh"
+  ],
+  [
+    61724,
+    "far",
+    "keyboard"
+  ],
+  [
+    61725,
+    "far",
+    "flag"
+  ],
+  [
+    61731,
+    "far",
+    "star-half-stroke"
+  ],
+  [
+    61734,
+    "fas",
+    "code-branch"
+  ],
+  [
+    61747,
+    "far",
+    "calendar"
+  ],
+  [
+    61750,
+    "fab",
+    "maxcdn"
+  ],
+  [
+    61755,
+    "fab",
+    "html5"
+  ],
+  [
+    61756,
+    "fab",
+    "css3"
+  ],
+  [
+    61758,
+    "fas",
+    "unlock"
+  ],
+  [
+    61767,
+    "far",
+    "square-minus"
+  ],
+  [
+    61768,
+    "fas",
+    "turn-up"
+  ],
+  [
+    61769,
+    "fas",
+    "turn-down"
+  ],
+  [
+    61772,
+    "fas",
+    "square-up-right"
+  ],
+  [
+    61774,
+    "far",
+    "compass"
+  ],
+  [
+    61776,
+    "far",
+    "square-caret-down"
+  ],
+  [
+    61777,
+    "far",
+    "square-caret-up"
+  ],
+  [
+    61778,
+    "far",
+    "square-caret-right"
+  ],
+  [
+    61781,
+    "fas",
+    "dollar-sign"
+  ],
+  [
+    61782,
+    "fas",
+    "indian-rupee-sign"
+  ],
+  [
+    61786,
+    "fab",
+    "btc"
+  ],
+  [
+    61790,
+    "fas",
+    "arrow-down-z-a"
+  ],
+  [
+    61792,
+    "fas",
+    "arrow-down-short-wide"
+  ],
+  [
+    61793,
+    "fas",
+    "arrow-down-wide-short"
+  ],
+  [
+    61795,
+    "fas",
+    "arrow-down-9-1"
+  ],
+  [
+    61798,
+    "fab",
+    "youtube-square"
+  ],
+  [
+    61799,
+    "fab",
+    "youtube"
+  ],
+  [
+    61800,
+    "fab",
+    "xing"
+  ],
+  [
+    61801,
+    "fab",
+    "xing-square"
+  ],
+  [
+    61802,
+    "fab",
+    "youtube"
+  ],
+  [
+    61803,
+    "fab",
+    "dropbox"
+  ],
+  [
+    61804,
+    "fab",
+    "stack-overflow"
+  ],
+  [
+    61805,
+    "fab",
+    "instagram"
+  ],
+  [
+    61806,
+    "fab",
+    "flickr"
+  ],
+  [
+    61808,
+    "fab",
+    "adn"
+  ],
+  [
+    61809,
+    "fab",
+    "bitbucket"
+  ],
+  [
+    61810,
+    "fab",
+    "bitbucket"
+  ],
+  [
+    61811,
+    "fab",
+    "tumblr"
+  ],
+  [
+    61812,
+    "fab",
+    "tumblr-square"
+  ],
+  [
+    61813,
+    "fas",
+    "down-long"
+  ],
+  [
+    61814,
+    "fas",
+    "up-long"
+  ],
+  [
+    61815,
+    "fas",
+    "left-long"
+  ],
+  [
+    61816,
+    "fas",
+    "right-long"
+  ],
+  [
+    61817,
+    "fab",
+    "apple"
+  ],
+  [
+    61818,
+    "fab",
+    "windows"
+  ],
+  [
+    61819,
+    "fab",
+    "android"
+  ],
+  [
+    61820,
+    "fab",
+    "linux"
+  ],
+  [
+    61821,
+    "fab",
+    "dribbble"
+  ],
+  [
+    61822,
+    "fab",
+    "skype"
+  ],
+  [
+    61824,
+    "fab",
+    "foursquare"
+  ],
+  [
+    61825,
+    "fab",
+    "trello"
+  ],
+  [
+    61828,
+    "fab",
+    "gratipay"
+  ],
+  [
+    61829,
+    "far",
+    "sun"
+  ],
+  [
+    61830,
+    "far",
+    "moon"
+  ],
+  [
+    61833,
+    "fab",
+    "vk"
+  ],
+  [
+    61834,
+    "fab",
+    "weibo"
+  ],
+  [
+    61835,
+    "fab",
+    "renren"
+  ],
+  [
+    61836,
+    "fab",
+    "pagelines"
+  ],
+  [
+    61837,
+    "fab",
+    "stack-exchange"
+  ],
+  [
+    61838,
+    "far",
+    "circle-right"
+  ],
+  [
+    61840,
+    "far",
+    "circle-left"
+  ],
+  [
+    61841,
+    "far",
+    "square-caret-left"
+  ],
+  [
+    61842,
+    "far",
+    "circle-dot"
+  ],
+  [
+    61844,
+    "fab",
+    "vimeo-square"
+  ],
+  [
+    61845,
+    "fas",
+    "turkish-lira-sign"
+  ],
+  [
+    61846,
+    "far",
+    "square-plus"
+  ],
+  [
+    61848,
+    "fab",
+    "slack"
+  ],
+  [
+    61850,
+    "fab",
+    "wordpress"
+  ],
+  [
+    61851,
+    "fab",
+    "openid"
+  ],
+  [
+    61854,
+    "fab",
+    "yahoo"
+  ],
+  [
+    61856,
+    "fab",
+    "google"
+  ],
+  [
+    61857,
+    "fab",
+    "reddit"
+  ],
+  [
+    61858,
+    "fab",
+    "reddit-square"
+  ],
+  [
+    61859,
+    "fab",
+    "stumbleupon-circle"
+  ],
+  [
+    61860,
+    "fab",
+    "stumbleupon"
+  ],
+  [
+    61861,
+    "fab",
+    "delicious"
+  ],
+  [
+    61862,
+    "fab",
+    "digg"
+  ],
+  [
+    61863,
+    "fab",
+    "pied-piper-pp"
+  ],
+  [
+    61864,
+    "fab",
+    "pied-piper-alt"
+  ],
+  [
+    61865,
+    "fab",
+    "drupal"
+  ],
+  [
+    61866,
+    "fab",
+    "joomla"
+  ],
+  [
+    61876,
+    "fab",
+    "behance"
+  ],
+  [
+    61877,
+    "fab",
+    "behance-square"
+  ],
+  [
+    61878,
+    "fab",
+    "steam"
+  ],
+  [
+    61879,
+    "fab",
+    "steam-square"
+  ],
+  [
+    61884,
+    "fab",
+    "spotify"
+  ],
+  [
+    61885,
+    "fab",
+    "deviantart"
+  ],
+  [
+    61886,
+    "fab",
+    "soundcloud"
+  ],
+  [
+    61889,
+    "far",
+    "file-pdf"
+  ],
+  [
+    61890,
+    "far",
+    "file-word"
+  ],
+  [
+    61891,
+    "far",
+    "file-excel"
+  ],
+  [
+    61892,
+    "far",
+    "file-powerpoint"
+  ],
+  [
+    61893,
+    "far",
+    "file-image"
+  ],
+  [
+    61894,
+    "far",
+    "file-zipper"
+  ],
+  [
+    61895,
+    "far",
+    "file-audio"
+  ],
+  [
+    61896,
+    "far",
+    "file-video"
+  ],
+  [
+    61897,
+    "far",
+    "file-code"
+  ],
+  [
+    61898,
+    "fab",
+    "vine"
+  ],
+  [
+    61899,
+    "fab",
+    "codepen"
+  ],
+  [
+    61900,
+    "fab",
+    "jsfiddle"
+  ],
+  [
+    61901,
+    "fas",
+    "life-ring"
+  ],
+  [
+    61902,
+    "fas",
+    "circle-notch"
+  ],
+  [
+    61904,
+    "fab",
+    "rebel"
+  ],
+  [
+    61905,
+    "fab",
+    "empire"
+  ],
+  [
+    61906,
+    "fab",
+    "git-square"
+  ],
+  [
+    61907,
+    "fab",
+    "git"
+  ],
+  [
+    61908,
+    "fab",
+    "hacker-news"
+  ],
+  [
+    61909,
+    "fab",
+    "tencent-weibo"
+  ],
+  [
+    61910,
+    "fab",
+    "qq"
+  ],
+  [
+    61911,
+    "fab",
+    "weixin"
+  ],
+  [
+    61912,
+    "fas",
+    "paper-plane"
+  ],
+  [
+    61913,
+    "far",
+    "paper-plane"
+  ],
+  [
+    61915,
+    "far",
+    "circle"
+  ],
+  [
+    61923,
+    "far",
+    "futbol"
+  ],
+  [
+    61927,
+    "fab",
+    "slideshare"
+  ],
+  [
+    61928,
+    "fab",
+    "twitch"
+  ],
+  [
+    61929,
+    "fab",
+    "yelp"
+  ],
+  [
+    61930,
+    "far",
+    "newspaper"
+  ],
+  [
+    61933,
+    "fab",
+    "paypal"
+  ],
+  [
+    61934,
+    "fab",
+    "google-wallet"
+  ],
+  [
+    61936,
+    "fab",
+    "cc-visa"
+  ],
+  [
+    61937,
+    "fab",
+    "cc-mastercard"
+  ],
+  [
+    61938,
+    "fab",
+    "cc-discover"
+  ],
+  [
+    61939,
+    "fab",
+    "cc-amex"
+  ],
+  [
+    61940,
+    "fab",
+    "cc-paypal"
+  ],
+  [
+    61941,
+    "fab",
+    "cc-stripe"
+  ],
+  [
+    61943,
+    "far",
+    "bell-slash"
+  ],
+  [
+    61944,
+    "fas",
+    "trash-can"
+  ],
+  [
+    61945,
+    "far",
+    "copyright"
+  ],
+  [
+    61954,
+    "fab",
+    "lastfm"
+  ],
+  [
+    61955,
+    "fab",
+    "lastfm-square"
+  ],
+  [
+    61960,
+    "fab",
+    "ioxhost"
+  ],
+  [
+    61961,
+    "fab",
+    "angellist"
+  ],
+  [
+    61962,
+    "far",
+    "closed-captioning"
+  ],
+  [
+    61965,
+    "fab",
+    "buysellads"
+  ],
+  [
+    61966,
+    "fab",
+    "connectdevelop"
+  ],
+  [
+    61968,
+    "fab",
+    "dashcube"
+  ],
+  [
+    61969,
+    "fab",
+    "forumbee"
+  ],
+  [
+    61970,
+    "fab",
+    "leanpub"
+  ],
+  [
+    61971,
+    "fab",
+    "sellsy"
+  ],
+  [
+    61972,
+    "fab",
+    "shirtsinbulk"
+  ],
+  [
+    61973,
+    "fab",
+    "simplybuilt"
+  ],
+  [
+    61974,
+    "fab",
+    "skyatlas"
+  ],
+  [
+    61977,
+    "far",
+    "gem"
+  ],
+  [
+    61988,
+    "fas",
+    "mars-and-venus"
+  ],
+  [
+    62000,
+    "fab",
+    "facebook"
+  ],
+  [
+    62001,
+    "fab",
+    "pinterest-p"
+  ],
+  [
+    62002,
+    "fab",
+    "whatsapp"
+  ],
+  [
+    62006,
+    "fas",
+    "bed"
+  ],
+  [
+    62007,
+    "fab",
+    "viacoin"
+  ],
+  [
+    62010,
+    "fab",
+    "medium"
+  ],
+  [
+    62011,
+    "fab",
+    "y-combinator"
+  ],
+  [
+    62012,
+    "fab",
+    "optin-monster"
+  ],
+  [
+    62013,
+    "fab",
+    "opencart"
+  ],
+  [
+    62014,
+    "fab",
+    "expeditedssl"
+  ],
+  [
+    62016,
+    "fas",
+    "battery-full"
+  ],
+  [
+    62017,
+    "fas",
+    "battery-three-quarters"
+  ],
+  [
+    62018,
+    "fas",
+    "battery-half"
+  ],
+  [
+    62019,
+    "fas",
+    "battery-quarter"
+  ],
+  [
+    62023,
+    "far",
+    "object-group"
+  ],
+  [
+    62024,
+    "far",
+    "object-ungroup"
+  ],
+  [
+    62026,
+    "far",
+    "note-sticky"
+  ],
+  [
+    62027,
+    "fab",
+    "cc-jcb"
+  ],
+  [
+    62028,
+    "fab",
+    "cc-diners-club"
+  ],
+  [
+    62029,
+    "far",
+    "clone"
+  ],
+  [
+    62032,
+    "fas",
+    "hourglass-empty"
+  ],
+  [
+    62034,
+    "fas",
+    "hourglass"
+  ],
+  [
+    62037,
+    "far",
+    "hand-back-fist"
+  ],
+  [
+    62038,
+    "far",
+    "hand"
+  ],
+  [
+    62039,
+    "far",
+    "hand-scissors"
+  ],
+  [
+    62040,
+    "far",
+    "hand-lizard"
+  ],
+  [
+    62041,
+    "far",
+    "hand-spock"
+  ],
+  [
+    62042,
+    "far",
+    "hand-pointer"
+  ],
+  [
+    62043,
+    "far",
+    "hand-peace"
+  ],
+  [
+    62045,
+    "far",
+    "registered"
+  ],
+  [
+    62046,
+    "fab",
+    "creative-commons"
+  ],
+  [
+    62048,
+    "fab",
+    "gg"
+  ],
+  [
+    62049,
+    "fab",
+    "gg-circle"
+  ],
+  [
+    62051,
+    "fab",
+    "odnoklassniki"
+  ],
+  [
+    62052,
+    "fab",
+    "odnoklassniki-square"
+  ],
+  [
+    62053,
+    "fab",
+    "get-pocket"
+  ],
+  [
+    62054,
+    "fab",
+    "wikipedia-w"
+  ],
+  [
+    62055,
+    "fab",
+    "safari"
+  ],
+  [
+    62056,
+    "fab",
+    "chrome"
+  ],
+  [
+    62057,
+    "fab",
+    "firefox"
+  ],
+  [
+    62058,
+    "fab",
+    "opera"
+  ],
+  [
+    62059,
+    "fab",
+    "internet-explorer"
+  ],
+  [
+    62061,
+    "fab",
+    "contao"
+  ],
+  [
+    62062,
+    "fab",
+    "500px"
+  ],
+  [
+    62064,
+    "fab",
+    "amazon"
+  ],
+  [
+    62065,
+    "far",
+    "calendar-plus"
+  ],
+  [
+    62066,
+    "far",
+    "calendar-minus"
+  ],
+  [
+    62067,
+    "far",
+    "calendar-xmark"
+  ],
+  [
+    62068,
+    "far",
+    "calendar-check"
+  ],
+  [
+    62072,
+    "far",
+    "map"
+  ],
+  [
+    62074,
+    "fas",
+    "comment-dots"
+  ],
+  [
+    62075,
+    "far",
+    "comment-dots"
+  ],
+  [
+    62076,
+    "fab",
+    "houzz"
+  ],
+  [
+    62077,
+    "fab",
+    "vimeo-v"
+  ],
+  [
+    62078,
+    "fab",
+    "black-tie"
+  ],
+  [
+    62080,
+    "fab",
+    "fonticons"
+  ],
+  [
+    62081,
+    "fab",
+    "reddit-alien"
+  ],
+  [
+    62082,
+    "fab",
+    "edge"
+  ],
+  [
+    62083,
+    "fas",
+    "credit-card"
+  ],
+  [
+    62084,
+    "fab",
+    "codiepie"
+  ],
+  [
+    62085,
+    "fab",
+    "modx"
+  ],
+  [
+    62086,
+    "fab",
+    "fort-awesome"
+  ],
+  [
+    62087,
+    "fab",
+    "usb"
+  ],
+  [
+    62088,
+    "fab",
+    "product-hunt"
+  ],
+  [
+    62089,
+    "fab",
+    "mixcloud"
+  ],
+  [
+    62090,
+    "fab",
+    "scribd"
+  ],
+  [
+    62092,
+    "far",
+    "circle-pause"
+  ],
+  [
+    62094,
+    "far",
+    "circle-stop"
+  ],
+  [
+    62099,
+    "fab",
+    "bluetooth"
+  ],
+  [
+    62100,
+    "fab",
+    "bluetooth-b"
+  ],
+  [
+    62102,
+    "fab",
+    "gitlab"
+  ],
+  [
+    62103,
+    "fab",
+    "wpbeginner"
+  ],
+  [
+    62104,
+    "fab",
+    "wpforms"
+  ],
+  [
+    62105,
+    "fab",
+    "envira"
+  ],
+  [
+    62107,
+    "fab",
+    "accessible-icon"
+  ],
+  [
+    62108,
+    "far",
+    "circle-question"
+  ],
+  [
+    62117,
+    "fab",
+    "glide"
+  ],
+  [
+    62118,
+    "fab",
+    "glide-g"
+  ],
+  [
+    62121,
+    "fab",
+    "viadeo"
+  ],
+  [
+    62122,
+    "fab",
+    "viadeo-square"
+  ],
+  [
+    62123,
+    "fab",
+    "snapchat"
+  ],
+  [
+    62124,
+    "fab",
+    "snapchat"
+  ],
+  [
+    62125,
+    "fab",
+    "snapchat-square"
+  ],
+  [
+    62126,
+    "fab",
+    "pied-piper"
+  ],
+  [
+    62128,
+    "fab",
+    "first-order"
+  ],
+  [
+    62129,
+    "fab",
+    "yoast"
+  ],
+  [
+    62130,
+    "fab",
+    "themeisle"
+  ],
+  [
+    62131,
+    "fab",
+    "google-plus"
+  ],
+  [
+    62132,
+    "fab",
+    "font-awesome"
+  ],
+  [
+    62133,
+    "far",
+    "handshake"
+  ],
+  [
+    62135,
+    "far",
+    "envelope-open"
+  ],
+  [
+    62136,
+    "fab",
+    "linode"
+  ],
+  [
+    62138,
+    "far",
+    "address-book"
+  ],
+  [
+    62140,
+    "far",
+    "address-card"
+  ],
+  [
+    62142,
+    "far",
+    "circle-user"
+  ],
+  [
+    62144,
+    "far",
+    "user"
+  ],
+  [
+    62145,
+    "far",
+    "id-badge"
+  ],
+  [
+    62147,
+    "far",
+    "id-card"
+  ],
+  [
+    62148,
+    "fab",
+    "quora"
+  ],
+  [
+    62149,
+    "fab",
+    "free-code-camp"
+  ],
+  [
+    62150,
+    "fab",
+    "telegram"
+  ],
+  [
+    62151,
+    "fas",
+    "temperature-full"
+  ],
+  [
+    62157,
+    "fas",
+    "bath"
+  ],
+  [
+    62160,
+    "far",
+    "window-maximize"
+  ],
+  [
+    62162,
+    "far",
+    "window-restore"
+  ],
+  [
+    62163,
+    "fas",
+    "rectangle-xmark"
+  ],
+  [
+    62164,
+    "far",
+    "rectangle-xmark"
+  ],
+  [
+    62165,
+    "fab",
+    "bandcamp"
+  ],
+  [
+    62166,
+    "fab",
+    "grav"
+  ],
+  [
+    62167,
+    "fab",
+    "etsy"
+  ],
+  [
+    62168,
+    "fab",
+    "imdb"
+  ],
+  [
+    62169,
+    "fab",
+    "ravelry"
+  ],
+  [
+    62170,
+    "fab",
+    "sellcast"
+  ],
+  [
+    62172,
+    "far",
+    "snowflake"
+  ],
+  [
+    62173,
+    "fab",
+    "superpowers"
+  ],
+  [
+    62174,
+    "fab",
+    "wpexplorer"
+  ],
+  [
+    62176,
+    "fab",
+    "meetup"
   ]
 ]

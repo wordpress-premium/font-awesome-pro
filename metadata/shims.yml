@@ -21,8 +21,7 @@ arrows-h:
 arrows-v:
   name: up-down
 bar-chart:
-  name: chart-bar
-  prefix: far
+  name: chart-column
 bitbucket-square:
   name: bitbucket
   prefix: fab
@@ -54,7 +53,7 @@ circle-thin:
   name: circle
   prefix: far
 clipboard:
-  prefix: far
+  name: paste
 clone:
   prefix: far
 cloud-download:
@@ -125,6 +124,8 @@ gbp:
   name: sterling-sign
 glass:
   name: martini-glass-empty
+globe:
+  name: earth-americas
 google-plus:
   name: google-plus-g
   prefix: fab
@@ -148,14 +149,18 @@ hand-o-up:
   prefix: far
 header:
   name: heading
+home:
+  name: house
+hourglass-half:
+  name: hourglass
+hourglass-o:
+  name: hourglass-empty
 id-badge:
   prefix: far
 ils:
   name: shekel-sign
 inr:
-  name: rupee-sign
-intersex:
-  name: transgender
+  name: indian-rupee-sign
 jpy:
   name: yen-sign
 krw:
@@ -164,8 +169,6 @@ level-down:
   name: turn-down
 level-up:
   name: turn-up
-life-ring:
-  prefix: far
 line-chart:
   name: chart-line
 linkedin:
@@ -175,6 +178,7 @@ linkedin-square:
   name: linkedin
   prefix: fab
 list-alt:
+  name: rectangle-list
   prefix: far
 long-arrow-down:
   name: down-long
@@ -184,6 +188,8 @@ long-arrow-right:
   name: right-long
 long-arrow-up:
   name: up-long
+magic:
+  name: wand-magic-sparkles
 map-marker:
   name: location-dot
 meanpath:
@@ -193,7 +199,6 @@ mobile:
   name: mobile-screen-button
 money:
   name: money-bill-1
-  prefix: far
 object-group:
   prefix: far
 object-ungroup:
@@ -214,27 +219,26 @@ refresh:
 registered:
   prefix: far
 repeat:
-  name: arrow-rotate-forward
+  name: arrow-rotate-right
 rub:
   name: ruble-sign
-scissors:
-  name: scissors
-shield:
-  name: shield-blank
+share-square-o:
+  name: share-from-square
 sign-in:
   name: right-to-bracket
 sign-out:
   name: right-from-bracket
-sliders:
-  name: sliders
+snapchat-ghost:
+  name: snapchat
+  prefix: fab
 sort-alpha-asc:
   name: arrow-down-a-z
 sort-alpha-desc:
   name: arrow-down-z-a
 sort-amount-asc:
-  name: arrow-down-wide-short
-sort-amount-desc:
   name: arrow-down-short-wide
+sort-amount-desc:
+  name: arrow-down-wide-short
 sort-asc:
   name: sort-up
 sort-desc:
@@ -243,19 +247,22 @@ sort-numeric-asc:
   name: arrow-down-1-9
 sort-numeric-desc:
   name: arrow-down-9-1
-spoon:
-  name: spoon
 star-half-empty:
   name: star-half
 star-half-full:
   name: star-half
+star-half-o:
+  name: star-half-stroke
+  prefix: far
 support:
   name: life-ring
   prefix: far
 tablet:
   name: tablet-screen-button
 tachometer:
-  name: gauge
+  name: gauge-high
+tasks:
+  name: bars-progress
 television:
   name: tv
 thumb-tack:
@@ -266,17 +273,24 @@ thumbs-o-down:
 thumbs-o-up:
   name: thumbs-up
   prefix: far
-ticket:
-  name: ticket-simple
+transgender:
+  name: mars-and-venus
+transgender-alt:
+  name: transgender
 trash:
   name: trash-can
 trash-o:
   name: trash-can
   prefix: far
 try:
-  name: lira-sign
+  name: turkish-lira-sign
+unlock-alt:
+  name: unlock
 usd:
   name: dollar-sign
+user-circle-o:
+  name: circle-user
+  prefix: far
 video-camera:
   name: video
 vimeo:
