@@ -1,9 +1,8 @@
 {
   "name": "wordpress-premium/font-awesome-pro",
-  "version": "6.1.1",
+  "version": "6.5.1",
   "description": "Font Awesome is a full suite of thousands of pictographic icons for easy scalable vector graphics on websites.",
   "type": "library",
-  "time": "2021-03-30",
   "homepage": "https://fontawesome.com",
   "license": "proprietary",
   "keywords": [

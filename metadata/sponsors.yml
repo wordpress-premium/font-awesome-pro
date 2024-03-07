@@ -22,7 +22,7 @@ affiliatetheme:
   icons:
     - affiliatetheme
   label: affiliatetheme
-  url: 'https://affiliatetheme.io/en'
+  url: 'https://affiliatetheme.io'
 algolia:
   icons:
     - algolia
@@ -202,6 +202,7 @@ darren-wiebe:
   icons:
     - church
   label: Darren Wiebe
+  url: null
 dbk-masters:
   icons:
     - pompebled
@@ -232,6 +233,11 @@ draft2-digital:
     - draft2digital
   label: Draft2Digital
   url: 'http://draft2digital.com'
+dragnsurvey:
+  icons:
+    - user-magnifying-glass
+  label: Drag’n Survey
+  url: 'https://www.dragnsurvey.com'
 dyalog-apl:
   icons:
     - dyalog
@@ -242,6 +248,12 @@ econopublish:
     - hat-cowboy-side
   label: EconoPublish
   url: 'https://www.econopublish.com'
+fairyloot:
+  icons:
+    - person-dress-fairy
+    - person-fairy
+  label: FairyLoot
+  url: 'https://us.fairyloot.com'
 firstdraft:
   icons:
     - firstdraft
@@ -350,7 +362,6 @@ hire-a-helper:
     - box-taped
     - container-storage
     - couch
-    - dolly
     - dolly-empty
     - lamp
     - loveseat
@@ -383,7 +394,7 @@ hive-games:
   icons:
     - bee
   label: Hive Games
-  url: 'https://hivegames.io/'
+  url: 'https://hivegames.io'
 hornbill:
   icons:
     - hornbill
@@ -399,6 +410,31 @@ hub-spot:
     - hubspot
   label: HubSpot
   url: 'http://www.HubSpot.com'
+icis:
+  icons:
+    - arrow-progress
+    - bag-seedling
+    - bin-bottles
+    - bin-bottles-recycle
+    - calendar-users
+    - chart-line-up-down
+    - chart-mixed-up-circle-currency
+    - chart-mixed-up-circle-dollar
+    - chart-pie-simple-circle-currency
+    - circles-overlap
+    - cloud-binary
+    - conveyor-belt-arm
+    - display-chart-up-circle-currency
+    - display-chart-up-circle-dollar
+    - flask-gear
+    - gear-complex-code
+    - laptop-binary
+    - lightbulb-gear
+    - person-running-fast
+    - right-left-large
+    - user-group-simple
+  label: ICIS
+  url: 'https://www.icis.com/'
 in-site-systems:
   icons:
     - toolbox
@@ -414,23 +450,42 @@ instalod:
     - instalod
   label: InstaLOD
   url: 'https://instalod.com'
+intellectability:
+  icons:
+    - raccoon
+  label: IntellectAbility
+  url: 'https://replacingrisk.com'
+iris:
+  icons:
+    - chart-pie-simple-circle-dollar
+  label: ICIS
+  url: 'https://www.icis.com/'
 joe-emison:
   icons:
     - blender-phone
   label: Joe Emison
+  url: null
 joget:
   icons:
     - joget
   label: Joget
   url: 'http://www.joget.org'
+john-campion:
+  icons:
+    - buoy
+    - buoy-mooring
+  label: John Campion
+  url: 'https://github.com/johncampionjr'
 jon-galloway:
   icons:
     - crow
   label: Jon Galloway
+  url: null
 kevin-barone:
   icons:
     - file-contract
   label: Kevin Barone
+  url: null
 key-cdn:
   icons:
     - keycdn
@@ -441,6 +496,11 @@ korvue:
     - korvue
   label: Korvue
   url: 'https://korvue.com'
+labuniq:
+  icons:
+    - chf-sign
+  label: LABUNIQ
+  url: 'https://labuniq.com/'
 lean-stack:
   icons:
     - diagram-lean-canvas
@@ -456,6 +516,7 @@ max-elman:
   icons:
     - frog
   label: Max Elman
+  url: null
 med-apps:
   icons:
     - medapps
@@ -491,6 +552,11 @@ megaport:
     - megaport
   label: Megaport
   url: 'https://www.megaport.com'
+mintbit:
+  icons:
+    - mintbit
+  label: Mintbit
+  url: 'https://www.mintbit.com'
 mix:
   icons:
     - mix
@@ -534,12 +600,17 @@ nfc21:
     - nfc-slash
     - nfc-trash
   label: NFC21
-  url: 'https://nfc21.de/'
+  url: 'https://nfc21.de'
 nimblr:
   icons:
     - nimblr
   label: Nimblr
   url: 'https://nimblr.ai'
+nisutec:
+  icons:
+    - wreath-laurel
+  label: Nisutec
+  url: 'https://nisu.ly'
 nompse:
   icons:
     - chalkboard
@@ -561,6 +632,11 @@ octopus-deploy:
     - octopus-deploy
   label: Octopus Deploy
   url: 'https://octopus.com'
+odysee:
+  icons:
+    - odysee
+  label: Odysee
+  url: 'https://odysee.com'
 olameter:
   icons:
     - angle
@@ -577,17 +653,28 @@ olameter:
     - utility-pole-double
   label: Olameter
   url: 'https://www.olameter.com'
-optimism-pbc:
+op-labs:
   icons:
     - bridge-suspension
+    - grid-round
     - hexagon-image
-  label: Optimism PBC
+    - mustache
+    - nose
+    - pickaxe
+  label: OP Labs
   url: 'https://www.optimism.io'
+optimism:
+  icons:
+    - hat-beach
+    - swap
+    - swap-arrows
+  label: Optimism
+  url: 'https://www.optimism.io/'
 padlet:
   icons:
     - padlet
   label: Padlet
-  url: 'https://padlet.com/'
+  url: 'https://padlet.com'
 page4-corporation:
   icons:
     - page4
@@ -634,7 +721,7 @@ plum-run-solutions:
   icons:
     - reel
   label: Plum Run Solutions
-  url: 'https://plumrunsolutions.com/'
+  url: 'https://plumrunsolutions.com'
 polpharma:
   icons:
     - puzzle
@@ -653,7 +740,7 @@ preflight-technologies-inc:
     - user-pilot
     - user-pilot-tie
   label: Preflight Technologies Incorporated
-  url: 'http://www.preflighttech.com/'
+  url: 'http://www.preflighttech.com'
 promo-wizard:
   icons:
     - hat-wizard
@@ -694,10 +781,16 @@ red-river:
     - red-river
   label: red river
   url: 'https://river.red'
+rep-toolkit:
+  icons:
+    - mouse-field
+  label: Rep Toolkit LLC
+  url: 'https://www.reptoolkit.com'
 replyd:
   icons:
     - replyd
   label: replyd
+  url: null
 resolving:
   icons:
     - resolving
@@ -766,6 +859,7 @@ rodney-oliver:
     - folder-minus
     - folder-plus
   label: Rodney Oliver
+  url: null
 schlix:
   icons:
     - schlix
@@ -791,6 +885,7 @@ shawn-storie:
     - teeth
     - teeth-open
   label: Shawn Storie
+  url: null
 shopware:
   icons:
     - shopware
@@ -847,7 +942,6 @@ stay-linked:
     - conveyor-belt
     - conveyor-belt-boxes
     - dolly
-    - dolly-empty
     - forklift
     - hand-holding-box
     - hands-holding-diamond
@@ -871,6 +965,11 @@ sticker-mule:
     - sticker-mule
   label: Sticker Mule
   url: 'https://stickermule.com'
+stubber:
+  icons:
+    - stubber
+  label: Stubber
+  url: 'https://www.stubber.com'
 studio-vinari:
   icons:
     - studiovinari
@@ -937,7 +1036,6 @@ the-us-sunnah-foundation:
     - handshake
     - handshake-angle
     - handshake-simple
-    - heart
     - house-heart
     - leaf
     - leaf-heart
@@ -958,7 +1056,7 @@ think-peaks:
   icons:
     - think-peaks
   label: Think Peaks
-  url: 'https://thinkpeaks.com/'
+  url: 'https://thinkpeaks.com'
 typo3:
   icons:
     - typo3
@@ -1018,7 +1116,7 @@ un-ocha:
     - car-on
     - car-tunnel
     - chart-simple
-    - child-rifle
+    - child-combatant
     - children
     - circle-nodes
     - clipboard-question
@@ -1057,7 +1155,6 @@ un-ocha:
     - house-flood-water
     - house-flood-water-circle-arrow-right
     - house-lock
-    - house-medical
     - house-medical-circle-check
     - house-medical-circle-exclamation
     - house-medical-circle-xmark
@@ -1156,11 +1253,10 @@ un-ocha:
     - shield-dog
     - shield-heart
     - shop-lock
-    - skull-crossbones
     - square-nfi
     - square-person-confined
     - square-virus
-    - staff-aesculapius
+    - staff-snake
     - sun-plant-wilt
     - tarp
     - tarp-droplet
@@ -1200,11 +1296,21 @@ uncharted:
     - uncharted
   label: Uncharted Software
   url: 'https://uncharted.software'
+undeco-cora:
+  icons:
+    - music-magnifying-glass
+  label: Undeco & Cora Music
+  url: 'https://undeco.se'
 uniregistry:
   icons:
     - uniregistry
   label: Uniregistry
   url: 'https://uniregistry.com'
+unsharpen:
+  icons:
+    - pencil-mechanical
+  label: Unsharpen.com
+  url: 'https://unsharpen.com'
 uptick:
   icons:
     - blanket-fire
@@ -1243,6 +1349,11 @@ vaadin:
     - vaadin
   label: Vaadin
   url: 'http://vaadin.com'
+van-raam:
+  icons:
+    - tricycle-adult
+  label: Van Raam
+  url: 'https://www.vanraam.com'
 via:
   icons:
     - car-burst
@@ -1261,6 +1372,7 @@ victor-costan:
   icons:
     - otter
   label: Staphany Park and Victor Costan
+  url: null
 vnv:
   icons:
     - vnv
@@ -1291,7 +1403,7 @@ wirsindhandwerk:
   icons:
     - wirsindhandwerk
   label: wirsindhandwerk.de
-  url: 'https://www.wirsindhandwerk.de/'
+  url: 'https://www.wirsindhandwerk.de'
 wodu:
   icons:
     - wodu
@@ -1307,3 +1419,8 @@ wpressr:
     - wpressr
   label: wpressr
   url: 'https://wpressr.com'
+zulu-alpha-kilo:
+  icons:
+    - billboard
+  label: Zulu Alpha Kilo
+  url: 'https://www.zulualphakilo.com'

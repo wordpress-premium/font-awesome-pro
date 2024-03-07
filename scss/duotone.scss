@@ -1,13 +1,14 @@
 /*!
- * Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com
+ * Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license (Commercial License)
- * Copyright 2022 Fonticons, Inc.
+ * Copyright 2023 Fonticons, Inc.
  */
 @import 'functions';
 @import 'variables';
 
 :root, :host {
-  --#{$fa-css-prefix}-font-duotone: normal 900 1em/1 "Font Awesome 6 Duotone";
+  --#{$fa-css-prefix}-style-family-duotone: 'Font Awesome 6 Duotone';
+  --#{$fa-css-prefix}-font-duotone: normal 900 1em/1 'Font Awesome 6 Duotone';
 }
 
 @font-face {
@@ -22,7 +23,6 @@
 .fad,
 .#{$fa-css-prefix}-duotone {
   position: relative;
-  font-family: 'Font Awesome 6 Duotone';
   font-weight: 900;
   letter-spacing: normal;
 }
@@ -62,14 +62,4 @@
 .fad.#{$fa-css-prefix}-stack-1x, .fad.#{$fa-css-prefix}-stack-2x,
 .#{$fa-css-prefix}-duotone.#{$fa-css-prefix}-stack-1x, .#{$fa-css-prefix}-duotone.#{$fa-css-prefix}-stack-2x {
   position: absolute;
-}
-
-.fad.#{$fa-css-prefix}-stack-1x::before,
-.#{$fa-css-prefix}-duotone.#{$fa-css-prefix}-stack-1x::before,
-.fad.#{$fa-css-prefix}-stack-2x::before,
-.#{$fa-css-prefix}-duotone.#{$fa-css-prefix}-stack-2x::before,
-.fad.#{$fa-css-prefix}-fw::before,
-.#{$fa-css-prefix}-duotone.#{$fa-css-prefix}-fw::before {
-  left: 50%;
-  transform: translateX(-50%);
 }
