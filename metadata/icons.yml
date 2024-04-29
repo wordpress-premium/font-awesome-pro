@@ -837,6 +837,7 @@ album-collection:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Album Collection
   search:
     terms:
@@ -1534,6 +1535,7 @@ angle-down:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Angle Down
   search:
     terms:
@@ -1853,6 +1855,25 @@ ankh:
     - thin
     - duotone
   unicode: f644
+  voted: false
+ant:
+  changes:
+    - 6.5.2
+  label: Ant
+  search:
+    terms:
+      - ' ant'
+      - ' anthill'
+      - ' insect'
+      - bug
+      - crawl
+  styles:
+    - solid
+    - regular
+    - light
+    - thin
+    - duotone
+  unicode: e680
   voted: false
 apartment:
   changes:
@@ -2285,6 +2306,24 @@ arrow-down-from-arc:
     - duotone
   unicode: e614
   voted: false
+arrow-down-from-bracket:
+  changes:
+    - 6.5.2
+  label: Arrow Down From Bracket
+  search:
+    terms:
+      - ' exit'
+      - ' share'
+      - ' transfer'
+      - download
+  styles:
+    - solid
+    - regular
+    - light
+    - thin
+    - duotone
+  unicode: e667
+  voted: false
 arrow-down-from-dotted-line:
   changes:
     - 6.0.0-beta1
@@ -2322,6 +2361,7 @@ arrow-down-from-line:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Arrow Down From Line
   search:
     terms:
@@ -2550,6 +2590,7 @@ arrow-down-to-bracket:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Arrow Down To Bracket
   search:
     terms:
@@ -2602,6 +2643,7 @@ arrow-down-to-line:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Arrow Down To Line
   search:
     terms:
@@ -2832,6 +2874,24 @@ arrow-left-from-arc:
     - duotone
   unicode: e615
   voted: false
+arrow-left-from-bracket:
+  changes:
+    - 6.5.2
+  label: Arrow Left From Bracket
+  search:
+    terms:
+      - ' leave'
+      - ' logout'
+      - ' send'
+      - exit
+  styles:
+    - solid
+    - regular
+    - light
+    - thin
+    - duotone
+  unicode: e668
+  voted: false
 arrow-left-from-line:
   aliases:
     names:
@@ -2848,6 +2908,7 @@ arrow-left-from-line:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Arrow Left From Line
   search:
     terms:
@@ -2934,6 +2995,23 @@ arrow-left-to-arc:
     - duotone
   unicode: e616
   voted: false
+arrow-left-to-bracket:
+  changes:
+    - 6.5.2
+  label: Arrow Left To Bracket
+  search:
+    terms:
+      - ' exit'
+      - ' login'
+      - enter
+  styles:
+    - solid
+    - regular
+    - light
+    - thin
+    - duotone
+  unicode: e669
+  voted: false
 arrow-left-to-line:
   aliases:
     names:
@@ -2950,6 +3028,7 @@ arrow-left-to-line:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Arrow Left To Line
   search:
     terms:
@@ -3121,6 +3200,7 @@ arrow-right-from-bracket:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Arrow Right From Bracket
   search:
     terms:
@@ -3153,6 +3233,7 @@ arrow-right-from-line:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Arrow Right From Line
   search:
     terms:
@@ -3259,6 +3340,7 @@ arrow-right-to-bracket:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Arrow Right To Bracket
   search:
     terms:
@@ -3321,6 +3403,7 @@ arrow-right-to-line:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Arrow Right To Line
   search:
     terms:
@@ -3847,6 +3930,7 @@ arrow-up-from-bracket:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Arrow Up From Bracket
   search:
     terms:
@@ -3923,6 +4007,7 @@ arrow-up-from-line:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Arrow Up From Line
   search:
     terms:
@@ -4266,6 +4351,24 @@ arrow-up-to-arc:
     - duotone
   unicode: e617
   voted: false
+arrow-up-to-bracket:
+  changes:
+    - 6.5.2
+  label: Arrow Up To Bracket
+  search:
+    terms:
+      - ' enter'
+      - ' share'
+      - ' transfer'
+      - upload
+  styles:
+    - solid
+    - regular
+    - light
+    - thin
+    - duotone
+  unicode: e66a
+  voted: false
 arrow-up-to-dotted-line:
   changes:
     - 6.0.0-beta1
@@ -4302,6 +4405,7 @@ arrow-up-to-line:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Arrow Up To Line
   search:
     terms:
@@ -5598,6 +5702,7 @@ baby-carriage:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Baby Carriage
   search:
     terms:
@@ -8657,6 +8762,7 @@ blanket-fire:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Blanket Fire
   search:
     terms:
@@ -8867,6 +8973,7 @@ block-brick-fire:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Block Brick Fire
   search:
     terms:
@@ -9004,6 +9111,16 @@ blueberries:
     - thin
     - duotone
   unicode: e2e8
+  voted: false
+bluesky:
+  changes:
+    - 6.5.2
+  label: Bluesky
+  search:
+    terms: []
+  styles:
+    - brands
+  unicode: e671
   voted: false
 bluetooth:
   aliases:
@@ -10645,6 +10762,26 @@ bots:
     - brands
   unicode: e340
   voted: false
+bottle-baby:
+  changes:
+    - 6.5.2
+  label: Bottle Baby
+  search:
+    terms:
+      - ' baby'
+      - ' bottle'
+      - ' formula'
+      - ' infant'
+      - ' nursing'
+      - nurse
+  styles:
+    - solid
+    - regular
+    - light
+    - thin
+    - duotone
+  unicode: e673
+  voted: false
 bottle-droplet:
   changes:
     - 6.1.0
@@ -10675,6 +10812,7 @@ bottle-water:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Bottle Water
   search:
     terms:
@@ -13928,6 +14066,24 @@ cactus:
     - duotone
   unicode: f8a7
   voted: false
+caduceus:
+  changes:
+    - 6.5.2
+  label: Caduceus
+  search:
+    terms:
+      - ' fast'
+      - ' mercury'
+      - ' messenger'
+      - hermes
+  styles:
+    - solid
+    - regular
+    - light
+    - thin
+    - duotone
+  unicode: e681
+  voted: false
 cake-candles:
   aliases:
     names:
@@ -14557,6 +14713,7 @@ calendar-lines:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Calendar Lines
   search:
     terms:
@@ -15321,6 +15478,7 @@ campfire:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Campfire
   search:
     terms:
@@ -18055,6 +18213,7 @@ chart-line-up-down:
   changes:
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Chart Line Up Down
   search:
     terms:
@@ -18724,6 +18883,7 @@ cheese:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Cheese
   search:
     terms:
@@ -18757,6 +18917,7 @@ cheese-swiss:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Cheese Swiss
   search:
     terms:
@@ -21247,6 +21408,24 @@ circle-g:
     - duotone
   unicode: e10f
   voted: false
+circle-gf:
+  changes:
+    - 6.5.2
+  label: Circle Gf
+  search:
+    terms:
+      - ' gluten free'
+      - ' restaurant'
+      - celiac
+      - gluten
+  styles:
+    - solid
+    - regular
+    - light
+    - thin
+    - duotone
+  unicode: e67f
+  voted: false
 circle-h:
   aliases:
     names:
@@ -22709,6 +22888,53 @@ circle-waveform-lines:
     - thin
     - duotone
   unicode: e12d
+  voted: false
+circle-wifi:
+  changes:
+    - 6.5.2
+  label: Circle Wifi
+  search:
+    terms:
+      - ' connection'
+      - ' hotspot'
+      - ' internet'
+      - ' network'
+      - ' wireless'
+      - signal
+      - www
+  styles:
+    - solid
+    - regular
+    - light
+    - thin
+    - duotone
+  unicode: e67d
+  voted: false
+circle-wifi-circle-wifi:
+  aliases:
+    names:
+      - circle-wifi-group
+  changes:
+    - 6.5.2
+  label: Circle Wifi Circle Wifi
+  search:
+    terms:
+      - '  connection'
+      - '  hotspot'
+      - '  internet'
+      - '  network'
+      - '  wireless'
+      - ' group'
+      - ' pair'
+      - ' www'
+      - signal
+  styles:
+    - solid
+    - regular
+    - light
+    - thin
+    - duotone
+  unicode: e67e
   voted: false
 circle-x:
   changes:
@@ -29010,6 +29236,7 @@ cup-togo:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Cup Togo
   search:
     terms:
@@ -31595,6 +31822,24 @@ down:
     - duotone
   unicode: f354
   voted: false
+down-from-bracket:
+  changes:
+    - 6.5.2
+  label: Down From Bracket
+  search:
+    terms:
+      - '  share'
+      - '  transfer'
+      - ' download'
+      - ' exit'
+  styles:
+    - solid
+    - regular
+    - light
+    - thin
+    - duotone
+  unicode: e66b
+  voted: false
 down-from-dotted-line:
   changes:
     - 6.0.0-beta2
@@ -31631,6 +31876,7 @@ down-from-line:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Down From Line
   search:
     terms:
@@ -31760,6 +32006,7 @@ down-to-bracket:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Down To Bracket
   search:
     terms:
@@ -31813,6 +32060,7 @@ down-to-line:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Down To Line
   search:
     terms:
@@ -32541,6 +32789,7 @@ dumpster-fire:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Dumpster Fire
   search:
     terms:
@@ -34083,6 +34332,7 @@ expand:
       - ' resize'
       - ' size'
       - expand
+      - viewfinder
   styles:
     - solid
     - regular
@@ -34116,6 +34366,7 @@ expand-wide:
       - ' resize'
       - ' size'
       - expand
+      - viewfinder
   styles:
     - solid
     - regular
@@ -35934,6 +36185,7 @@ face-kiss:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Face Kiss
   search:
     terms:
@@ -35971,6 +36223,7 @@ face-kiss-beam:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Face Kiss Beam
   search:
     terms:
@@ -35999,6 +36252,7 @@ face-kiss-closed-eyes:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Face Kiss Closed Eyes
   search:
     terms:
@@ -36036,6 +36290,7 @@ face-kiss-wink-heart:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Face Kiss Wink Heart
   search:
     terms:
@@ -38122,6 +38377,7 @@ fax:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Fax
   search:
     terms:
@@ -38509,6 +38765,25 @@ file-binary:
     - thin
     - duotone
   unicode: e175
+  voted: false
+file-cad:
+  changes:
+    - 6.5.2
+  label: File Cad
+  search:
+    terms:
+      - ' 3d'
+      - ' document'
+      - ' drafting'
+      - ' vector'
+      - file
+  styles:
+    - solid
+    - regular
+    - light
+    - thin
+    - duotone
+  unicode: e672
   voted: false
 file-certificate:
   aliases:
@@ -40610,6 +40885,7 @@ fire-burner:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Fire Burner
   search:
     terms:
@@ -42477,6 +42753,7 @@ font-awesome:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Font Awesome
   search:
     terms:
@@ -45707,6 +45984,7 @@ grill-fire:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Grill Fire
   search:
     terms:
@@ -53592,6 +53870,7 @@ jug:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Jug
   search:
     terms:
@@ -53650,6 +53929,16 @@ jug-detergent:
     - thin
     - duotone
   unicode: e519
+  voted: false
+jxl:
+  changes:
+    - 6.5.2
+  label: Jxl
+  search:
+    terms: []
+  styles:
+    - brands
+  unicode: e67b
   voted: false
 k:
   aliases:
@@ -54075,8 +54364,12 @@ khanda:
   unicode: f66d
   voted: false
 kickstarter:
+  aliases:
+    names:
+      - square-kickstarter
   changes:
     - 5.0.0
+    - 6.5.2
   label: Kickstarter
   search:
     terms: []
@@ -54087,6 +54380,7 @@ kickstarter:
 kickstarter-k:
   changes:
     - 5.0.0
+    - 6.5.2
   label: Kickstarter K
   search:
     terms: []
@@ -55351,6 +55645,24 @@ left:
     - duotone
   unicode: f355
   voted: false
+left-from-bracket:
+  changes:
+    - 6.5.2
+  label: Left From Bracket
+  search:
+    terms:
+      - ' leave'
+      - ' logout'
+      - ' send'
+      - exit
+  styles:
+    - solid
+    - regular
+    - light
+    - thin
+    - duotone
+  unicode: e66c
+  voted: false
 left-from-line:
   aliases:
     names:
@@ -55365,6 +55677,7 @@ left-from-line:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Left From Line
   search:
     terms:
@@ -55462,6 +55775,23 @@ left-right:
     - duotone
   unicode: f337
   voted: false
+left-to-bracket:
+  changes:
+    - 6.5.2
+  label: Left To Bracket
+  search:
+    terms:
+      - '  login'
+      - ' enter'
+      - ' exit'
+  styles:
+    - solid
+    - regular
+    - light
+    - thin
+    - duotone
+  unicode: e66d
+  voted: false
 left-to-line:
   aliases:
     names:
@@ -55476,6 +55806,7 @@ left-to-line:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Left To Line
   search:
     terms:
@@ -56811,6 +57142,7 @@ lobster:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Lobster
   search:
     terms:
@@ -56899,6 +57231,7 @@ location-check:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Location Check
   search:
     terms:
@@ -60828,6 +61161,7 @@ meter-fire:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Meter Fire
   search:
     terms:
@@ -65530,6 +65864,7 @@ panel-fire:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Panel Fire
   search:
     terms:
@@ -69690,6 +70025,7 @@ pie:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Pie
   search:
     terms:
@@ -71736,6 +72072,7 @@ print:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Print
   search:
     terms:
@@ -73460,6 +73797,33 @@ reel:
     - duotone
   unicode: e238
   voted: false
+reflect-both:
+  changes:
+    - 6.5.2
+  label: Reflect Both
+  search:
+    terms:
+      - '   exchange'
+      - '   flip'
+      - '   inverse'
+      - '   invert'
+      - '   negative'
+      - '   reflect'
+      - '  horizontal'
+      - '  swap'
+      - '  tool'
+      - ' edit'
+      - ' mirror'
+      - target
+      - vertical
+  styles:
+    - solid
+    - regular
+    - light
+    - thin
+    - duotone
+  unicode: e66f
+  voted: false
 reflect-horizontal:
   changes:
     - 6.5.0
@@ -73998,6 +74362,7 @@ right-from-bracket:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Right From Bracket
   search:
     terms:
@@ -74029,6 +74394,7 @@ right-from-line:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Right From Line
   search:
     terms:
@@ -74162,6 +74528,7 @@ right-to-bracket:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Right To Bracket
   search:
     terms:
@@ -74197,6 +74564,7 @@ right-to-line:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Right To Line
   search:
     terms:
@@ -77059,6 +77427,7 @@ sensor-fire:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Sensor Fire
   search:
     terms:
@@ -78086,6 +78455,7 @@ shish-kebab:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Shish Kebab
   search:
     terms:
@@ -78395,6 +78765,7 @@ shredder:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Shredder
   search:
     terms:
@@ -81354,6 +81725,7 @@ spray-can:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Spray Can
   search:
     terms:
@@ -81385,6 +81757,7 @@ spray-can-sparkles:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Spray Can Sparkles
   search:
     terms:
@@ -82747,7 +83120,8 @@ square-font-awesome:
     - 5.0.1
     - 6.0.0-beta1
     - 6.1.2
-  label: Font Awesome in Square
+    - 6.5.2
+  label: Square Font Awesome
   search:
     terms: []
   styles:
@@ -82761,9 +83135,15 @@ square-font-awesome-stroke:
   changes:
     - 5.0.0
     - 6.0.0-beta1
-  label: Font Awesome in Square with Stroke Outline
+    - 6.5.2
+  label: Square Font Awesome Stroke
   search:
-    terms: []
+    terms:
+      - ' flag'
+      - ' font'
+      - ' icons'
+      - ' typeface'
+      - awesome
   styles:
     - brands
   unicode: f35c
@@ -84469,6 +84849,16 @@ square-up-right:
     - duotone
   unicode: f360
   voted: false
+square-upwork:
+  changes:
+    - 6.5.2
+  label: Square Upwork
+  search:
+    terms: []
+  styles:
+    - brands
+  unicode: e67c
+  voted: false
 square-user:
   changes:
     - 6.0.0-beta1
@@ -84585,6 +84975,36 @@ square-w:
     - thin
     - duotone
   unicode: e285
+  voted: false
+square-web-awesome:
+  changes:
+    - 6.5.2
+  label: Square Web Awesome
+  search:
+    terms:
+      - '  coding'
+      - '  crown'
+      - '  web'
+      - ' awesome'
+      - ' components'
+  styles:
+    - brands
+  unicode: e683
+  voted: false
+square-web-awesome-stroke:
+  changes:
+    - 6.5.2
+  label: Square Web Awesome Stroke
+  search:
+    terms:
+      - '  coding'
+      - '  crown'
+      - '  web'
+      - ' awesome'
+      - ' components'
+  styles:
+    - brands
+  unicode: e684
   voted: false
 square-whatsapp:
   aliases:
@@ -86775,6 +87195,7 @@ sushi-roll:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Sushi Roll
   search:
     terms:
@@ -87255,10 +87676,12 @@ table-cells:
   label: Table Cells
   search:
     terms:
+      - ' excel'
       - blocks
       - boxes
       - category
       - grid
+      - spreadsheet
       - squares
   styles:
     - solid
@@ -87267,6 +87690,29 @@ table-cells:
     - thin
     - duotone
   unicode: f00a
+  voted: false
+table-cells-column-lock:
+  changes:
+    - 6.5.2
+  label: Table Cells Column Lock
+  search:
+    terms:
+      - ' blocks'
+      - ' boxes'
+      - ' column'
+      - ' excel'
+      - ' grid'
+      - ' lock'
+      - ' squares'
+      - category
+      - spreadsheet
+  styles:
+    - solid
+    - regular
+    - light
+    - thin
+    - duotone
+  unicode: e678
   voted: false
 table-cells-large:
   aliases:
@@ -87287,10 +87733,12 @@ table-cells-large:
   label: Table Cells Large
   search:
     terms:
+      - ' excel'
       - blocks
       - boxes
       - category
       - grid
+      - spreadsheet
       - squares
   styles:
     - solid
@@ -87299,6 +87747,54 @@ table-cells-large:
     - thin
     - duotone
   unicode: f009
+  voted: false
+table-cells-lock:
+  changes:
+    - 6.5.2
+  label: Table Cells Lock
+  search:
+    terms:
+      - '  blocks'
+      - '  boxes'
+      - '  column'
+      - '  grid'
+      - '  lock'
+      - '  squares'
+      - ' category'
+      - ' excel'
+      - ' spreadsheet'
+  styles:
+    - solid
+    - regular
+    - light
+    - thin
+    - duotone
+  unicode: e679
+  voted: false
+table-cells-row-lock:
+  changes:
+    - 6.5.2
+  label: Table Cells Row Lock
+  search:
+    terms:
+      - '  blocks'
+      - '  boxes'
+      - '  column'
+      - '  grid'
+      - '  squares'
+      - ' category'
+      - ' column'
+      - ' excel'
+      - ' lock'
+      - ' lock'
+      - ' spreadsheet'
+  styles:
+    - solid
+    - regular
+    - light
+    - thin
+    - duotone
+  unicode: e67a
   voted: false
 table-columns:
   aliases:
@@ -90394,6 +90890,7 @@ toolbox:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Toolbox
   search:
     terms:
@@ -94411,6 +94908,7 @@ up-from-bracket:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Up From Bracket
   search:
     terms:
@@ -94463,6 +94961,7 @@ up-from-line:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Up From Line
   search:
     terms:
@@ -94620,6 +95119,24 @@ up-right-from-square:
     - duotone
   unicode: f35d
   voted: false
+up-to-bracket:
+  changes:
+    - 6.5.2
+  label: Up To Bracket
+  search:
+    terms:
+      - '  share'
+      - '  transfer'
+      - ' enter'
+      - ' upload'
+  styles:
+    - solid
+    - regular
+    - light
+    - thin
+    - duotone
+  unicode: e66e
+  voted: false
 up-to-dotted-line:
   changes:
     - 6.0.0-beta2
@@ -94657,6 +95174,7 @@ up-to-line:
     - 6.3.0
     - 6.4.0
     - 6.5.0
+    - 6.5.2
   label: Up To Line
   search:
     terms:
@@ -94717,6 +95235,7 @@ ups:
 upwork:
   changes:
     - 6.5.0
+    - 6.5.2
   label: Upwork
   search:
     terms: []
@@ -99044,6 +99563,26 @@ waze:
     - brands
   unicode: f83f
   voted: false
+web-awesome:
+  changes:
+    - 6.5.2
+  label: Web Awesome
+  search:
+    terms:
+      - ' coding'
+      - ' components'
+      - ' crown'
+      - ' web'
+      - awesome
+  styles:
+    - solid
+    - regular
+    - light
+    - thin
+    - duotone
+    - brands
+  unicode: e682
+  voted: false
 webflow:
   changes:
     - 6.5.0
@@ -99539,6 +100078,7 @@ wifi:
       - hotspot
       - internet
       - network
+      - signal
       - wireless
       - www
   styles:
@@ -99598,6 +100138,7 @@ wifi-fair:
       - hotspot
       - internet
       - network
+      - signal
       - wireless
       - www
   styles:
@@ -99632,6 +100173,7 @@ wifi-slash:
       - hotspot
       - internet
       - network
+      - signal
       - unavailable
       - wireless
       - www
@@ -99666,6 +100208,7 @@ wifi-weak:
       - hotspot
       - internet
       - network
+      - signal
       - weak
       - wireless
       - www

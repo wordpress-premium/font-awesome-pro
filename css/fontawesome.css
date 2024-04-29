@@ -1,7 +1,7 @@
 /*!
- * Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com
+ * Font Awesome Pro 6.5.2 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license (Commercial License)
- * Copyright 2023 Fonticons, Inc.
+ * Copyright 2024 Fonticons, Inc.
  */
 .fa {
   font-family: var(--fa-style-family, "Font Awesome 6 Pro");
@@ -494,8 +494,8 @@
           transform: scale(-1, -1); }
 
 .fa-rotate-by {
-  -webkit-transform: rotate(var(--fa-rotate-angle, none));
-          transform: rotate(var(--fa-rotate-angle, none)); }
+  -webkit-transform: rotate(var(--fa-rotate-angle, 0));
+          transform: rotate(var(--fa-rotate-angle, 0)); }
 
 .fa-stack {
   display: inline-block;
@@ -1469,6 +1469,9 @@ readers do not read off random characters that represent icons */
 
 .fa-trash-clock::before {
   content: "\e2b0"; }
+
+.fa-reflect-both::before {
+  content: "\e66f"; }
 
 .fa-gavel::before {
   content: "\f0e3"; }
@@ -3042,6 +3045,9 @@ readers do not read off random characters that represent icons */
 .fa-trash-plus::before {
   content: "\e2b2"; }
 
+.fa-file-cad::before {
+  content: "\e672"; }
+
 .fa-objects-align-top::before {
   content: "\e3c0"; }
 
@@ -3209,6 +3215,9 @@ readers do not read off random characters that represent icons */
 
 .fa-key::before {
   content: "\f084"; }
+
+.fa-arrow-left-to-bracket::before {
+  content: "\e669"; }
 
 .fa-hat-santa::before {
   content: "\f7a7"; }
@@ -3543,6 +3552,9 @@ readers do not read off random characters that represent icons */
 .fa-diagram-venn::before {
   content: "\e15a"; }
 
+.fa-arrow-down-from-bracket::before {
+  content: "\e667"; }
+
 .fa-x-ray::before {
   content: "\f497"; }
 
@@ -3794,6 +3806,9 @@ readers do not read off random characters that represent icons */
 
 .fa-file-prescription::before {
   content: "\f572"; }
+
+.fa-table-cells-lock::before {
+  content: "\e679"; }
 
 .fa-calendar-range::before {
   content: "\e0d6"; }
@@ -4163,6 +4178,9 @@ readers do not read off random characters that represent icons */
 
 .fa-square-o::before {
   content: "\e278"; }
+
+.fa-caduceus::before {
+  content: "\e681"; }
 
 .fa-signature::before {
   content: "\f5b7"; }
@@ -4716,6 +4734,9 @@ readers do not read off random characters that represent icons */
 .fa-phone-rotary::before {
   content: "\f8d3"; }
 
+.fa-arrow-up-to-bracket::before {
+  content: "\e66a"; }
+
 .fa-compass-drafting::before {
   content: "\f568"; }
 
@@ -4847,6 +4868,9 @@ readers do not read off random characters that represent icons */
 
 .fa-user-tie::before {
   content: "\f508"; }
+
+.fa-up-to-bracket::before {
+  content: "\e66e"; }
 
 .fa-arrow-down-long::before {
   content: "\f175"; }
@@ -5534,6 +5558,9 @@ readers do not read off random characters that represent icons */
 
 .fa-calendar-lines-pen::before {
   content: "\e472"; }
+
+.fa-table-cells-column-lock::before {
+  content: "\e678"; }
 
 .fa-church::before {
   content: "\f51d"; }
@@ -6390,6 +6417,9 @@ readers do not read off random characters that represent icons */
 .fa-circle::before {
   content: "\f111"; }
 
+.fa-left-to-bracket::before {
+  content: "\e66d"; }
+
 .fa-cart-circle-exclamation::before {
   content: "\e3f2"; }
 
@@ -7098,6 +7128,9 @@ readers do not read off random characters that represent icons */
 .fa-mars-double::before {
   content: "\f227"; }
 
+.fa-left-from-bracket::before {
+  content: "\e66c"; }
+
 .fa-house-person-leave::before {
   content: "\e00f"; }
 
@@ -7476,6 +7509,9 @@ readers do not read off random characters that represent icons */
 .fa-ruler::before {
   content: "\f545"; }
 
+.fa-arrow-left-from-bracket::before {
+  content: "\e668"; }
+
 .fa-cup-straw-swoosh::before {
   content: "\e364"; }
 
@@ -7836,6 +7872,9 @@ readers do not read off random characters that represent icons */
 .fa-litecoin-sign::before {
   content: "\e1d3"; }
 
+.fa-bottle-baby::before {
+  content: "\e673"; }
+
 .fa-circle-small::before {
   content: "\e122"; }
 
@@ -7844,6 +7883,12 @@ readers do not read off random characters that represent icons */
 
 .fa-arrow-turn-down-left::before {
   content: "\e2e1"; }
+
+.fa-circle-wifi-circle-wifi::before {
+  content: "\e67e"; }
+
+.fa-circle-wifi-group::before {
+  content: "\e67e"; }
 
 .fa-circle-nodes::before {
   content: "\e4e2"; }
@@ -10080,6 +10125,9 @@ readers do not read off random characters that represent icons */
 .fa-notebook::before {
   content: "\e201"; }
 
+.fa-circle-wifi::before {
+  content: "\e67d"; }
+
 .fa-droplet::before {
   content: "\f043"; }
 
@@ -10379,6 +10427,9 @@ readers do not read off random characters that represent icons */
 
 .fa-burger-lettuce::before {
   content: "\e3e3"; }
+
+.fa-table-cells-row-lock::before {
+  content: "\e67a"; }
 
 .fa-rupiah-sign::before {
   content: "\e23d"; }
@@ -11043,6 +11094,9 @@ readers do not read off random characters that represent icons */
 .fa-tractor::before {
   content: "\f722"; }
 
+.fa-down-from-bracket::before {
+  content: "\e66b"; }
+
 .fa-key-skeleton::before {
   content: "\f6f3"; }
 
@@ -11213,6 +11267,9 @@ readers do not read off random characters that represent icons */
 
 .fa-chart-scatter::before {
   content: "\f7ee"; }
+
+.fa-circle-gf::before {
+  content: "\e67f"; }
 
 .fa-display-arrow-down::before {
   content: "\e164"; }
@@ -11693,6 +11750,9 @@ readers do not read off random characters that represent icons */
 
 .fa-line-columns::before {
   content: "\f870"; }
+
+.fa-ant::before {
+  content: "\e680"; }
 
 .fa-arrow-right-to-line::before {
   content: "\f340"; }

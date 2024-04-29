@@ -1,7 +1,7 @@
 /*!
- * Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com
+ * Font Awesome Pro 6.5.2 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license (Commercial License)
- * Copyright 2023 Fonticons, Inc.
+ * Copyright 2024 Fonticons, Inc.
  */
 :root, :host {
   --fa-font-solid: normal 900 1em/1 'Font Awesome 6 Solid';
@@ -562,8 +562,8 @@ svg:not(:root).svg-inline--fa, svg:not(:host).svg-inline--fa {
           transform: scale(-1, -1); }
 
 .fa-rotate-by {
-  -webkit-transform: rotate(var(--fa-rotate-angle, none));
-          transform: rotate(var(--fa-rotate-angle, none)); }
+  -webkit-transform: rotate(var(--fa-rotate-angle, 0));
+          transform: rotate(var(--fa-rotate-angle, 0)); }
 
 .fa-stack {
   display: inline-block;
