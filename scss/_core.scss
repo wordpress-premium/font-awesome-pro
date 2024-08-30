@@ -6,26 +6,28 @@
   font-weight: var(--#{$fa-css-prefix}-style, #{$fa-style});
 }
 
-.#{$fa-css-prefix},
-.#{$fa-css-prefix}-classic,
-.#{$fa-css-prefix}-sharp,
-.fas,
 .#{$fa-css-prefix}-solid,
-.far,
 .#{$fa-css-prefix}-regular,
-.fasr,
-.fal,
-.#{$fa-css-prefix}-light,
-.fasl,
-.fat,
-.#{$fa-css-prefix}-thin,
-.fast,
-.fad,
-.#{$fa-css-prefix}-duotone,
-.fass,
-.#{$fa-css-prefix}-sharp-solid,
+.#{$fa-css-prefix}-brands,
+.fas,
+.far,
 .fab,
-.#{$fa-css-prefix}-brands {
+.fal,
+.fat,
+.fad,
+.fass,
+.fasr,
+.fasl,
+.fast,
+.fasds,
+.#{$fa-css-prefix}-light,
+.#{$fa-css-prefix}-thin,
+.#{$fa-css-prefix}-duotone,
+.#{$fa-css-prefix}-sharp,
+.#{$fa-css-prefix}-sharp-duotone,
+.#{$fa-css-prefix}-sharp-solid,
+.#{$fa-css-prefix}-classic,
+.#{$fa-css-prefix} {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   display: var(--#{$fa-css-prefix}-display, #{$fa-display});
@@ -36,14 +38,14 @@
 }
 
 .fas,
-.#{$fa-css-prefix}-classic,
-.#{$fa-css-prefix}-solid,
 .far,
-.#{$fa-css-prefix}-regular,
 .fal,
-.#{$fa-css-prefix}-light,
 .fat,
-.#{$fa-css-prefix}-thin {
+.#{$fa-css-prefix}-solid,
+.#{$fa-css-prefix}-regular,
+.#{$fa-css-prefix}-light,
+.#{$fa-css-prefix}-thin,
+.#{$fa-css-prefix}-classic {
   font-family: 'Font Awesome 6 Pro';
 }
 
@@ -56,6 +58,15 @@
 .#{$fa-css-prefix}-classic.#{$fa-css-prefix}-duotone,
 .#{$fa-css-prefix}-duotone {
   font-family: 'Font Awesome 6 Duotone';
+}
+
+.fasds,
+.#{$fa-css-prefix}-sharp-duotone {
+  font-family: 'Font Awesome 6 Sharp Duotone';
+}
+.fasds,
+.#{$fa-css-prefix}-sharp-duotone {
+  font-weight: 900;
 }
 
 .fass,

@@ -1,5 +1,5 @@
 /*!
- * Font Awesome Pro 6.5.2 by @fontawesome - https://fontawesome.com
+ * Font Awesome Pro 6.6.0 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license (Commercial License)
  * Copyright 2024 Fonticons, Inc.
  */
@@ -119,6 +119,9 @@
 
 .fa-jxl:before {
   content: "\e67b"; }
+
+.fa-dart-lang:before {
+  content: "\e693"; }
 
 .fa-hire-a-helper:before {
   content: "\f3b0"; }
@@ -1058,6 +1061,9 @@
 
 .fa-twitch:before {
   content: "\f1e8"; }
+
+.fa-flutter:before {
+  content: "\e694"; }
 
 .fa-ravelry:before {
   content: "\f2d9"; }

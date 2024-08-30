@@ -1,5 +1,5 @@
 /*!
- * Font Awesome Pro 6.5.2 by @fontawesome - https://fontawesome.com
+ * Font Awesome Pro 6.6.0 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license (Commercial License)
  * Copyright 2024 Fonticons, Inc.
  */
@@ -1016,6 +1016,9 @@
 .fad.fa-trillium::after, .fa-duotone.fa-trillium::after {
   content: "\e588\e588"; }
 
+.fad.fa-table-cells-unlock::after, .fa-duotone.fa-table-cells-unlock::after {
+  content: "\e692\e692"; }
+
 .fad.fa-music-slash::after, .fa-duotone.fa-music-slash::after {
   content: "\f8d1\f8d1"; }
 
@@ -1594,6 +1597,9 @@
 
 .fad.fa-phone-square-alt::after, .fa-duotone.fa-phone-square-alt::after {
   content: "\f87b\f87b"; }
+
+.fad.fa-user-beard-bolt::after, .fa-duotone.fa-user-beard-bolt::after {
+  content: "\e689\e689"; }
 
 .fad.fa-cart-plus::after, .fa-duotone.fa-cart-plus::after {
   content: "\f217\f217"; }
@@ -3092,6 +3098,9 @@
 .fad.fa-coffin-cross::after, .fa-duotone.fa-coffin-cross::after {
   content: "\e051\e051"; }
 
+.fad.fa-octopus::after, .fa-duotone.fa-octopus::after {
+  content: "\e688\e688"; }
+
 .fad.fa-spell-check::after, .fa-duotone.fa-spell-check::after {
   content: "\f891\f891"; }
 
@@ -3280,6 +3289,12 @@
 
 .fad.fa-passport::after, .fa-duotone.fa-passport::after {
   content: "\f5ab\f5ab"; }
+
+.fad.fa-thumbtack-slash::after, .fa-duotone.fa-thumbtack-slash::after {
+  content: "\e68f\e68f"; }
+
+.fad.fa-thumb-tack-slash::after, .fa-duotone.fa-thumb-tack-slash::after {
+  content: "\e68f\e68f"; }
 
 .fad.fa-inbox-in::after, .fa-duotone.fa-inbox-in::after {
   content: "\f310\f310"; }
@@ -4601,6 +4616,9 @@
 .fad.fa-ufo-beam::after, .fa-duotone.fa-ufo-beam::after {
   content: "\e048\e048"; }
 
+.fad.fa-hydra::after, .fa-duotone.fa-hydra::after {
+  content: "\e686\e686"; }
+
 .fad.fa-circle-caret-up::after, .fa-duotone.fa-circle-caret-up::after {
   content: "\f331\f331"; }
 
@@ -5293,6 +5311,9 @@
 
 .fad.fa-podium::after, .fa-duotone.fa-podium::after {
   content: "\f680\f680"; }
+
+.fad.fa-diamonds-4::after, .fa-duotone.fa-diamonds-4::after {
+  content: "\e68b\e68b"; }
 
 .fad.fa-memo-circle-check::after, .fa-duotone.fa-memo-circle-check::after {
   content: "\e1d9\e1d9"; }
@@ -8549,6 +8570,9 @@
 .fad.fa-pipe-valve::after, .fa-duotone.fa-pipe-valve::after {
   content: "\e439\e439"; }
 
+.fad.fa-lightbulb-message::after, .fa-duotone.fa-lightbulb-message::after {
+  content: "\e687\e687"; }
+
 .fad.fa-arrow-up-from-arc::after, .fa-duotone.fa-arrow-up-from-arc::after {
   content: "\e4b4\e4b4"; }
 
@@ -9065,6 +9089,9 @@
 .fad.fa-oil-well::after, .fa-duotone.fa-oil-well::after {
   content: "\e532\e532"; }
 
+.fad.fa-table-cells-column-unlock::after, .fa-duotone.fa-table-cells-column-unlock::after {
+  content: "\e690\e690"; }
+
 .fad.fa-person-simple::after, .fa-duotone.fa-person-simple::after {
   content: "\e220\e220"; }
 
@@ -9361,6 +9388,9 @@
 
 .fad.fa-toolbox::after, .fa-duotone.fa-toolbox::after {
   content: "\f552\f552"; }
+
+.fad.fa-globe-wifi::after, .fa-duotone.fa-globe-wifi::after {
+  content: "\e685\e685"; }
 
 .fad.fa-envelope-dot::after, .fa-duotone.fa-envelope-dot::after {
   content: "\e16f\e16f"; }
@@ -10096,6 +10126,9 @@
 
 .fad.fa-transporter-2::after, .fa-duotone.fa-transporter-2::after {
   content: "\e044\e044"; }
+
+.fad.fa-user-hoodie::after, .fa-duotone.fa-user-hoodie::after {
+  content: "\e68a\e68a"; }
 
 .fad.fa-hands-holding-diamond::after, .fa-duotone.fa-hands-holding-diamond::after {
   content: "\f47c\f47c"; }
@@ -12631,6 +12664,9 @@
 
 .fad.fa-brain-circuit::after, .fa-duotone.fa-brain-circuit::after {
   content: "\e0c6\e0c6"; }
+
+.fad.fa-table-cells-row-unlock::after, .fa-duotone.fa-table-cells-row-unlock::after {
+  content: "\e691\e691"; }
 
 .fad.fa-user-injured::after, .fa-duotone.fa-user-injured::after {
   content: "\f728\f728"; }

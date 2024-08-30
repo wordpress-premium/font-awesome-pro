@@ -50,6 +50,10 @@
   font-family: 'Font Awesome 6 Sharp';
 }
 
+@mixin fa-family-sharp-duotone() {
+  font-family: 'Font Awesome 6 Sharp Duotone';
+}
+
 // convenience mixins for declaring pseudo-elements by CSS variable,
 // including all style-specific font properties, and both the ::before
 // and ::after elements in the duotone case.
@@ -123,6 +127,14 @@
 @mixin fa-icon-sharp-thin($fa-var) {
   @extend %fa-icon;
   @extend .fa-sharp-thin;
+
+  &::before {
+    content: unquote("\"#{ $fa-var }\"");
+  }
+}
+@mixin fa-icon-sharp-duotone-solid($fa-var) {
+  @extend %fa-icon;
+  @extend .fa-sharp-duotone-solid;
 
   &::before {
     content: unquote("\"#{ $fa-var }\"");

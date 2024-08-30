@@ -50,6 +50,10 @@
   font-family: 'Font Awesome 6 Sharp';
 }
 
+.fa-family-sharp-duotone() {
+  font-family: 'Font Awesome 6 Sharp Duotone';
+}
+
 // convenience mixins for declaring pseudo-elements by CSS variable,
 // including all style-specific font properties, and both the ::before
 // and ::after elements in the duotone case.
@@ -131,6 +135,15 @@
 .fa-icon-sharp-thin(@fa-var) {
   .fa-icon;
   .fa-sharp-thin;
+
+  &::before {
+    content: @fa-var;
+  }
+}
+
+.fa-icon-sharp-duotone-solid(@fa-var) {
+  .fa-icon;
+  .fa-sharp-duotone-solid;
 
   &::before {
     content: @fa-var;
